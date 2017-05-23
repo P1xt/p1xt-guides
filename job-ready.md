@@ -7,11 +7,11 @@ Are you thinking "I'll just finish the frontend certification" and start applyin
 
 **Have no fear** - there IS a FCC certification that will get you much, much closer to your goal. Combine it with just a few other resources and you can get there. The backend certification is the one you want to be aiming for. 
 
-####Finish this list - and you'll walk into interviews with a lot more confidence, and a much better chance of landing that job.
+#### Finish this list - and you'll walk into interviews with a lot more confidence, and a much better chance of landing that job.
 
 
 
-##Read these books, complete these two courses, this certification, and these three projects
+## Read these books, complete these two courses, this certification, and these three projects
 
 
 ----------
@@ -47,11 +47,11 @@ You can't actually pull full length versions of the media to play in your app, j
 
 ----------
 
-###Notes (keep all this in mind as you work down the list):
+### Notes (keep all this in mind as you work down the list):
 
 ----------
 
-###Development Enviroment
+### Development Enviroment
 * Pick your favorite editor, write all your code on your own machine in that editor
 * Save all your code to GitHub
 * Publish all your projects to the web  - using surge.sh, github pages, heroku etc
@@ -60,7 +60,7 @@ You can't actually pull full length versions of the media to play in your app, j
 * Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.
 * Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
 
-###Power up your learning - make every minute count towards making you job ready
+### Power up your learning - make every minute count towards making you job ready
 * When you're working through a book, type out the example code and do all the exercises.
 * When you're working through a course, do all the assignments.
 * When you're building a Project, include a built process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
@@ -71,7 +71,7 @@ Every resource on this list is freely available on the net. And, it was meant, b
 
 This is the "direct route" to your goal. I didn't promise it would be easy though. You'll need to put your big programmer pants on and barrel through even when it gets tough. Keep the goal in mind. Don't go wandering off looking for 12 different extra resources each step of the path, suck it up and stick to the list and keep at each step until you finish it. This is not the "easy path", this is the "work your ass off, keep at it, don't go wandering off to YouTube muttering 'oooh shiny'" path.
 
-####If you get stuck and need to look something up: 
+#### If you get stuck and need to look something up: 
 * Use the official docs.
 * Use MDN
 * Train yourself to write the code, not copy paste it.
@@ -79,26 +79,26 @@ This is the "direct route" to your goal. I didn't promise it would be easy thoug
 * [Shay Howe](http://learn.shayhowe.com/) has a good overview of HTML and CSS if you need more than you got in the CS50 and MEAN stack course to feel comfortable with the projects.
 * If you're at a loss for how to figure out the design for a page you're building, reference [Google's Material Design documentation](https://material.google.com/). Try to become familar with it by the time you finish the list of resources in this post. It will save you from having shoddy looking pages.
 
-####If you get lost. If this is too hard.
+#### If you get lost. If this is too hard.
 * Buck up camper - no one said this was easy - it is WORTH IT though.
 * Figure it out. Ask for someone to point you in the right direction.
 * Don't Quit.
 * Don't Panic!
 
-####If you don't even know where to start with GitHub and/or Surge.sh
-####Using GitHub
+#### If you don't even know where to start with GitHub and/or Surge.sh
+#### Using GitHub
 [thenewboston's Git Tutorials Playlist on YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 [The Git Tutorial on CodeSchool](https://try.github.io/)
 [GitHub site](https://github.com/)
 [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - new link, the old one changed
 
-####Using surge.sh
+#### Using surge.sh
 [YouTube video by Hiếu Sensei walking through the entire process](https://www.youtube.com/watch?v=W10ckhQ1H7c)
 [YouTube video by David Wells that goes into far more detail](https://www.youtube.com/watch?v=LZA8QVLOinE)
 [Very brief article and video showing how to quickly deploy to surge.sh](http://toolsfortheweb.net/hosting/using-surge-for-free-static-site-hosting/)
 [surge.sh site](https://surge.sh/)
 
-####if you're on fire and want more to boost your chances even higher or if you need a "productive break" from the main guide
+#### if you're on fire and want more to boost your chances even higher or if you need a "productive break" from the main guide
 * sign up for https://www.codingame.com - finish every training challenge up through "very hard", for the hard and very hard challenges, you'll likely need to have worked down the main list in this post to the data structures book
 * learn [Sass](http://sass-lang.com/guide)
 * Join one of the Chingu cohorts that @tropicalchancer puts together and actively participate on one or more group projects
@@ -109,7 +109,7 @@ This is the "direct route" to your goal. I didn't promise it would be easy thoug
 * Project: Do one of the FCC projects not listed in this guide.
 * Goal: Contribute one pull request per month to an open source project of your choosing.
 
-####If you're thinking @P1xt, you're nuts, I just want to be a frontend developer, this is too much
+#### If you're thinking @P1xt, you're nuts, I just want to be a frontend developer, this is too much
 * No it's not.
 * This will actually do what the frontend cert alone wont. It will prepare you to do the job of a frontend web developer in today's market. Writing some HTML and CSS isn't all there is to the job. This will prepare you for the rest.
 * Don't quit.
