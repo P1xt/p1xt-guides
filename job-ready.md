@@ -1,9 +1,5 @@
-#Ok, I get it, a ton of campers want the fast track to job ready.
-
-
-----------
-
-Do you want to be job ready (for a junior role) without finishing all three certifications? Want to short-circuit the process and get this done quick without getting laughed out of interviews?
+Are you working through the FreeCodeCamp curriculum and  want to be job ready (for a junior role) without finishing all three certifications? 
+Want to short-circuit the process and get this done quick without getting laughed out of interviews?
 
 Are you thinking "I'll just finish the frontend certification" and start applying?
 
