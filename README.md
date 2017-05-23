@@ -50,3 +50,10 @@ goal: learn how to code video games
 
 [go to the Video Game Programming Guide](./game-programming.md)
 
+## Attribution
+
+* Many of the courses listed closely mimic the list from [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science)
+* Many of the topics selected to augment were inspired by [Google Interview University](https://github.com/jwasham/google-interview-university)
+* Many of the projects were inspired by (or are directly taken from) [Free Code Camp](https://www.freecodecamp.com/) and [The Odin Project](http://www.theodinproject.com/)
+
+Although I took heavy inspiration from many resources when creating these guides, none of it is a cut and paste path from somewhere else. Often, I substituted courses (especially in the case of Coursera) to ensure that the entire course was available for free and required no purchases of any kind. Where possible, I tried to align projects to reinforce prior learning.
