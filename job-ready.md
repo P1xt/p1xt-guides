@@ -1,3 +1,5 @@
+# Get Job ready with 13 projects, 2 courses, and 10 books
+
 Are you working through the FreeCodeCamp curriculum and  want to be job ready (for a junior role) without finishing all three certifications? 
 Want to short-circuit the process and get this done quick without getting laughed out of interviews?
 
@@ -9,12 +11,11 @@ Are you thinking "I'll just finish the frontend certification" and start applyin
 
 Finish this list - and you'll walk into interviews with a lot more confidence, and a much better chance of landing that job.
 
-
+If you have any questions, be sure to check the [FAQ](./faq). In fact, before you even start anything, go read the FAQ. 
+It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Read these books, complete these two courses, this certification, and these three projects
 
-
-----------
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
