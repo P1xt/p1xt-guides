@@ -18,8 +18,8 @@ Goal: confident web developer ready to apply for junior positions
 ## Computer Science and Web Development - comprehensive
 
 Get prepared, over the long haul, to be an established senior level software engineer, capable of 
-architecting solutions for the web (and beyond it) - "not in a rush" plan, with resources to increase 
-the depth of knowledge gained in general computer science topics - 
+architecting solutions for the web (and beyond it) 
+- "not in a rush" plan, with resources to increase the depth of knowledge gained in general computer science topics - 
 
 goal: proficient web developer and software engineer 
 (this option has more of a computer science focus, but also web development)
