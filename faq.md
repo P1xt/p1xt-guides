@@ -23,6 +23,39 @@ You should understand how to use Git and Github, which you can learn using any o
 * Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.
 * Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
 
+## How should I approach the items in the guides?
+
+### Power up your learning - make every minute count 
+* When you're working through a book, type out the example code and do all the exercises.
+* When you're working through a course, do all the assignments.
+* When you're building a Project, include a built process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
+commit messages](http://chris.beams.io/posts/git-commit/) 
+* Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
+
+### For each item you should:
+
+* take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
+* build something - even if it's just a 20 line function that computes something you find interesting
+* if you build something, document it and test it as appropriate
+* do the exercises, build the projects - fully, not some scaled down halfassery
+
+### For four projects of your choosing
+
+* Seek 1-3 other developers to collaborate on the project
+* Coordinate with the team to complete the project
+* Build the project out to a full production quality application
+* Invite others who are not associated with the team to rigorously test the final product.
+* Resolve any legitimate issues found
+
+### Once per month - do two or more of the following:
+
+* Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month
+* Watch [this video](https://www.youtube.com/watch?v=4NIb9l3imAo) and [this video](https://www.youtube.com/watch?v=Eg5-tdAwclo) - on interviewing
+* Read [this](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html) - on crafting a resume
+* Do one lesson from [CUST104: Business Communications](https://learn.saylor.org/course/view.php?id=345)
+* Live stream what you're working on for an hour. Or, lend a hand to someone who needs help by screensharing and walking them through it.
+* Catch up on industry reading on sites like [Joel on Software](https://www.joelonsoftware.com/), [Coding Horror](https://blog.codinghorror.com/), [CSS Tricks](https://css-tricks.com/), [A List Apart](http://alistapart.com/articles), [UX Myths](http://uxmyths.com/), [JavaScript Weekly](http://javascriptweekly.com/)
+
 ## Do you have any hints for success?
 * have git commits every week, most of the days of the week
 * try to get in one of @tropicalchancer's cohorts - be active once you're in
@@ -107,38 +140,6 @@ other host you want, but figuring that out is up to you.
 * code a flash cards application, for jotting quick notes you can use to quiz yourself later
 * hit hackerrank and complete the Project Euler problems
 
-## How should I approach the items in the guides?
-
-### Power up your learning - make every minute count 
-* When you're working through a book, type out the example code and do all the exercises.
-* When you're working through a course, do all the assignments.
-* When you're building a Project, include a built process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
-commit messages](http://chris.beams.io/posts/git-commit/) 
-* Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
-
-### For each item you should:
-
-* take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
-* build something - even if it's just a 20 line function that computes something you find interesting
-* if you build something, document it and test it as appropriate
-* do the exercises, build the projects - fully, not some scaled down halfassery
-
-### For four projects of your choosing
-
-* Seek 1-3 other developers to collaborate on the project
-* Coordinate with the team to complete the project
-* Build the project out to a full production quality application
-* Invite others who are not associated with the team to rigorously test the final product.
-* Resolve any legitimate issues found
-
-### Once per month - do two or more of the following:
-
-* Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month
-* Watch [this video](https://www.youtube.com/watch?v=4NIb9l3imAo) and [this video](https://www.youtube.com/watch?v=Eg5-tdAwclo) - on interviewing
-* Read [this](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html) - on crafting a resume
-* Do one lesson from [CUST104: Business Communications](https://learn.saylor.org/course/view.php?id=345)
-* Live stream what you're working on for an hour. Or, lend a hand to someone who needs help by screensharing and walking them through it.
-* Catch up on industry reading on sites like [Joel on Software](https://www.joelonsoftware.com/), [Coding Horror](https://blog.codinghorror.com/), [CSS Tricks](https://css-tricks.com/), [A List Apart](http://alistapart.com/articles), [UX Myths](http://uxmyths.com/), [JavaScript Weekly](http://javascriptweekly.com/)
 
 ## Are there any additional free resources you'd recommend alongside the materials in the guides?
 

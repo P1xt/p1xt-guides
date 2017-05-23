@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937668c1-34a5-4c8b-8253-14a42d5023ad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cs-wd.md" afterPath="$PROJECT_DIR$/cs-wd.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game-programming.md" afterPath="$PROJECT_DIR$/game-programming.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/job-ready.md" afterPath="$PROJECT_DIR$/job-ready.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wd-cs.md" afterPath="$PROJECT_DIR$/wd-cs.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.md" afterPath="$PROJECT_DIR$/faq.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cs-wd.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cs-wd.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs-wd.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -72,12 +69,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="faq.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="faq.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/faq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <first_editor relative-caret-position="564">
+                <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -119,12 +116,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/faq.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/game-programming.md" />
         <option value="$PROJECT_DIR$/job-ready.md" />
         <option value="$PROJECT_DIR$/wd-cs.md" />
         <option value="$PROJECT_DIR$/cs-wd.md" />
+        <option value="$PROJECT_DIR$/faq.md" />
       </list>
     </option>
   </component>
@@ -305,12 +302,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495571182089</updated>
       <workItem from="1495571183473" duration="96000" />
-      <workItem from="1495571302345" duration="6823000" />
+      <workItem from="1495571302345" duration="7098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6919000" />
+    <option name="totallyTimeSpent" value="7194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="393" y="244" width="1447" height="760" extended-state="0" />
@@ -412,17 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faq.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wd-cs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -439,6 +425,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="40">
             <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="564">
+            <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
