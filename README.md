@@ -54,7 +54,9 @@ important in game development ... while having fun in the process.
 
 [go to the Video Game Programming Guide](./game-programming.md)
 
-## [Frequently Asked Questions - see the FAQ](./faq.md)
+## Frequently Asked Questions
+see the [FAQ](./faq.md)
+
 ## Attribution
 
 * Many of the courses listed closely mimic the list from [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science)
