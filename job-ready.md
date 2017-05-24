@@ -5,9 +5,9 @@ Want to short-circuit the process and get this done quick without getting laughe
 
 Are you thinking "I'll just finish the frontend certification" and start applying?
 
-**You're looking at the wrong certification*- [ ] to get prepared and I'll tell you why. The frontend certification does NOT teach you any of the real world skills that go along with programming that you'll need on the job. It doesn't teach you how to work in an editor on your own machine. It doesn't teach you how to run a build process. It doesn't teach you how to share your code in a git repository. And, it doesn't teach you how to deploy your code to a real server on the net.
+**You're looking at the wrong certification** to get prepared and I'll tell you why. The frontend certification does NOT teach you any of the real world skills that go along with programming that you'll need on the job. It doesn't teach you how to work in an editor on your own machine. It doesn't teach you how to run a build process. It doesn't teach you how to share your code in a git repository. And, it doesn't teach you how to deploy your code to a real server on the net.
 
-**Have no fear*- [ ] - there IS a FCC certification that will get you much, much closer to your goal. Combine it with just a few other resources and you can get there. The backend certification is the one you want to be aiming for. 
+**Have no fear** there IS a FCC certification that will get you much, much closer to your goal. Combine it with just a few other resources and you can get there. The backend certification is the one you want to be aiming for. 
 
 Finish this list - and you'll walk into interviews with a lot more confidence, and a much better chance of landing that job.
 
