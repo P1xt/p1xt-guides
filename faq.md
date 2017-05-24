@@ -1,11 +1,8 @@
 # Frequently Asked Questions
-
 ## What are the pre-requisites to begin any of the guides?
-
 You should understand how to use Git and Github, which you can learn using any of these free resources:
 
 **Note**: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!
-
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
@@ -14,7 +11,6 @@ You should understand how to use Git and Github, which you can learn using any o
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ## What development environment should I be using?
-
 * Pick your favorite editor, write all your code on your own machine in that editor
 * Save all your code to GitHub
 * Publish all your projects to the web  - using surge.sh, github pages, heroku etc
@@ -24,7 +20,6 @@ You should understand how to use Git and Github, which you can learn using any o
 * Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
 
 ## How should I approach the items in the guides?
-
 ### Power up your learning - make every minute count 
 * When you're working through a book, type out the example code and do all the exercises.
 * When you're working through a course, do all the assignments.
@@ -33,14 +28,12 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 * Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
 
 ### For each item you should:
-
 * take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
 * build something - even if it's just a 20 line function that computes something you find interesting
 * if you build something, document it and test it as appropriate
 * do the exercises, build the projects - fully, not some scaled down halfassery
 
 ### For four projects of your choosing
-
 * Seek 1-3 other developers to collaborate on the project
 * Coordinate with the team to complete the project
 * Build the project out to a full production quality application
@@ -48,7 +41,6 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 * Resolve any legitimate issues found
 
 ### Once per month - do two or more of the following:
-
 * Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month
 * Watch [this video](https://www.youtube.com/watch?v=4NIb9l3imAo) and [this video](https://www.youtube.com/watch?v=Eg5-tdAwclo) - on interviewing
 * Read [this](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html) - on crafting a resume
@@ -63,12 +55,10 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 * spend 30 minutes a day studying math on Khan Academy
 
 ## What should I be studying along side the guides?
-
 There WILL be math. And, it's important. If the thought frightens you, or bores you, or has you thinking 
 "this isn't for me", head to [Khan Academy](https://www.khanacademy.org/) right now, sign up, and start devoting 30 minutes a day. This is an investment that will pay off. I'm not making this up.
 
 ## Should I work through a guide in order?
-
 Yes. Skip nothing, even if you think you already know it.
 If you need to "double up" for variety, do no more than two items from the guide
 simultaneously and don't add a third until you finish one of the two. 
@@ -77,13 +67,11 @@ end up "accidentally on purpose" skipping early foundational material because it
 "just for now" which eventually morphed to "forever".
 
 ## How long will this take me?
-
 I don't know? How lazy are you? How much time are you devoting to it?
 How often do you plan to decide "this is too hard" and waste a month or more
 surfing YouTube for an easier option?
 
 ## I'm stuck, what should I do?
-
 * Use the official docs.
 * Use MDN
 * Train yourself to write the code, not copy paste it.
@@ -98,7 +86,6 @@ surfing YouTube for an easier option?
 * Don't Panic!
 
 ## How do I deploy a frontend project
-
 Here are some resources to help you learn how to use surge.sh, you could also use GitHub Pages or any
 other host you want, but figuring that out is up to you.
 
@@ -108,7 +95,6 @@ other host you want, but figuring that out is up to you.
 - [surge.sh site](https://surge.sh/)
 
 ## What sites should I have bookmarked and reference frequently?
-
 * [surge.sh](https://surge.sh/) - deploy your frontend projects here (or use github pages)
 * [MDN](https://developer.mozilla.org/en-US/) - look HTML, CSS, and JavaScript stuff up here
 * [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glich)
@@ -119,7 +105,6 @@ other host you want, but figuring that out is up to you.
 * [Wirify](https://www.wirify.com/) - for quickly turning a web page into a wireframe so you can see the big picture instead of all the graphics
 
 ## I need some extra stuff to do on the side for more practice. Have any ideas?
-
 * sign up for https://www.codingame.com - finish every training challenge up through "very hard", for the hard and very hard challenges, you'll likely need to have worked down the main list in this post to the data structures book
 * learn [Sass](http://sass-lang.com/guide)
 * Join one of the Chingu cohorts that @tropicalchancer puts together and actively participate on one or more group projects
@@ -131,7 +116,6 @@ other host you want, but figuring that out is up to you.
 * Goal: Contribute one pull request per month to an open source project of your choosing.
 
 ## I really want some more advanced stuff for practice. Have any ideas?
-
 * pick a pet web development project you can code in a week and complete it
 * code an android application
 * learn golang or rust and complete any of the backend projects from FCC with that language as the backend language
@@ -142,5 +126,4 @@ other host you want, but figuring that out is up to you.
 
 
 ## Are there any additional free resources you'd recommend alongside the materials in the guides?
-
 [OpenStax](https://openstax.org/subjects) - Open Source textbooks on a variety of University level topics, check here if you want a reference math or physics textbook
