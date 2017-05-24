@@ -3,6 +3,7 @@
 
 I list a lot of games to clone in this list. I do not mean make the exact same game down to the assets and name and everything. I mean make a game that uses the same mechanics. **Don't get yourself sued for copyright violation.**
 There are references at the bottom of this list to answer some common questions relevent only to this guide (and thus not present in the [FAQ](./faq.md) which contains a pleathora of information pertinent to not only this guide, but the others as well.)
+
 ## Tier 0 - Beginner "taste" of Game Programming - JavaScript based
 
 ### Get familiar with JavaScript (Feel free to skip this and come back and "unskip it" if at any point you feel daunted by what comes later)
