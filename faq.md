@@ -54,7 +54,7 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 * try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
 * spend 30 minutes a day studying math on Khan Academy
 
-## What should I be studying along side the guides?
+## What should I be studying alongside the guides?
 There WILL be math. And, it's important. If the thought frightens you, or bores you, or has you thinking 
 "this isn't for me", head to [Khan Academy](https://www.khanacademy.org/) right now, sign up, and start devoting 30 minutes a day. This is an investment that will pay off. I'm not making this up.
 
