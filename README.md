@@ -19,7 +19,10 @@ reasonably prepared to be successful.
 
 Get prepared, over the long haul, to be an established senior level software engineer, capable of 
 architecting solutions for the web (and beyond it) 
-- "not in a rush" plan, with resources to increase the depth of knowledge gained in general computer science topics - 
+
+_"not in a rush" plan, with resources to increase the depth of knowledge gained in general computer science topics plus
+sufficient implementation practice to confidently enter the industry as a Web Developer or a Software Engineer in 
+non Web related positions_
 
 **Goal:** proficient web developer and software engineer 
 (this option has more of a computer science focus, but also web development)
@@ -31,8 +34,9 @@ architecting solutions for the web (and beyond it)
 
 Get prepared, over the long haul, to be an established senior level web developer, at the level where 
 companies would be lucky to have you and people would be following your blog because you're an expert 
-- "not in a rush" plan that focuses on pushing beyond beginner level, and intermediate level, to expert 
-level as a web developer with a reasonable foundation in software engineering 
+
+_"not in a rush" plan that focuses on pushing beyond beginner level, and intermediate level, to expert 
+level as a web developer with a reasonable foundation in software engineering_ 
 
 **Goal:** confident web developer ready to apply for non-junior positions
 (this one primarily focuses on web development but includes enough computer science to lay a good foundation)
