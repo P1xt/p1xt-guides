@@ -1,6 +1,6 @@
 # Web Development with Computer Science Foundations - comprehensive
 
-If you have any questions, be sure to check the [FAQ](./faq). In fact, before you even start anything, go read the FAQ. 
+If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ. 
 It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - get started
