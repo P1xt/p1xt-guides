@@ -1,4 +1,6 @@
-# Guides
+# Guides in a variety of domains
+
+Web development, software engineering, games programming, mobile app development ...
 
 
 
