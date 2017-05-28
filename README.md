@@ -1,11 +1,34 @@
-# Guides
+# Guides in a variety of domains
 
-Resources for learners who want to dive deeper on their journey to becoming web developers. 
-There are four guides, the first which outlines the bare minimum to be successful as an 
-entry-level junior web developer, two that dive much more deeply to prepare you for "beyond junior", 
+Web development, software engineering, games programming, mobile app development ...
+
+
+
+# Contents
+
+- [Summary](#summary)
+- [Guides](#guides)
+  - [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
+  - [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
+  - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
+  - [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
+  - [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Attribution](#attribution)
+
+## Summary
+Resources for learners who want to dive deeper on their journey to becoming web developers / software engineers. 
+There are multiple guides, the first outlines the bare minimum to be successful as an 
+entry-level junior web developer, two dive much more deeply to prepare you for "beyond junior", 
 and one that focuses on game development.
 
-## Get Job ready with 13 projects, 2 courses, and 10 books 
+Additional guides added:
+
+Android Development - May, 2017
+
+## Guides
+
+### Get Job ready with 13 projects, 2 courses, and 10 books 
 
 A structured plan of resources and activities for learners who want to beeline to "job ready" and get there 
 reasonably prepared to be successful.
@@ -15,7 +38,7 @@ reasonably prepared to be successful.
 [go to the Job Ready Guide](./job-ready.md)
 
 
-## Computer Science and Web Development - comprehensive
+### Computer Science and Web Development - comprehensive
 
 Get prepared, over the long haul, to be an established senior level software engineer, capable of 
 architecting solutions for the web (and beyond it) 
@@ -30,7 +53,7 @@ non Web related positions_
 [go to the Computer Science and Web Development Guide](./cs-wd.md)
 
 
-## Web Development with Computer Science Foundations - comprehensive
+### Web Development with Computer Science Foundations - comprehensive
 
 Get prepared, over the long haul, to be an established senior level web developer, at the level where 
 companies would be lucky to have you and people would be following your blog because you're an expert 
@@ -45,7 +68,7 @@ level as a web developer with a reasonable foundation in software engineering_
 
 
 
-## Video Game Programming - comprehensive foundations 
+### Video Game Programming - comprehensive foundations 
 
 Develop a variety of games, first in JavaScript, then C++ while learning the computer science principles 
 important in game development ... while having fun in the process.
@@ -54,6 +77,16 @@ important in game development ... while having fun in the process.
 
 [go to the Video Game Programming Guide](./game-programming.md)
 
+
+### Native Android Programming - comprehensive
+
+Learn native Android Programming, including Java at a rigorous level, including the math and computer science topics necessary
+to ensure you're prepared to tackle any Android development task.
+
+**Goal:** Become a proficient and capable Android developer
+
+[go to the Android Programming Guide](./android-native.md)
+
 ## Frequently Asked Questions
 see the [FAQ](./faq.md)
 
@@ -61,6 +94,6 @@ see the [FAQ](./faq.md)
 
 * Many of the courses listed closely mimic the list from [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science)
 * Many of the topics selected to augment were inspired by [Google Interview University](https://github.com/jwasham/google-interview-university)
-* Many of the projects were inspired by (or are directly taken from) [Free Code Camp](https://www.freecodecamp.com/) and [The Odin Project](http://www.theodinproject.com/)
+* Many of the projects were inspired by (or are directly taken from) [Free Code Camp](https://www.freecodecamp.com/), [The Odin Project](http://www.theodinproject.com/) and [Udacity](https://www.udacity.com)
 
 Although I took heavy inspiration from many resources when creating these guides, none of it is a cut and paste path from somewhere else. Often, I substituted courses (especially in the case of Coursera) to ensure that the entire course was available for free and required no purchases of any kind. Where possible, I tried to align projects to reinforce prior learning.
