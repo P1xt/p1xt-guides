@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 In the Capstone project, you will build an app of your own design in two stages. In Stage 1, you will design and plan the app, using a template that we provide in the "Instructions" node. 
 
@@ -36,7 +36,7 @@ You will learn the skills you need to complete this project in these courses:
 If you don't have an app idea of your own, feel free to choose one of these:
 
 * Teleprompter app (we're always on the look-out for a good teleprompter app!)
-*  Fitness app
+* Fitness app
 * Podcast app
 * Travel app
 * <a href="https://docs.google.com/a/knowlabs.com/document/d/106i--s7OS-aiP8Kr1-e9ysqs0AgXkV9_Prg0zEK82Dw/pub?embedded=true" target="_blank">Reddit app</a>
@@ -51,28 +51,17 @@ If you don't have an app idea of your own, feel free to choose one of these:
 * Key Considerations
 * Next Steps: Required Tasks
 5. Download the completed document as a PDF, and save it as: "**Capstone_Stage1.pdf**"
-6. Submit the PDF document in a zip file or from a GitHub repo through the project submission portal.
 
 ## Project Rubric
 
-Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://review.udacity.com/#!/projects/4041218607/rubric" target="_blank">this rubric</a>.
+<a href="https://review.udacity.com/#!/projects/4041218607/rubric" target="_blank">project rubric</a>.
 
 Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
 
-Continue to the next node for submission and evaluation instructions.
-
-## Submission and Evaluation
-
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric in the previous node. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 **Note**:  Please make sure you **clean** your project before creating a zip file or pushing code to a GitHub repository. You can clean your project by following the instructions given in **[this](https://goo.gl/8lgeV5)** link.
 
-If you are using GitHub to host your projects, please make sure the code you want to submit for review is in the **master** branch of your repository.
 
-**IMPORTANT: If you're submitting via a public Github repository, please make sure any external API key that you utilize, has been removed from your code.**  It's highly unsafe (and often breaks the Terms of Service) to include API keys in public repos, so you need to remove yours. You can add a note in a README file where a reviewer should go to insert their API key. Reviewers have been trained to expect this situation.
 
-When you're ready to submit your project, click on Udacity in the navigation bar at the top your screen to return to your Udacity Home. Then, locate and expand the project you'd like to submit. Click on the button to submit your project. You can view the submission process in more detail <a href="https://docs.google.com/document/d/1sfMGTlUxxkcZM6iRXbVZ45vPPZGRD4qEp3ENBGSmZ_o/pub?embedded=true" target="_blank">here</a>.
+**IMPORTANT: If you're working in a public Github repository, please make sure any external API key that you utilize, has been removed from your code.**  It's highly unsafe (and often breaks the Terms of Service) to include API keys in public repos, so you need to remove yours. You can add a note in a README file where a reviewer should go to insert their API key. Reviewers have been trained to expect this situation.
 
-If you have any problems submitting your project, please email us at **android-project@udacity.com**. Due to the high volume of submissions, the turnaround for your project can take **up to a week**.
-
-Each Android ND project will be reviewed against the<a href="http://udacity.github.io/android-nanodegree-guidelines/core.html" target="_blank"> Common Project Requirements</a>, in addition to its project-specific rubric.
