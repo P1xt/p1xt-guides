@@ -30,7 +30,7 @@ A few people suggested making it possible to buy me a coffee as thanks - so plea
 
 <a href='https://ko-fi.com/PIXTCODE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-Do not click that button if you don't want to or can't afford to. I devote time to this project because I want to, in my free time, because I value helping others. Not for donations. The button is just there on a lark because a couple people asked for it and I'm, frankly, curious. Dontations (or lack thereof) will not alter my dedication to this project either way.
+Do not click that button if you don't want to or can't afford to. I devote time to this project because I want to, in my free time, because I value helping others. Not for donations. The button is just there on a lark because a couple people asked for it and I'm, frankly, curious. Donations (or lack thereof) will not alter my dedication to this project either way.
 
 
 ## Guides
