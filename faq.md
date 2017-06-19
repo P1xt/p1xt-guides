@@ -50,7 +50,7 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 
 ## Do you have any hints for success?
 * have git commits every week, most of the days of the week
-* try to get in one of @tropicalchancer's cohorts - be active once you're in
+* try to get in one of [@tropicalchancer's cohorts](https://tropicalchancer.github.io/projectus/) - be active once you're in
 * try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
 * spend 30 minutes a day studying math on Khan Academy
 
