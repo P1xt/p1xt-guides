@@ -15,14 +15,14 @@ publishing something you copied or cloned.
 
 ## Tier 0 - CS / Java Foundations
 - [x ] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
-- [ ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [wip ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
 - [ ] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
 - [ ] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
 - [ ] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 - [ ] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [ ] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
-- [ ] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
+- [wip ] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
 
 ## Tier 1 - Android Fundamentals
 - [ ] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
