@@ -13,8 +13,8 @@ Web development, software engineering, games programming, mobile app development
   - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
   - [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
   - [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
-  - Topic Specific Guides
-    - [REGEX](#regex)
+  - [Topic Specific Guides](#topic-specific-deep-dives)
+    - regex
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Attribution](#attribution)
 
@@ -100,9 +100,7 @@ to ensure you're prepared to tackle any Android development task.
 
 Comprehensive review of narrow topics.
 
-#### Regex
-
-[go to the Regex Guide](./topic-guides/regex.md)
+- [Regex Guide](./topic-guides/regex.md)
 
 ## Frequently Asked Questions
 see the [FAQ](./faq.md)
