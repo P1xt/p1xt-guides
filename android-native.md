@@ -15,7 +15,7 @@ publishing something you copied or cloned.
 
 ## Tier 0 - CS / Java Foundations
 - [x ] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
-- [wip ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [x ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
 - [ ] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
 - [ ] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
