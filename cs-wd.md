@@ -63,7 +63,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)    
 - [ ]  Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [ ]  Project: Complete all ES6 Katas [here](http://es6katas.org/)
-- [ ]  Course: [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0)   
+- [ ]  Course: [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)   
 - [ ]  Project: Complete all challenges from the [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
 - [ ]  Project: Build FaceBook:  yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fullfill.
 - [ ]  Course: [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)   
