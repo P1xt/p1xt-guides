@@ -2,8 +2,7 @@
 
 The following is a deep dive, designed to familiarize you thoroughly with regex for pattern matching.
 
-This guide is currently "in Beta" awaiting a resource for Tier 2 and finalization of
-HackerRank challenges for Tier 4.
+This guide is currently "in Beta" awaiting a resource for Tier 2.
 
 ## Tier 1 - basics
 - [ ]  Tutorial: [RegexOne Interactive Tutorial](https://regexone.com/)  
