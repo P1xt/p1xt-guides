@@ -19,4 +19,4 @@ HackerRank challenges for Tier 4.
 - [ ]  Tutorial: [Regex tutorial for Linux](https://likegeeks.com/regex-tutorial-linux/) 
 
 ## Tier 4 - practice
-- [ ]  Challenge: [Hackerrank REGEX Challenge]() - will create and link once T2 practice application is complete and linked
+- [ ]  Challenge: [Hackerrank REGEX Challenge](https://www.hackerrank.com/chingu-challenge-8-regex)
