@@ -2,8 +2,7 @@
 
 The following is a deep dive, designed to familiarize you thoroughly with regex for pattern matching.
 
-This guide is currently "in Beta" awaiting a resource for Tier 2 and finalization of
-HackerRank challenges for Tier 4.
+This guide is currently "in Beta" awaiting a resource for Tier 2.
 
 ## Tier 1 - basics
 - [ ]  Tutorial: [RegexOne Interactive Tutorial](https://regexone.com/)  
@@ -19,4 +18,4 @@ HackerRank challenges for Tier 4.
 - [ ]  Tutorial: [Regex tutorial for Linux](https://likegeeks.com/regex-tutorial-linux/) 
 
 ## Tier 4 - practice
-- [ ]  Challenge: [Hackerrank REGEX Challenge]() - will create and link once T2 practice application is complete and linked
+- [ ]  Challenge: [Hackerrank REGEX Challenge](https://www.hackerrank.com/chingu-challenge-8-regex)
