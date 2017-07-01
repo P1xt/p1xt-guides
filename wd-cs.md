@@ -4,22 +4,22 @@ If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before
 It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - get started
-- [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
+- [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
+- [x]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
 - [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
-- [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
-- [ ]  Project: Portfolio from the frontend section of FCC  
+- [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
+- [x]  Project: Portfolio from the frontend section of FCC  
 - [ ]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [ ]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
 - [ ]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
 - [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
-- [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
+- [x]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
-- [ ]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects 
+- [x]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects 
 - [ ]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
 - [ ]  Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)    
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
-- [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
+- [x]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
 
