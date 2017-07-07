@@ -14,18 +14,18 @@ publishing something you copied or cloned.
 
 
 ## Tier 0 - CS / Java Foundations
-- [x ] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
-- [x ] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
-- [ x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
-- [wip ] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
+- [x] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
+- [x] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
+- [wip] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
 - [ ] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
 - [ wip] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
-- [wip ] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
+- [wip] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
 
 ## Tier 1 - Android Fundamentals
-- [wip ] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [wip] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [ ] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 - [ ] Project: [Court Counter App](./projects/android/CourtCounter.md)
