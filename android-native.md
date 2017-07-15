@@ -18,10 +18,10 @@ publishing something you copied or cloned.
 - [x] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
 - [wip - Regular Expression: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
-- [ ] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
--[] Tutorial:[JDBC] http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html
--[] Tutorial: [Localization] http://docs.oracle.com/javase/tutorial/i18n/
--[] Tutorial :[DateTime] http://docs.oracle.com/javase/tutorial/datetime/index.html
+- [] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
+-[] Tutorial:[JDBC] (http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
+-[] Tutorial: [Localization] (http://docs.oracle.com/javase/tutorial/i18n/)
+-[] Tutorial :[DateTime] (http://docs.oracle.com/javase/tutorial/datetime/index.html)
 - [ wip] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
