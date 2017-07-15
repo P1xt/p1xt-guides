@@ -17,7 +17,7 @@ publishing something you copied or cloned.
 - [x] Tutorial: [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
 - [x] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
-- [wip - Platform Environment: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
+- [wip - Regular Expression: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
 - [ ] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
 - [ wip] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
