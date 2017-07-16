@@ -25,7 +25,7 @@ publishing something you copied or cloned.
 - [ wip] Course: [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
-- [wip] Book: [Precalculus](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
+- [wip] Book: [Precalculus-TransformationOfFunctions](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
 
 ## Tier 1 - Android Fundamentals
 - [wip] Course: [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
