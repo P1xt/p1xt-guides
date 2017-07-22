@@ -18,7 +18,7 @@ publishing something you copied or cloned.
 - [x] Course: [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
 - [x] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
-- [] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
+- [x] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
 -[] Tutorial: [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
 -[] Tutorial: [Localization](http://docs.oracle.com/javase/tutorial/i18n/)
 -[] Tutorial :[DateTime](http://docs.oracle.com/javase/tutorial/datetime/index.html)
