@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 Welcome back to Popular Movies! In this second and final stage, you’ll add additional functionality to the app you built in Stage 1.
 
 You’ll add more information to your movie details view:
@@ -22,21 +22,21 @@ Lastly, you will take the entire end-to end-user interaction flow, including wha
 
 ![pop-movies-tablet](//lh3.googleusercontent.com/tAclxudKqI9TYmjPBUSBTFxCJhvukWcshhW0IYeOmSkkirh-7R38g0nYw5BHPWbOWoLF6sRNeW6CzKFeVyTE=s0#w=624&h=468)
 
-##What Will I Learn After Stage 2?
+## What Will I Learn After Stage 2?
 * You will build a fully featured application that looks and feels natural on the latest Android operating system (Lollipop, as of May 2015).
 * You will optimize the UI experience for both phones and tablets.
 
-##How Will I Complete this Project?
+## How Will I Complete this Project?
 
-###Supporting Course Materials
+### Supporting Course Materials
 You should have the skills you need to complete this project after completing the Developing Android Apps course, focusing on Lessons 4 and 5.
 
 You are expected to have passed the Popular Movies, Stage 1 project prior to beginning this project.
 
-###Implementation Guide
+### Implementation Guide
 Just like in Stage 1, we've come up with a set of milestones that will help structure your development and ensure that you reach the final product smoothly. These milestones are listed in the <a href="https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true#h.7sxo8jefdfll" target="_blank">Stage 2 Implementation Guide</a>.
 
-##Project Rubric
+## Project Rubric
 Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://review.udacity.com/#!/projects/4324689102/rubric" target="_blank">this rubric</a>.
 
 Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
