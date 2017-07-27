@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 In Stage 1, you designed and planned your Capstone app. Now, it's time to build it!  
 
