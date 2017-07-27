@@ -1,6 +1,6 @@
 Beginning Android Project 1: Your First App
 
-##Project Overview
+## Project Overview
 Design and implement a single screen app that displays information about a small business that you are closely familiar with.
 
 Here are some app ideas to help brainstorm:
@@ -21,14 +21,14 @@ Your design should include:
 Note: Be sure to check with the business for permission to use their name and details before you share your work publicly.
 
 
-##Why this project?
+## Why this project?
 This project is a way for students to demonstrate the concepts they learned in the Developing Android Apps course by building out the design.
 
-##What will students learn?
+## What will students learn?
 Students will learn how to:
 * Use View Groups, Image Views, Text Views, and Button Views to display a screen on an Android application
 
-##How do students complete this project?
+## How do students complete this project?
 1. Complete the <a href="https://www.udacity.com/course/viewer#!/c-ud747-nd/l-6786851376/m-6709789083">Beginning Android Development course</a>.
 2. Students will create an open-ended project following the Project Description and Rubric shown <a href="https://docs.google.com/document/d/1aEHuz4EFmhMSjQi7ER6KnL6LGAf07QzWfqMzegMZPNQ/pub">here</a>.
 3. The project must:
@@ -38,7 +38,7 @@ Students will learn how to:
  * Meet specifications on all required components of the rubric
 
 
-##How Grading Works
+## How Grading Works
 
 We have created a document that gives rubric specific instructions to help grade Developing Android Apps projects. You can access the document here:
 <a href="https://docs.google.com/document/u/0/d/1NXmAgvqN-Bd0e9nk7p_weR015JxuwtcoD0Xa1brSYqc/pub?embedded=true"> Android Apps Grading- Best Practices</a>
