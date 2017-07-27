@@ -34,7 +34,7 @@ The project will be evaluated against the rubric:
 
 The criteria included in this rubric are a subset of the Core App Quality Guidelines that the app would be evaluated against if it were submitted to the Google Play Store. Find the full list of guidelines here: http://developer.android.com/distribute/essentials/quality/core.html
 
-## #How Grading Works 
+### How Grading Works 
  
 We have created a document that gives rubric specific instructions to help you guys grade Developing Android Apps projects.You can access the document here:
 <a href="https://docs.google.com/document/u/0/d/1NXmAgvqN-Bd0e9nk7p_weR015JxuwtcoD0Xa1brSYqc/pub?embedded=true"> Android Apps Grading- Best Practices</a>
