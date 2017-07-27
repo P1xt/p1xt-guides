@@ -1,4 +1,4 @@
-#Project Overview
+# Project Overview
 This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be creating a single file this time - a custom class to represent a report card. 
 
 The goal is to design and create the structure of a ReportCard Class which would allow a school to store a student’s grades for a particular year. This project will be just a java class, rather than a full Android app.
