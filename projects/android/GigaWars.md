@@ -2,7 +2,7 @@
 
 ## Description
 
-## #Project Overview
+### Project Overview
 
 GigaWars is an epic space-combat strategy game where you unleash a fleet of ships to destroy your enemy's base.  The player (human or computer) will decide what ships to send into battle when, managing their resources.  The individual ships will control themselves, however.  In the distant future we no longer need to send soldiers into harms way; we can program the ships to fly themselves!  You will write in-depth logic for several ship types to create glorious computer-controlled space battles.  You will also write logic for computer players to play the game.
 
