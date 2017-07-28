@@ -1,20 +1,20 @@
-#GigaWars
+# GigaWars
 
-##Description
+## Description
 
-###Project Overview
+### Project Overview
 
 GigaWars is an epic space-combat strategy game where you unleash a fleet of ships to destroy your enemy's base.  The player (human or computer) will decide what ships to send into battle when, managing their resources.  The individual ships will control themselves, however.  In the distant future we no longer need to send soldiers into harms way; we can program the ships to fly themselves!  You will write in-depth logic for several ship types to create glorious computer-controlled space battles.  You will also write logic for computer players to play the game.
 
-###Why this project?
+### Why this project?
 
 GigaWars is a chance for you to combine the skills that allowed you to create Space Kerfuffle! with your newfound mastery of game AI.  This project will demonstrate mastery of a variety of game development concepts.  The unique factor that separates video games from other media is their interactivity; their ability to create a dynamic user experience respond intelligently and meaningfully to situations.  AI is the cornerstone of this interactivity.  Imagine the power you will feel watching two fleets of ships duke it out, knowing that every automated maneuver is the result of your careful planning!
 
-###What will I learn?
+### What will I learn?
 
 This project will provide hands-on experience writing the type of AI scripts that you see in video games everywhere.  Programming the ship logic will give you a chance to practice writing logic for active game entities and apply the steering and pathfinding techniques you learned in the course.  Creating the computer agent that decides what ships to deploy when will be an exercise in creating high-level, strategic AI using decision trees, state machines, or whatever other AI techniques you deem appropriate.
 
-##Completion
+## Completion
 
 Follow these steps to complete the project:
 
