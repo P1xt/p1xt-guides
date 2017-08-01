@@ -60,6 +60,7 @@ publishing something you copied or cloned.
 ## Tier 3 - More CS 
 - [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) Complete by the end of Tier 3    
 - [ ] Course: [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+-[ ] Course: [Objected Oriented Design] (https://www.coursera.org/learn/object-oriented-design/)
 - [ ] Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
 - [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
 - [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
