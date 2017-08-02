@@ -9,6 +9,7 @@ You should understand how to use Git and Github, which you can learn using any o
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
 
 ## What development environment should I be using?
 * Pick your favorite editor, write all your code on your own machine in that editor
