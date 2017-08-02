@@ -22,7 +22,7 @@ publishing something you copied or cloned.
 -[] Tutorial: [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
 -[] Tutorial: [Localization](http://docs.oracle.com/javase/tutorial/i18n/)
 -[] Tutorial :[DateTime](http://docs.oracle.com/javase/tutorial/datetime/index.html)
-- [wip] Course: [CS106A - Programming Methodology-Lecture12](https://see.stanford.edu/Course/CS106A)
+- [wip] Course: [CS106A - Programming Methodology-Lecture18](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
 - [wip] Book: [Precalculus-LinearFunctions](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
@@ -60,6 +60,7 @@ publishing something you copied or cloned.
 ## Tier 3 - More CS 
 - [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) Complete by the end of Tier 3    
 - [ ] Course: [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+-[ ] Course: [Objected Oriented Design] (https://www.coursera.org/learn/object-oriented-design/)
 - [ ] Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
 - [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
 - [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
