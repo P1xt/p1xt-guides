@@ -22,7 +22,7 @@ publishing something you copied or cloned.
 -[] Tutorial: [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
 -[] Tutorial: [Localization](http://docs.oracle.com/javase/tutorial/i18n/)
 -[] Tutorial :[DateTime](http://docs.oracle.com/javase/tutorial/datetime/index.html)
-- [wip] Course: [CS106A - Programming Methodology-Lecture18](https://see.stanford.edu/Course/CS106A)
+- [wip] Course: [CS106A - Programming Methodology-Lecture19](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
 - [wip] Book: [Precalculus-LinearFunctions](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
