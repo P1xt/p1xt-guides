@@ -28,7 +28,7 @@ publishing something you copied or cloned.
 - [wip] Book: [Precalculus-LinearFunctions](https://openstax.org/details/books/precalculus) Complete by end of Tier 1.
 
 ## Tier 1 - Android Fundamentals
-- [wip] Course: [Android Basics: User Interface-Building Layouts: Part 2](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [wip] Course: [Android Basics: Practice Set: Building Layouts](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [ ] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 - [ ] Project: [Court Counter App](./projects/android/CourtCounter.md)
