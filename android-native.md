@@ -29,7 +29,7 @@ publishing something you copied or cloned.
 
 ## Tier 1 - Android Fundamentals
 - [X] Course: [Android Basics: Practice Set: Building Layouts](https://www.udacity.com/course/android-basics-user-interface--ud834)
-- [wip] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
+- [X] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
 - [ ] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 - [ ] Project: [Court Counter App](./projects/android/CourtCounter.md)
 - [ ] Project: [Quiz App](./projects/android/QuizApp.md)
