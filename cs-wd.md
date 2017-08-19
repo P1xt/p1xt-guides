@@ -4,7 +4,7 @@ If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before
 It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - getting started
-- [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
+- [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
 - [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
 - [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
