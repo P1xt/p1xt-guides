@@ -32,7 +32,7 @@ publishing something you copied or cloned.
 - [X] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
 - [WIP] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 - [X] Project: [Court Counter App](./projects/android/CourtCounter.md)
-- [ ] Project: [Quiz App](./projects/android/QuizApp.md)
+- [WIP] Project: [Quiz App](./projects/android/QuizApp.md)
 - [ ] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 - [ ] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
 - [ ] Project: [Report Card](./projects/android/ReportCard.md) 
