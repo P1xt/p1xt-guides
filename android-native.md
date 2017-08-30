@@ -19,9 +19,9 @@ publishing something you copied or cloned.
 - [x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
 - [x] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
 - [x] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
--[ ] Tutorial: [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
--[ ] Tutorial: [Localization](http://docs.oracle.com/javase/tutorial/i18n/)
--[ ] Tutorial :[DateTime](http://docs.oracle.com/javase/tutorial/datetime/index.html)
+-[] Tutorial: [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
+-[] Tutorial: [Localization](http://docs.oracle.com/javase/tutorial/i18n/)
+-[] Tutorial :[DateTime](http://docs.oracle.com/javase/tutorial/datetime/index.html)
 - [x] Course: [CS106A - Programming Methodology-Lecture27](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
@@ -30,7 +30,7 @@ publishing something you copied or cloned.
 ## Tier 1 - Android Fundamentals
 - [X] Course: [Android Basics: Practice Set: Building Layouts](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [X] Project: [Build a Single Screen App](./projects/android/YourFirstApp.md)
-- [WIP] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+- [X] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 - [X] Project: [Court Counter App](./projects/android/CourtCounter.md)
 - [WIP] Project: [Quiz App](./projects/android/QuizApp.md)
 - [ ] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
