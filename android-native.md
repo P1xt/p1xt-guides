@@ -33,7 +33,7 @@ publishing something you copied or cloned.
 - [X] Course: [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 - [X] Project: [Court Counter App](./projects/android/CourtCounter.md)
 - [X] Project: [Quiz App](./projects/android/QuizApp.md)
-- [ ] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+- [WIP] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 - [ ] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
 - [ ] Project: [Report Card](./projects/android/ReportCard.md) 
 - [ ] Project: [Tour Guide App](./projects/android/TourGuide.md)
