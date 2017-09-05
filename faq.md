@@ -9,7 +9,7 @@ You should understand how to use Git and Github, which you can learn using any o
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
+- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 
 ## What development environment should I be using?
 * Pick your favorite editor, write all your code on your own machine in that editor
@@ -24,7 +24,7 @@ You should understand how to use Git and Github, which you can learn using any o
 ### Power up your learning - make every minute count 
 * When you're working through a book, type out the example code and do all the exercises.
 * When you're working through a course, do all the assignments.
-* When you're building a Project, include a built process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
+* When you're building a Project, include a build process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
 commit messages](http://chris.beams.io/posts/git-commit/) 
 * Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
 

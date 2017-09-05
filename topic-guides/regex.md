@@ -10,7 +10,7 @@ This guide is currently "in Beta" awaiting a resource for Tier 2.
 - [ ]  Resource: [Regexr](http://regexr.com/) - study all sections of the Reference, paying special attention to "lookaround"   
 
 ## Tier 2 - practice
-- [ ]  Practice: [Resource yet to be determined]() - will be application created by Chingus for practicing regex
+- [ ]  Practice: [Regex Classroom](https://regex-classroom.herokuapp.com/map) - created by the amazing Chingu @ksmai
 
 ## Tier 2 - linux regex magic
 - [ ]  Tutorial: [Using sed](https://likegeeks.com/sed-linux/) 

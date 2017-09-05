@@ -2,7 +2,7 @@
 # Video Game Programming - comprehensive foundations 
 
 I list a lot of games to clone in this list. I do not mean make the exact same game down to the assets and name and everything. I mean make a game that uses the same mechanics. **Don't get yourself sued for copyright violation.**
-There are references at the bottom of this list to answer some common questions relevent only to this guide (and thus not present in the [FAQ](./faq.md) which contains a pleathora of information pertinent to not only this guide, but the others as well.)
+There are references at the bottom of this list to answer some common questions relevant only to this guide (and thus not present in the [FAQ](./faq.md) which contains a plathora of information pertinent to not only this guide, but the others as well.)
 
 ## Tier 0 - Beginner "taste" of Game Programming - JavaScript based
 
@@ -21,7 +21,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Project: Build all assignments in the Games & Visualizations course
 - [ ] Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 - [ ] Project: Build all assignments in the Natural Simulations course
-- [ ] Project: Build a "pet project" game on Khan Academy using all the skills you've leared with processing.js. Make sure it has, at minimum, a "start game" screen, at least one level of a playable game that keeps score, and a "game over" screen.
+- [ ] Project: Build a "pet project" game on Khan Academy using all the skills you've learned with processing.js. Make sure it has, at minimum, a "start game" screen, at least one level of a playable game that keeps score, and a "game over" screen.
 
 ### Learn a smidge of math and algorithms so you can compute things
 - [ ] Book: Precalculus (feel free to skip if you're already doing 30 minutes a day of math on Khan Academy)
@@ -152,7 +152,7 @@ There are references at the bottom of this list to answer some common questions 
 
 Tier 5 involves branching out to target the platforms you're most interested in and developing skills in the relevant technologies. At this point, you have a strong foundation in maths and algorithms, significant practice working with graphics, hands on experience building a variety of games, exposure to AI and Machine learning, exposure to networking and hardware concerns, and should have learned various software engineering practices (design, testing, debugging) so that you're writing quality code.
 
-Now that you've got a really strong foundation, the sky's the limit. Pick the platform you want to develop for, Android, iOS, Windows, Linux, Mac, Web, XBox, Playstation, whatever - and start reading. Start with official docs, read them all. Find blogs dedicated to that platform. Rebuild some of the easiest projects you've done thusfar, targeting that platform.
+Now that you've got a really strong foundation, the sky's the limit. Pick the platform you want to develop for, Android, iOS, Windows, Linux, Mac, Web, XBox, Playstation, whatever - and start reading. Start with official docs, read them all. Find blogs dedicated to that platform. Rebuild some of the easiest projects you've done thus far, targeting that platform.
 
 Use the Force :D
  
