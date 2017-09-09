@@ -9,7 +9,7 @@ You should understand how to use Git and Github, which you can learn using any o
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
+- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 
 ## What development environment should I be using?
 * Pick your favorite editor, write all your code on your own machine in that editor
@@ -27,6 +27,7 @@ You should understand how to use Git and Github, which you can learn using any o
 * When you're building a Project, include a build process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
 commit messages](http://chris.beams.io/posts/git-commit/) 
 * Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
+* As you learn, take the time to discuss what you're learning with others: write blog posts, spend time actively discussing code and concepts with other developers (of varying skill levels), if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one. You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benifit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it. 
 
 ### For each item you should:
 * take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
