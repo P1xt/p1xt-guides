@@ -34,7 +34,7 @@ publishing something you copied or cloned.
 - [X] Project: [Court Counter App](./projects/android/CourtCounter.md)
 - [X] Project: [Quiz App](./projects/android/QuizApp.md)
 - [WIP] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
-- [ ] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
+- [X] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
 - [X] Project: [Report Card](./projects/android/ReportCard.md) 
 - [ ] Project: [Tour Guide App](./projects/android/TourGuide.md)
 - [ ] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
