@@ -19,9 +19,9 @@ publishing something you copied or cloned.
 - [x] Tutorial: [Learning the Java Language](http://docs.oracle.com/javase/tutorial/java/index.html)
 - [x] Tutorial: [Essential Java Classes](http://docs.oracle.com/javase/tutorial/essential/index.html)
 - [x] Tutorial: [Collections](http://docs.oracle.com/javase/tutorial/collections/index.html)
--[] Tutorial: [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
--[] Tutorial: [Localization](http://docs.oracle.com/javase/tutorial/i18n/)
--[] Tutorial :[DateTime](http://docs.oracle.com/javase/tutorial/datetime/index.html)
+-[ ] Tutorial: [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
+-[ ] Tutorial: [Localization](http://docs.oracle.com/javase/tutorial/i18n/)
+-[ ] Tutorial :[DateTime](http://docs.oracle.com/javase/tutorial/datetime/index.html)
 - [x] Course: [CS106A - Programming Methodology-Lecture27](https://see.stanford.edu/Course/CS106A)
 - [x] Bookmark: [Java SE8 API Specification](http://docs.oracle.com/javase/8/docs/api/index.html) - reference this frequently throughout the rest of the guide
 - [x] Bookmark: [Android API Guides](https://developer.android.com/guide/index.html) - reference this frequently throughout the rest of the guide
@@ -36,7 +36,7 @@ publishing something you copied or cloned.
 - [X] Course: [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 - [X] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
 - [X] Project: [Report Card](./projects/android/ReportCard.md) 
-- [ ] Project: [Tour Guide App](./projects/android/TourGuide.md)
+- [WIP] Project: [Tour Guide App](./projects/android/TourGuide.md)
 - [ ] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 - [ ] Project: [Book Listing App](./projects/android/BookListing.md)
 - [ ] Project: [News App](./projects/android/NewsApp.md)
