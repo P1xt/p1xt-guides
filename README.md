@@ -11,6 +11,7 @@ Web development, software engineering, games programming, mobile app development
   - [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
   - [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
+  - [Data Science - comprehensive](#data-science---comprehensive)
   - [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
   - [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
   - [Topic Specific Guides](#topic-specific-deep-dives)
@@ -75,7 +76,14 @@ level as a web developer with a reasonable foundation in software engineering_
 
 [go to the Web Development with Computer Science Foundations Guide](./wd-cs.md)
 
+### Data Science - comprehensive
+Learn the mathematics, science, and programming skills necessary to tackle machine learning, bioinformatics, artificial intelligence and other data science tasks.
 
+_"not in a rush"_ plan that pushes from beginner to advanced, including a bonus tier to push even further.
+
+**Goal:** accomplised and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
+
+[go to the Data Science Guide](./data-science.md)
 
 ### Video Game Programming - comprehensive foundations 
 
