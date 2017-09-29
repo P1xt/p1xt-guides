@@ -9,6 +9,7 @@ Web development, software engineering, games programming, mobile app development
 - [Summary](#summary)
 - [Guides](#guides)
   - [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
+  - [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
   - [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
   - [Data Science - comprehensive](#data-science---comprehensive)
@@ -47,7 +48,10 @@ reasonably prepared to be successful.
 
 [go to the Job Ready Guide](./job-ready.md)
 
+### Job Ready Guide - Python Edition
 
+A Python Centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
+[go to the Job Ready Guide - Python Edition](./topic-guides/job-ready-python-edition.md)
 ### Computer Science and Web Development - comprehensive
 
 Get prepared, over the long haul, to be an established senior level software engineer, capable of 
@@ -109,7 +113,6 @@ to ensure you're prepared to tackle any Android development task.
 Comprehensive review of narrow topics.
 
 - [Regex Guide](./topic-guides/regex.md)
-- [Job Ready Guide - Python Edition](./topic-guides/job-ready-python-edition.md)
 
 ## Frequently Asked Questions
 see the [FAQ](./faq.md)
