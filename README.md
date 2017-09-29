@@ -109,6 +109,7 @@ to ensure you're prepared to tackle any Android development task.
 Comprehensive review of narrow topics.
 
 - [Regex Guide](./topic-guides/regex.md)
+- [Job Ready Guide - Python Edition](./topic-guides/job-ready-python-edition.md)
 
 ## Frequently Asked Questions
 see the [FAQ](./faq.md)
