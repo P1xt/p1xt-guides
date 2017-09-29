@@ -76,13 +76,12 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Create a Portfolio highlighting your best work.
 - [ ]  Project: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - [ ]  Project: Your choice - Clone Netflix, Slack, Reddit, or Facebook (or a comparably involved site of your choosing). The clone should be functional and include all basic features.
-- [ ]  Project: Do a one week Speedrun of the FreeCodeCamp Projects, finishing as many as you can in seven days. 
+- [ ]  Project: Do a one month Speedrun of the FreeCodeCamp Projects, finishing as many as you can in 30 days. 
 ---
 
 ## Tier 4 - Wrap everything up and prep for interviews
 **Goal:** Interview with confidence.
 - [ ]  Project: Finish any questions you have remaining from  [Python Interview Prep](https://www.hackerrank.com/chingu-challenge-3)
-- [ ]  Project: Do a one month Speedrun of the FreeCodeCamp Projects, finishing as many as you can in 30 days.
 - [ ]  Project: Refine and polish your Portfolio.
 - [ ]  Project: Create and polish your Resume/CV.
 - [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
