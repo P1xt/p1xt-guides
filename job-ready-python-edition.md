@@ -73,9 +73,10 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: participate in one [Bot Programming](https://www.codingame.com/multiplayer/bot-programming) competition.
 - [ ]  Course: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) 
 - [ ]  Project: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- [ ]  Course: [Database Mini-Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) - take all mini-courses
+- [ ]  Project: Your choice - Clone Netflix, Slack, Reddit, or Facebook (or a comparably involved site of your choosing). The clone should be functional and include all basic features.
 - [ ]  Project: Create a Portfolio highlighting your best work.
 - [ ]  Project: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-- [ ]  Project: Your choice - Clone Netflix, Slack, Reddit, or Facebook (or a comparably involved site of your choosing). The clone should be functional and include all basic features.
 - [ ]  Project: Do a one month Speedrun of the FreeCodeCamp Projects, finishing as many as you can in 30 days. 
 ---
 
