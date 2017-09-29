@@ -42,6 +42,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ] Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 - [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
+- [ ]  Project: Do a one week Speedrun of the FreeCodeCamp Projects, finishing as many as you can in seven days.
+
 ---
 
 ## Tier 2 - Python Basics
@@ -55,7 +57,10 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: participate in one [Bot Programming](https://www.codingame.com/multiplayer/bot-programming) competition.
 - [ ]  Book: [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [ ]  Study: [The pytest testing tool](https://docs.pytest.org/en/latest/) read the docs thoroughly, experiment with the examples and become proficient with pytest (including unittest and nose).
+- [ ]  Project: participate in one [Bot Programming](https://www.codingame.com/multiplayer/bot-programming) competition.
 - [ ]  Project: Clone Medium. Include: create account, create post, publish post, edit post, add topic to post, follow user, follow topic, cheer for post, and home page with feed of recent posts, followed users, and followed topics.
+- [ ]  Project: Do a one week Speedrun of the FreeCodeCamp Projects, finishing as many as you can in seven days.
+
 ---
 ## Tier 3 - More Python and Basic CS
 **Goal:** Learn Python to a deeper level, ensuring you understand the algorithms and data structures you're likely to encounter in interviews (and on the job).
@@ -69,12 +74,15 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Course: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) 
 - [ ]  Project: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - [ ]  Project: Create a Portfolio highlighting your best work.
+- [ ]  Project: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - [ ]  Project: Your choice - Clone Netflix, Slack, Reddit, or Facebook (or a comparably involved site of your choosing). The clone should be functional and include all basic features.
+- [ ]  Project: Do a one week Speedrun of the FreeCodeCamp Projects, finishing as many as you can in seven days. 
 ---
 
 ## Tier 4 - Wrap everything up and prep for interviews
 **Goal:** Interview with confidence.
 - [ ]  Project: Finish any questions you have remaining from  [Python Interview Prep](https://www.hackerrank.com/chingu-challenge-3)
+- [ ]  Project: Do a one month Speedrun of the FreeCodeCamp Projects, finishing as many as you can in 30 days.
 - [ ]  Project: Refine and polish your Portfolio.
 - [ ]  Project: Create and polish your Resume/CV.
 - [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
