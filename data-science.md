@@ -57,7 +57,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 2 - develop more expertise
-- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about) - note: this course is only intermitantly offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
+- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about) - note: this course is only intermitantly offered, sign up at the start of Tier 2, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Book: [Biology](https://openstax.org/details/books/biology) 
 - [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 - [ ]  Book: [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) 
