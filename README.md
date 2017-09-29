@@ -51,7 +51,8 @@ reasonably prepared to be successful.
 ### Job Ready Guide - Python Edition
 
 A Python Centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
-[go to the Job Ready Guide - Python Edition](./topic-guides/job-ready-python-edition.md)
+
+[go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
 ### Computer Science and Web Development - comprehensive
 
 Get prepared, over the long haul, to be an established senior level software engineer, capable of 
