@@ -9,6 +9,7 @@ Web development, software engineering, games programming, mobile app development
 - [Summary](#summary)
 - [Guides](#guides)
   - [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
+  - [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
   - [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
   - [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
@@ -29,6 +30,9 @@ and one that focuses on game development.
 Additional guides added:
 
 Android Development - May, 2017
+Data Science - September, 2017
+Job Ready Python - September, 2017
+Job Ready JavaScript 2.0 - September, 2017
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -48,11 +52,20 @@ reasonably prepared to be successful.
 
 [go to the Job Ready Guide](./job-ready.md)
 
+### Job Ready Guide - JavaScript Edition 2.0
+
+A JavaScript-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" JavaScript Developer. This is an updated version of the original Job Ready guide which incorporates additional algorithms practice, additional projects, and a sequence that builds in additional activities to answer the "what should I be doing on the side" question.
+
+**Goal:** confident frontend web developer ready to apply for junior positions
+
+[go to the Job Ready Guide - JavaScript Edition 2.0](./job-ready-javascript-edition-2.0.md)
+
 ### Job Ready Guide - Python Edition
 
-A Python Centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
+A Python-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
 
 [go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
+
 ### Computer Science and Web Development - comprehensive
 
 Get prepared, over the long haul, to be an established senior level software engineer, capable of 

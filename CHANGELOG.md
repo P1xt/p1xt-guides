@@ -10,3 +10,6 @@ Swapped the link for the Operating Sysems and System Programming course - reason
 
 June 24, 2017
 Swapped the course Introduction to Cloud Infrastructure Technologies for Introduction to Cloud Computing - reason, the original course was no longer available.
+
+September 30, 2017
+Added The Data Science Guide, the Python Job Ready Guide, and updated the original Job Ready guide to a 2.0 version this week.
