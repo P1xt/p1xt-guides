@@ -90,9 +90,9 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 ---
 
 ## What now?
-- If you really enjoyed the dip into Machine Learning - hit the [Data Science Guide](../data-science.md)
-- If you preferred the Algorithms and Data Structures - hit the [CS-WD Guide](../cs-wd.md)
-- If you mostly enjoyed the Web Development - hit the [WD-CS Guide](../wd-cs.md)
+- If you really enjoyed the dip into Machine Learning - hit the [Data Science Guide](./data-science.md)
+- If you preferred the Algorithms and Data Structures - hit the [CS-WD Guide](./cs-wd.md)
+- If you mostly enjoyed the Web Development - hit the [WD-CS Guide](./wd-cs.md)
 ---
 
 ## FAQ for this guide
