@@ -27,10 +27,10 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
-- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
+- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
-- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
+- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
 - [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) 
 - [ ] Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
