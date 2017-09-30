@@ -27,12 +27,11 @@ There are multiple guides, the first outlines the bare minimum to be successful 
 entry-level junior web developer, two dive much more deeply to prepare you for "beyond junior", 
 and one that focuses on game development.
 
-Additional guides added:
-
-Android Development - May, 2017
-Data Science - September, 2017
-Job Ready Python - September, 2017
-Job Ready JavaScript 2.0 - September, 2017
+**Additional guides added:**
+- Android Development - May, 2017
+- Data Science - September, 2017
+- Job Ready Python - September, 2017
+- Job Ready JavaScript 2.0 - September, 2017
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
