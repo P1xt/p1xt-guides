@@ -54,12 +54,12 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Tier 2 - Add Complexity
 **Goal:** Become familiar with D3.js and Node.js to strengthen your proficiency with JavaScript by exploring how it's used in a Full Stack application.
+- [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
 - [ ]  Course: [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 - [ ]  Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
-- [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 - [ ]  Project: Do a one week Speedrun of the FreeCodeCamp Backend Projects, finishing as many as you can in 7 days.
 - [ ]  Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Revisit [CSS Zen Garden](http://www.csszengarden.com/) - and implement a new design 
@@ -99,7 +99,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 ## FAQ for this guide
 
 ### Why is it so much longer than the original Job Ready Guide?
-What I've observed over the past 9 months is two phenomina, the first being that many "self-supplemented" with additional beginner projects and resources while working through YDKJS, so I expanded on the beginner section to alleviate the "but what else should I be doing" question. The second is that the most successful learners also supplimented with more involved projects towards the end of the guide, so I added more intricate/advanced projects to meet that need.
+What I've observed over the past 9 months is two phenomena, the first being that many "self-supplemented" with additional beginner projects and resources while working through YDKJS, so I expanded on the beginner section to alleviate the "but what else should I be doing" question. The second is that the most successful learners also supplemented with more involved projects towards the end of the guide, so I added more intricate/advanced projects to meet that need.
 
 ### Why so much Math and Algorithms?
 It's not THAT much math, just through Precalculus so you won't feel so behind the curve when you want to push beyond just "Job Ready" and tackle more involved programming projects. The algorithms -- I've added them to ensure you're prepared and confident you can handle anything you might encounter in an interview.
