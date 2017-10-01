@@ -99,7 +99,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 ## FAQ for this guide
 
 ### Why is it so much longer than the original Job Ready Guide?
-What I've observed over the past 9 months is two phenomina, the first being that many "self-supplemented" with addtional beginner projects and resources while working through YDKJS, so I expanded on the beginner section to alleviate the "but what else should I be doing" question. The second is that the most successful learners also supplimented with more involved projects towards the end of the guide, so I added more intricate/advanced projects to meet that need.
+What I've observed over the past 9 months is two phenomina, the first being that many "self-supplemented" with additional beginner projects and resources while working through YDKJS, so I expanded on the beginner section to alleviate the "but what else should I be doing" question. The second is that the most successful learners also supplimented with more involved projects towards the end of the guide, so I added more intricate/advanced projects to meet that need.
 
 ### Why so much Math and Algorithms?
 It's not THAT much math, just through Precalculus so you won't feel so behind the curve when you want to push beyond just "Job Ready" and tackle more involved programming projects. The algorithms -- I've added them to ensure you're prepared and confident you can handle anything you might encounter in an interview.
