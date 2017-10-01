@@ -9,8 +9,11 @@ Web development, software engineering, games programming, mobile app development
 - [Summary](#summary)
 - [Guides](#guides)
   - [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
+  - [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
+  - [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
   - [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
+  - [Data Science - comprehensive](#data-science---comprehensive)
   - [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
   - [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
   - [Topic Specific Guides](#topic-specific-deep-dives)
@@ -24,9 +27,11 @@ There are multiple guides, the first outlines the bare minimum to be successful 
 entry-level junior web developer, two dive much more deeply to prepare you for "beyond junior", 
 and one that focuses on game development.
 
-Additional guides added:
-
-Android Development - May, 2017
+**Additional guides added:**
+- Android Development - May, 2017
+- Data Science - September, 2017
+- Job Ready Python - September, 2017
+- Job Ready JavaScript 2.0 - September, 2017
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -46,6 +51,19 @@ reasonably prepared to be successful.
 
 [go to the Job Ready Guide](./job-ready.md)
 
+### Job Ready Guide - JavaScript Edition 2.0
+
+A JavaScript-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" JavaScript Developer. This is an updated version of the original Job Ready guide which incorporates additional algorithms practice, additional projects, and a sequence that builds in additional activities to answer the "what should I be doing on the side" question.
+
+**Goal:** confident frontend web developer ready to apply for junior positions
+
+[go to the Job Ready Guide - JavaScript Edition 2.0](./job-ready-javascript-edition-2.0.md)
+
+### Job Ready Guide - Python Edition
+
+A Python-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
+
+[go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
 
 ### Computer Science and Web Development - comprehensive
 
@@ -75,7 +93,14 @@ level as a web developer with a reasonable foundation in software engineering_
 
 [go to the Web Development with Computer Science Foundations Guide](./wd-cs.md)
 
+### Data Science - comprehensive
+Learn the mathematics, science, and programming skills necessary to tackle machine learning, bioinformatics, artificial intelligence and other data science tasks.
 
+_"not in a rush"_ plan that pushes from beginner to advanced, including a bonus tier to push even further.
+
+**Goal:** accomplised and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
+
+[go to the Data Science Guide](./data-science.md)
 
 ### Video Game Programming - comprehensive foundations 
 

@@ -21,7 +21,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
-- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
+- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
 ## Tier 2 - strengthen your foundation
 - [ ]  Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)    
@@ -31,7 +31,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project:  Simon Game from the frontend section of FCC    
 - [ ]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 - [ ]  Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
-- [ ]  Course:  [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX    
+- [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)  
 - [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -43,7 +43,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
 - [ ]  Book:  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
-- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
+- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
 ## Tier 3 - build on the foundation
 - [ ]  Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
@@ -55,18 +55,18 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages  
 - [ ]  Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)  - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
 - [ ]  Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
-- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
+- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Project: Clone Reddit
 - [ ]  Project: Complete all ES6 Katas [here](http://es6katas.org/)
 - [ ]  Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)    
 - [ ]  Project: Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/) in JavaScript    
 - [ ]  Project:  Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) 
-- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
+- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [ ]  Project: Clone the Netflix interface- pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) 
 - [ ]  Project: Write the CSS Necessary to create your own 12 column based grid layout - see [here](http://960.gs/) for an example
-- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
+- [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Project: Clone FaceBook - yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fullfill.
 
 ## Tier 4 - polish the rough edges
