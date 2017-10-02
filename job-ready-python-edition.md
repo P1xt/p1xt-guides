@@ -4,12 +4,12 @@
 - [Tier 2 - Python Basics](#tier-2---python-basics)
 - [Tier 3 - More Python and Basic CS](#tier-3---more-python-and-basic-cs)
 - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
-- [What now?](#what-now-)
+- [What now?](#what-now)
 - [FAQ for this guide](#faq-for-this-guide)
-  * [Why is it so much longer than the other Job Ready Guide?](#why-is-it-so-much-longer-than-the-other-job-ready-guide-)
-  * [Why so much Math and Algorithms?](#why-so-much-math-and-algorithms-)
-  * [Where should I deploy my code?](#where-should-i-deploy-my-code-)
-  * [What Python should I use?](#what-python-should-i-use-)
+  * [Why is it so much longer than the other Job Ready Guide?](#why-is-it-so-much-longer-than-the-other-job-ready-guide)
+  * [Why so much Math and Algorithms?](#why-so-much-math-and-algorithms)
+  * [Where should I deploy my code?](#where-should-i-deploy-my-code)
+  * [What Python should I use?](#what-python-should-i-use)
 
 ---
 
