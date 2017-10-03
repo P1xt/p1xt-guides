@@ -128,8 +128,8 @@ Yes, yes I do:
     - [LibreStock](http://librestock.com/)
     - [Google Fonts](https://fonts.google.com/)
     - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
-  - Official Docs
     - [Unsplash](https://unsplash.com/)
+  - Official Docs
     - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
     - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
     - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
