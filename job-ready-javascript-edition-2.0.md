@@ -105,7 +105,7 @@ What I've observed over the past 9 months is two phenomena, the first being that
 It's not THAT much math, just through Precalculus so you won't feel so behind the curve when you want to push beyond just "Job Ready" and tackle more involved programming projects. The algorithms -- I've added them to ensure you're prepared and confident you can handle anything you might encounter in an interview.
 
 ### Where should I deploy my code?
-For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employeers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
+For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
 
 ### Why the change in Project selections?
 To give you greater freedom, over the course of studying the guide, to create a portfolio that is unique to you - rather than a clone of the same exact projects that are on the portfolio of every other junior web dev out there.
