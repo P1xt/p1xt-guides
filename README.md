@@ -1,6 +1,6 @@
-# Guides in a variety of domains
+# My Personal p1xt Guide!
 
-Web development, software engineering, games programming, mobile app development ...
+This repo is me tracking my own progress on this guide for my personal use.
 
 
 
@@ -21,24 +21,8 @@ Web development, software engineering, games programming, mobile app development
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Attribution](#attribution)
 
-## Summary
-Resources for learners who want to dive deeper on their journey to becoming web developers / software engineers. 
-There are multiple guides, the first outlines the bare minimum to be successful as an 
-entry-level junior web developer, two dive much more deeply to prepare you for "beyond junior", 
-and one that focuses on game development.
-
-**Additional guides added:**
-- Android Development - May, 2017
-- Data Science - September, 2017
-- Job Ready Python - September, 2017
-- Job Ready JavaScript 2.0 - September, 2017
-
-A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
-
+# Support the Original Creator of This Guide!
 <a href='https://ko-fi.com/PIXTCODE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-Do not click that button if you don't want to or can't afford to. I devote time to this project because I want to, in my free time, because I value helping others. Not for donations. The button is just there on a lark because a couple people asked for it and I'm, frankly, curious. Donations (or lack thereof) will not alter my dedication to this project either way.
-
 
 ## Guides
 
@@ -126,14 +110,3 @@ to ensure you're prepared to tackle any Android development task.
 Comprehensive review of narrow topics.
 
 - [Regex Guide](./topic-guides/regex.md)
-
-## Frequently Asked Questions
-see the [FAQ](./faq.md)
-
-## Attribution
-
-* Many of the courses listed closely mimic the list from [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science)
-* Many of the topics selected to augment were inspired by [Google Interview University](https://github.com/jwasham/google-interview-university)
-* Many of the projects were inspired by (or are directly taken from) [Free Code Camp](https://www.freecodecamp.com/), [The Odin Project](http://www.theodinproject.com/) and [Udacity](https://www.udacity.com)
-
-Although I took heavy inspiration from many resources when creating these guides, none of it is a cut and paste path from somewhere else. Often, I substituted courses (especially in the case of Coursera) to ensure that the entire course was available for free and required no purchases of any kind. Where possible, I tried to align projects to reinforce prior learning.
