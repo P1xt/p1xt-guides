@@ -106,7 +106,7 @@ Python is typically used for far more than just server-side web development so I
 There is far more focus on algorithms - this reflects what you can expect in industry, you're far more likely to be rigorously tested on algorithms and data structures in a python interview than a general or frontend web development interview.
 
 ### Where should I deploy my code?
-For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employeers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
+For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
 
 ### What Python should I use?
 When you get to Tier 2 - I highly recommend installing the Python 3 version of [Anaconda](https://www.anaconda.com/download/) for use in the Python-centric portion of the guide. It containerizes your Python environment to ensure nothing you do impacts the rest of your machine, contains all the plugins you're likely to need, and even provides the Spyder IDE which is an ideal starter setup for Python development.
