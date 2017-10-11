@@ -27,6 +27,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)    
 - [ ]  Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)    
 - [ ]  Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
+- [ ]  Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 - [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
 - [ ]  Project:  Simon Game from the frontend section of FCC    
 - [ ]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
