@@ -99,7 +99,7 @@ other host you want, but figuring that out is up to you.
 ## What sites should I have bookmarked and reference frequently?
 * [surge.sh](https://surge.sh/) - deploy your frontend projects here (or use github pages)
 * [MDN](https://developer.mozilla.org/en-US/) - look HTML, CSS, and JavaScript stuff up here
-* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glich)
+* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glitch)
 * [Firebase](https://firebase.google.com/) or [mLab](https://mlab.com/) - database hosting
 * [GitHub](https://github.com/) - store your code here
 * [Material Design](https://material.google.com) - lean on this when you need a structure for creating a minimalistic but awesome looking site
