@@ -65,7 +65,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 - [ ]  Course: [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2) 
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) 
 - [ ]  Course: [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
-- [ ]  Course: [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4)
+- [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Course: [Statistics and Probability in Data Science using Python](https://www.edx.org/course/statistics-probability-data-science-uc-san-diegox-dse210x) 
 - [ ]  Book: [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf) 
 - [ ]  Course: [DNA: Biology’s Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code-ricex-bioc300-2x-1) 
