@@ -1,6 +1,10 @@
 # Changed to the curriculum
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accomodate a replacement resource.
 
+**October 18, 2017**
+
+Replaced D3 course in the JavaScript Job Ready 2.0, Python Job Ready, and Data Science guides with a free alternative, as the one from egghead migrated to requiring a Pro membership for access to the bulk of the course.
+
 **October 11, 2017**
 
 Added Software Construction: Object-Oriented Design to the wd-cs and cs-wd guides, it is the next in the How to Code series and just became available.
