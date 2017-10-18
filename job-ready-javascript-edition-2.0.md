@@ -55,7 +55,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 ## Tier 2 - Add Complexity
 **Goal:** Become familiar with D3.js and Node.js to strengthen your proficiency with JavaScript by exploring how it's used in a Full Stack application.
 - [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
-- [ ]  Course: [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4)
+- [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 - [ ]  Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
