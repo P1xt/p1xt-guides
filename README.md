@@ -98,7 +98,7 @@ Learn the mathematics, science, and programming skills necessary to tackle machi
 
 _"not in a rush"_ plan that pushes from beginner to advanced, including a bonus tier to push even further.
 
-**Goal:** accomplised and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
+**Goal:** accomplished and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
 
 [go to the Data Science Guide](./data-science.md)
 
