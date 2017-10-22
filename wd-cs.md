@@ -1,7 +1,7 @@
 # Web Development with Computer Science Foundations - comprehensive
 
 If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ. 
-It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
+It has a plethora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - get started
 - [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
