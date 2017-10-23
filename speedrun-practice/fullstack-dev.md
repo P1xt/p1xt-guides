@@ -1,4 +1,4 @@
-# Fullstack Programming - Speedrun / Practice
+# Fullstack Web Development - Speedrun / Practice
 
 ## Notes
 The following is a list of practice projects for full stack development intended to be used as ideas for portfolio projects or for use in a speedrun (set aside a month or two and speed through as many as you can in that time - as an intensive hands on practice.)

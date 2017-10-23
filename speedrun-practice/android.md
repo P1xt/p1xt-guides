@@ -1,9 +1,11 @@
-# Algorithms - Speedrun / Practice
+# Android Development - Speedrun / Practice
 
 ## Notes
 The following is a list of practice projects for android development intended to be used as ideas for portfolio projects or for use in a speedrun (set aside a month or two and speed through as many as you can in that time - as an intensive hands on practice.)
 
 Always find or make your own open source assets when doing any clone, and attribute your sources. Don't get sued for copyright violation.
+
+Feel free to code these in native Android or pick a framework/library of your choice (Ionic, React Native, etc).
  
 ## Projects
 - [ ] Project: Build a Single Screen App

@@ -1,4 +1,4 @@
-# Algorithms - Speedrun / Practice
+# Algorithms and Data Structures - Speedrun / Practice
 
 ## Notes
 The following is a list of practice problems for studying algorithms and data structures.
