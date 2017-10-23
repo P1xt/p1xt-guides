@@ -32,7 +32,7 @@ Recommendation: select one programming language and complete all of the problems
 If you need to study before diving in:
 
 ### Prep - Intro for beginners
-- [ ]  Course: [CS for All](https://www.cs.hmc.edu/csforall/)2^^
+- [ ]  Course: [CS for All](https://www.cs.hmc.edu/csforall/)
 - [ ]  Challenges: [Code Fights Arcade Challenges](https://codefights.com/arcade/)
 - [ ]  Move on to one of the language specific paths below
 
