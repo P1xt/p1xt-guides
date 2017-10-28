@@ -37,10 +37,10 @@ publishing something you copied or cloned.
 - [X] Project: [Musical Structure App](./projects/android/MusicalStructure.md) 
 - [X] Project: [Report Card](./projects/android/ReportCard.md) 
 - [X] Project: [Tour Guide App](./projects/android/TourGuide.md)
-- [WIP] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
-- [ ] Project: [Book Listing App](./projects/android/BookListing.md)
+- [X] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+- [WIP] Project: [Book Listing App](./projects/android/BookListing.md)
 - [ ] Project: [News App](./projects/android/NewsApp.md)
-- [ ] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+- [WIP ] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 - [ ] Project: [Habit Tracker App](./projects/android/HabitTracker.md) 
 - [ ] Project: [Inventory App](./projects/android/Inventory.md)
 
