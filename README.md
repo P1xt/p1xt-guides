@@ -18,6 +18,7 @@ Web development, software engineering, games programming, mobile app development
   - [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
   - [Topic Specific Guides](#topic-specific-deep-dives)
     - regex
+- [Practice/Speedrun Project lists](#practice-speedrun)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Attribution](#attribution)
 
@@ -32,6 +33,7 @@ and one that focuses on game development.
 - Data Science - September, 2017
 - Job Ready Python - September, 2017
 - Job Ready JavaScript 2.0 - September, 2017
+- Practice/Speedrun Project lists - October, 2017
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -98,7 +100,7 @@ Learn the mathematics, science, and programming skills necessary to tackle machi
 
 _"not in a rush"_ plan that pushes from beginner to advanced, including a bonus tier to push even further.
 
-**Goal:** accomplised and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
+**Goal:** accomplished and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
 
 [go to the Data Science Guide](./data-science.md)
 
@@ -126,6 +128,15 @@ to ensure you're prepared to tackle any Android development task.
 Comprehensive review of narrow topics.
 
 - [Regex Guide](./topic-guides/regex.md)
+
+## Practice Speedrun
+Topic specific practice, to build out a portfolio, gain additional experience in an area, or for a preset list of assignments to tackle for a hands-on boosting speedrun to drive your ability to the next level:
+
+- [Algorithms and Data Structures](./speedrun-practice/algorithms.md)
+- [Android](./speedrun-practice/android.md)
+- [Frontend Web Development](./speedrun-practice/frontend-dev.md)
+- [Fullstack Web Development](./speedrun-practice/fullstack-dev.md)
+- [Game Development](./speedrun-practice/game-dev.md)
 
 ## Frequently Asked Questions
 see the [FAQ](./faq.md)

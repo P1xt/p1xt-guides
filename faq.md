@@ -52,7 +52,7 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 
 ## Do you have any hints for success?
 * have git commits every week, most of the days of the week
-* try to get in one of [@tropicalchancer's cohorts](https://tropicalchancer.github.io/projectus/) - be active once you're in
+* try to get in one of [@tropicalchancer's cohorts](https://chingu-cohorts.github.io/chingu-directory/) - be active once you're in
 * try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
 * spend 30 minutes a day studying math on Khan Academy
 
@@ -99,7 +99,7 @@ other host you want, but figuring that out is up to you.
 ## What sites should I have bookmarked and reference frequently?
 * [surge.sh](https://surge.sh/) - deploy your frontend projects here (or use github pages)
 * [MDN](https://developer.mozilla.org/en-US/) - look HTML, CSS, and JavaScript stuff up here
-* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glich)
+* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glitch)
 * [Firebase](https://firebase.google.com/) or [mLab](https://mlab.com/) - database hosting
 * [GitHub](https://github.com/) - store your code here
 * [Material Design](https://material.google.com) - lean on this when you need a structure for creating a minimalistic but awesome looking site

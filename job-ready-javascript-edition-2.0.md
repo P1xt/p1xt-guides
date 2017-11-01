@@ -55,7 +55,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 ## Tier 2 - Add Complexity
 **Goal:** Become familiar with D3.js and Node.js to strengthen your proficiency with JavaScript by exploring how it's used in a Full Stack application.
 - [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
-- [ ]  Course: [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4)
+- [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 - [ ]  Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
@@ -105,7 +105,7 @@ What I've observed over the past 9 months is two phenomena, the first being that
 It's not THAT much math, just through Precalculus so you won't feel so behind the curve when you want to push beyond just "Job Ready" and tackle more involved programming projects. The algorithms -- I've added them to ensure you're prepared and confident you can handle anything you might encounter in an interview.
 
 ### Where should I deploy my code?
-For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employeers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
+For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
 
 ### Why the change in Project selections?
 To give you greater freedom, over the course of studying the guide, to create a portfolio that is unique to you - rather than a clone of the same exact projects that are on the portfolio of every other junior web dev out there.
@@ -124,12 +124,12 @@ Yes, yes I do:
     - [Screeps](https://screeps.com)
   - For when you need assets/ideas
     - [pixabay](https://pixabay.com/)
+    - [Unsplash](https://unsplash.com/)
     - [Pexels](https://www.pexels.com/)
     - [LibreStock](http://librestock.com/)
     - [Google Fonts](https://fonts.google.com/)
     - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
   - Official Docs
-    - [Unsplash](https://unsplash.com/)
     - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
     - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
     - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
