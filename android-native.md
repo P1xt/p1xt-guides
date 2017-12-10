@@ -40,7 +40,7 @@ publishing something you copied or cloned.
 - [X] Course: [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 - [WIP] Project: [Book Listing App](./projects/android/BookListing.md)
 - [ ] Project: [News App](./projects/android/NewsApp.md)
-- [WIP ] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+- [X] Course: [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 - [ ] Project: [Habit Tracker App](./projects/android/HabitTracker.md) 
 - [ ] Project: [Inventory App](./projects/android/Inventory.md)
 
