@@ -1,5 +1,5 @@
 # Data Science - comprehensive
-A curriculum covering Data Science topics relevent to Machine Learning, Bioinformatics, and Artificial Intelligence. Includes necessary background in mathematics and the sciences.
+A curriculum covering Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence. Includes necessary background in mathematics and the sciences.
 
 Suggestions:
 - Do all courses/books in order
@@ -9,7 +9,7 @@ Suggestions:
 - Make a point of building your GitHub profile during your study so that over time you show a history of data science projects.
 - If you haven't already, begin blogging about what you're learning on Medium (or elsewhere). Try to focus on tutorials for topics you've learned well that might be helpful to others.
 
-**Note:** All items should have a free to audit option. There are two Algorthms courses which require a book purchase (Cormen), but I have provided alternate courses which do not.
+**Note:** All items should have a free to audit option. There are two Algorithms courses which require a book purchase (Cormen), but I have provided alternate courses which do not.
 
 ## Blogs
 Bookmark these blogs and try to read at least one article from one of them per week.
@@ -34,7 +34,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 1 - foundations
-- [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermitantly offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
+- [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermittently offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6) 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
 - [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
@@ -58,7 +58,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 2 - develop more expertise
-- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about) - note: this course is only intermitantly offered, sign up at the start of Tier 2, then proceed to the other courses and return to this one when the next session opens up.
+- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about) - note: this course is only intermittently offered, sign up at the start of Tier 2, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Book: [Biology](https://openstax.org/details/books/biology) 
 - [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 - [ ]  Book: [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) 
