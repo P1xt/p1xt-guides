@@ -46,7 +46,7 @@ publishing something you copied or cloned.
 
 ## Tier 2 - Intermediate Android
 - [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1) Complete by end of Tier 2 
-- [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [WIP] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Project: [Popular Movies, Stage 1](./projects/android/PopularMoviesStage1.md)
 - [ ] Project: [Popular Movies, Stage 2](./projects/android/PopularMoviesStage2.md)
 - [ ] Course: [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
