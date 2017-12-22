@@ -1,14 +1,15 @@
 # Data Science - comprehensive
-A curriculum covering Data Science topics relevent to Machine Learning, Bioinformatics, and Artificial Intelligence. Includes necessary background in mathematics and the sciences.
+A curriculum covering Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence. Includes necessary background in mathematics and the sciences.
 
 Suggestions:
 - Do all courses/books in order
 - Don't skip anything (if you're tempted to skip a course because you think you already know it, take the final, if you pass, then skip).
 - Projects are listed at the end of each Tier, you should consider them assigned at the beginning of the Tier, and due at the end - so work on them alongside the books and courses as you work your way through a Tier.
+- For any project, feel free to use Python or R. Python is introduced earlier in the guide so it's likely you'll use it nearly exclusively for the earlier projects. It would be a good idea to lean more heavily on R in the latter projects to ensure you have substantial practice in both.
 - Make a point of building your GitHub profile during your study so that over time you show a history of data science projects.
 - If you haven't already, begin blogging about what you're learning on Medium (or elsewhere). Try to focus on tutorials for topics you've learned well that might be helpful to others.
 
-**Note:** All items should have a free to audit option. There are two Algorthms courses which require a book purchase (Cormen), but I have provided alternate courses which do not.
+**Note:** All items should have a free to audit option. There are two Algorithms courses which require a book purchase (Cormen), but I have provided alternate courses which do not.
 
 ## Blogs
 Bookmark these blogs and try to read at least one article from one of them per week.
@@ -33,7 +34,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 1 - foundations
-- [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermitantly offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
+- [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermittently offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6) 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
 - [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
@@ -57,14 +58,14 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 2 - develop more expertise
-- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about) - note: this course is only intermitantly offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
+- [ ]  Course: [MongoDB Performance](https://university.mongodb.com/courses/M201/about) - note: this course is only intermittently offered, sign up at the start of Tier 2, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Book: [Biology](https://openstax.org/details/books/biology) 
 - [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 - [ ]  Book: [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) 
 - [ ]  Course: [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2) 
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) 
 - [ ]  Course: [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
-- [ ]  Course: [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4)
+- [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Course: [Statistics and Probability in Data Science using Python](https://www.edx.org/course/statistics-probability-data-science-uc-san-diegox-dse210x) 
 - [ ]  Book: [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf) 
 - [ ]  Course: [DNA: Biology’s Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code-ricex-bioc300-2x-1) 

@@ -9,6 +9,8 @@ Web development, software engineering, games programming, mobile app development
 - [Summary](#summary)
 - [Guides](#guides)
   - [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
+  - [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
+  - [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
   - [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
   - [Data Science - comprehensive](#data-science---comprehensive)
@@ -16,6 +18,7 @@ Web development, software engineering, games programming, mobile app development
   - [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
   - [Topic Specific Guides](#topic-specific-deep-dives)
     - regex
+- [Practice/Speedrun Project lists](#practice-speedrun)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Attribution](#attribution)
 
@@ -25,9 +28,12 @@ There are multiple guides, the first outlines the bare minimum to be successful 
 entry-level junior web developer, two dive much more deeply to prepare you for "beyond junior", 
 and one that focuses on game development.
 
-Additional guides added:
-
-Android Development - May, 2017
+**Additional guides added:**
+- Android Development - May, 2017
+- Data Science - September, 2017
+- Job Ready Python - September, 2017
+- Job Ready JavaScript 2.0 - September, 2017
+- Practice/Speedrun Project lists - October, 2017
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -47,6 +53,19 @@ reasonably prepared to be successful.
 
 [go to the Job Ready Guide](./job-ready.md)
 
+### Job Ready Guide - JavaScript Edition 2.0
+
+A JavaScript-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" JavaScript Developer. This is an updated version of the original Job Ready guide which incorporates additional algorithms practice, additional projects, and a sequence that builds in additional activities to answer the "what should I be doing on the side" question.
+
+**Goal:** confident frontend web developer ready to apply for junior positions
+
+[go to the Job Ready Guide - JavaScript Edition 2.0](./job-ready-javascript-edition-2.0.md)
+
+### Job Ready Guide - Python Edition
+
+A Python-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
+
+[go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
 
 ### Computer Science and Web Development - comprehensive
 
@@ -81,7 +100,7 @@ Learn the mathematics, science, and programming skills necessary to tackle machi
 
 _"not in a rush"_ plan that pushes from beginner to advanced, including a bonus tier to push even further.
 
-**Goal:** accomplised and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
+**Goal:** accomplished and capable data scientist, proficient in Python, R, Mathematics, Science, and the algorithms standard to data science.
 
 [go to the Data Science Guide](./data-science.md)
 
@@ -109,6 +128,15 @@ to ensure you're prepared to tackle any Android development task.
 Comprehensive review of narrow topics.
 
 - [Regex Guide](./topic-guides/regex.md)
+
+## Practice Speedrun
+Topic specific practice, to build out a portfolio, gain additional experience in an area, or for a preset list of assignments to tackle for a hands-on boosting speedrun to drive your ability to the next level:
+
+- [Algorithms and Data Structures](./speedrun-practice/algorithms.md)
+- [Android](./speedrun-practice/android.md)
+- [Frontend Web Development](./speedrun-practice/frontend-dev.md)
+- [Fullstack Web Development](./speedrun-practice/fullstack-dev.md)
+- [Game Development](./speedrun-practice/game-dev.md)
 
 ## Frequently Asked Questions
 see the [FAQ](./faq.md)

@@ -27,7 +27,7 @@ You should understand how to use Git and Github, which you can learn using any o
 * When you're building a Project, include a build process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
 commit messages](http://chris.beams.io/posts/git-commit/) 
 * Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
-* As you learn, take the time to discuss what you're learning with others: write blog posts, spend time actively discussing code and concepts with other developers (of varying skill levels), if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one. You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benifit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it. 
+* As you learn, take the time to discuss what you're learning with others: write blog posts, spend time actively discussing code and concepts with other developers (of varying skill levels), if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one. You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benefit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it. 
 
 ### For each item you should:
 * take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
@@ -52,7 +52,7 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 
 ## Do you have any hints for success?
 * have git commits every week, most of the days of the week
-* try to get in one of [@tropicalchancer's cohorts](https://tropicalchancer.github.io/projectus/) - be active once you're in
+* try to get in one of [@tropicalchancer's cohorts](https://chingu-cohorts.github.io/chingu-directory/) - be active once you're in
 * try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
 * spend 30 minutes a day studying math on Khan Academy
 
@@ -99,7 +99,7 @@ other host you want, but figuring that out is up to you.
 ## What sites should I have bookmarked and reference frequently?
 * [surge.sh](https://surge.sh/) - deploy your frontend projects here (or use github pages)
 * [MDN](https://developer.mozilla.org/en-US/) - look HTML, CSS, and JavaScript stuff up here
-* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glich)
+* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glitch)
 * [Firebase](https://firebase.google.com/) or [mLab](https://mlab.com/) - database hosting
 * [GitHub](https://github.com/) - store your code here
 * [Material Design](https://material.google.com) - lean on this when you need a structure for creating a minimalistic but awesome looking site
