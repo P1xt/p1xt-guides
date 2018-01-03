@@ -2,38 +2,40 @@
 
 Web development, software engineering, games programming, mobile app development ...
 
-
-
 # Contents
 
-- [Summary](#summary)
-- [Guides](#guides)
-  - [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
-  - [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
-  - [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
-  - [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
-  - [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
-  - [Data Science - comprehensive](#data-science---comprehensive)
-  - [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
-  - [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
-  - [Topic Specific Guides](#topic-specific-deep-dives)
-    - regex
-- [Practice/Speedrun Project lists](#practice-speedrun)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Attribution](#attribution)
+* [Summary](#summary)
+* [Guides](#guides)
+  * [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
+  * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
+  * [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
+  * [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
+  * [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
+  * [Data Science - comprehensive](#data-science---comprehensive)
+  * [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
+  * [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
+  * [Topic Specific Guides](#topic-specific-deep-dives)
+    * regex
+* [Practice/Speedrun Project lists](#practice-speedrun)
+* [Frequently Asked Questions](#frequently-asked-questions)
+* [Attribution](#attribution)
 
 ## Summary
-Resources for learners who want to dive deeper on their journey to becoming web developers / software engineers. 
-There are multiple guides, the first outlines the bare minimum to be successful as an 
-entry-level junior web developer, two dive much more deeply to prepare you for "beyond junior", 
+
+Resources for learners who want to dive deeper on their journey to becoming web developers / software engineers.
+There are multiple guides, the first outlines the bare minimum to be successful as an
+entry-level junior web developer, two dive much more deeply to prepare you for "beyond junior",
 and one that focuses on game development.
 
+If you're interested in seeing how much Computer Science you can learn in a year, the CS guide has been ported over to be one of the paths in my [Speedstudy Challenge](https://github.com/P1xt/speedstudy).
+
 **Additional guides added:**
-- Android Development - May, 2017
-- Data Science - September, 2017
-- Job Ready Python - September, 2017
-- Job Ready JavaScript 2.0 - September, 2017
-- Practice/Speedrun Project lists - October, 2017
+
+* Android Development - May, 2017
+* Data Science - September, 2017
+* Job Ready Python - September, 2017
+* Job Ready JavaScript 2.0 - September, 2017
+* Practice/Speedrun Project lists - October, 2017
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -41,12 +43,11 @@ A few people suggested making it possible to buy me a coffee as thanks - so plea
 
 Do not click that button if you don't want to or can't afford to. I devote time to this project because I want to, in my free time, because I value helping others. Not for donations. The button is just there on a lark because a couple people asked for it and I'm, frankly, curious. Donations (or lack thereof) will not alter my dedication to this project either way.
 
-
 ## Guides
 
-### Get Job ready with 13 projects, 2 courses, and 10 books 
+### Get Job ready with 13 projects, 2 courses, and 10 books
 
-A structured plan of resources and activities for learners who want to beeline to "job ready" and get there 
+A structured plan of resources and activities for learners who want to beeline to "job ready" and get there
 reasonably prepared to be successful.
 
 **Goal:** confident web developer ready to apply for junior positions
@@ -69,26 +70,25 @@ A Python-centric version of the Job Ready Guide, narrowly focused on building th
 
 ### Computer Science and Web Development - comprehensive
 
-Get prepared, over the long haul, to be an established senior level software engineer, capable of 
-architecting solutions for the web (and beyond it) 
+Get prepared, over the long haul, to be an established senior level software engineer, capable of
+architecting solutions for the web (and beyond it)
 
 _"not in a rush" plan, with resources to increase the depth of knowledge gained in general computer science topics plus
-sufficient implementation practice to confidently enter the industry as a Web Developer or a Software Engineer in 
+sufficient implementation practice to confidently enter the industry as a Web Developer or a Software Engineer in
 non Web related positions_
 
-**Goal:** proficient web developer and software engineer 
+**Goal:** proficient web developer and software engineer
 (this option has more of a computer science focus, but also web development)
 
 [go to the Computer Science and Web Development Guide](./cs-wd.md)
 
-
 ### Web Development with Computer Science Foundations - comprehensive
 
-Get prepared, over the long haul, to be an established senior level web developer, at the level where 
-companies would be lucky to have you and people would be following your blog because you're an expert 
+Get prepared, over the long haul, to be an established senior level web developer, at the level where
+companies would be lucky to have you and people would be following your blog because you're an expert
 
-_"not in a rush" plan that focuses on pushing beyond beginner level, and intermediate level, to expert 
-level as a web developer with a reasonable foundation in software engineering_ 
+_"not in a rush" plan that focuses on pushing beyond beginner level, and intermediate level, to expert
+level as a web developer with a reasonable foundation in software engineering_
 
 **Goal:** confident web developer ready to apply for non-junior positions
 (this one primarily focuses on web development but includes enough computer science to lay a good foundation)
@@ -96,6 +96,7 @@ level as a web developer with a reasonable foundation in software engineering_
 [go to the Web Development with Computer Science Foundations Guide](./wd-cs.md)
 
 ### Data Science - comprehensive
+
 Learn the mathematics, science, and programming skills necessary to tackle machine learning, bioinformatics, artificial intelligence and other data science tasks.
 
 _"not in a rush"_ plan that pushes from beginner to advanced, including a bonus tier to push even further.
@@ -104,15 +105,14 @@ _"not in a rush"_ plan that pushes from beginner to advanced, including a bonus 
 
 [go to the Data Science Guide](./data-science.md)
 
-### Video Game Programming - comprehensive foundations 
+### Video Game Programming - comprehensive foundations
 
-Develop a variety of games, first in JavaScript, then C++ while learning the computer science principles 
+Develop a variety of games, first in JavaScript, then C++ while learning the computer science principles
 important in game development ... while having fun in the process.
 
 **Goal:** learn how to code video games
 
 [go to the Video Game Programming Guide](./game-programming.md)
-
 
 ### Native Android Programming - comprehensive
 
@@ -127,18 +127,20 @@ to ensure you're prepared to tackle any Android development task.
 
 Comprehensive review of narrow topics.
 
-- [Regex Guide](./topic-guides/regex.md)
+* [Regex Guide](./topic-guides/regex.md)
 
 ## Practice Speedrun
+
 Topic specific practice, to build out a portfolio, gain additional experience in an area, or for a preset list of assignments to tackle for a hands-on boosting speedrun to drive your ability to the next level:
 
-- [Algorithms and Data Structures](./speedrun-practice/algorithms.md)
-- [Android](./speedrun-practice/android.md)
-- [Frontend Web Development](./speedrun-practice/frontend-dev.md)
-- [Fullstack Web Development](./speedrun-practice/fullstack-dev.md)
-- [Game Development](./speedrun-practice/game-dev.md)
+* [Algorithms and Data Structures](./speedrun-practice/algorithms.md)
+* [Android](./speedrun-practice/android.md)
+* [Frontend Web Development](./speedrun-practice/frontend-dev.md)
+* [Fullstack Web Development](./speedrun-practice/fullstack-dev.md)
+* [Game Development](./speedrun-practice/game-dev.md)
 
 ## Frequently Asked Questions
+
 see the [FAQ](./faq.md)
 
 ## Attribution
