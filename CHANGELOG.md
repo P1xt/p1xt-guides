@@ -2,6 +2,11 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**January 24, 2018** 
+
+Added Angular topic guide.
+
+
 **January 03, 2018**
 
 Added [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) to the cs-wd and wd-cs guides. It's the next course in the series and becomes available on the 9th of January.
