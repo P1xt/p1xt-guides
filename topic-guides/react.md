@@ -14,7 +14,7 @@ The following is a deep dive, designed to familiarize you thoroughly with React.
 
 ## Tier 1 - basics
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
+Study each item thoroughly. Type the code. Understand how it works. Yes, the whole thing.
 
 **You NEED to know JavaScript** - if you're shaky on JavaScript, do yourself a favor and hit MDN and study, especially ES6 features - and hit YDKJS. 
 
@@ -43,7 +43,7 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 
 # Tier 2 - beyond basics
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
+Study each item thoroughly. Type the code. Understand how it works. Yes, the whole thing.
 
 ### For each project:
 * Use a git workflow
@@ -75,7 +75,7 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 
 # Tier 3 - intermediate
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
+Study each item thoroughly. Type the code. Understand how it works. Yes, the whole thing.
 
 ### For each project:
 * Use a git workflow
@@ -104,7 +104,7 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 
 # Tier 4 - beyond intermediate
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
+Study each item thoroughly. Type the code. Understand how it works. Yes, the whole thing.
 
 ### For each project:
 * Use a git workflow
