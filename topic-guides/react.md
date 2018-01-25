@@ -38,7 +38,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 10 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 - [ ]  Official Docs: [React FAQ](https://reactjs.org/docs/faq-ajax.html) read all sections of the FAQ, from AJAX and APIs through Virtual DOM and Internals - make a mental note of everything in case you need to refer back to it during projects
@@ -61,7 +61,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
 - [ ]  Official Docs: [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
 - [ ]  Official Docs: [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
 - [ ]  Official Docs: [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
@@ -70,7 +70,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 - [ ]  Official Docs: [Context](https://reactjs.org/docs/context.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Official Docs: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
 - [ ]  Official Docs: [Enzyme Docs](http://airbnb.io/enzyme/)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
@@ -104,7 +104,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Styled Components](https://www.styled-components.com/)
 - [ ]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 4 - beyond intermediate
@@ -134,7 +134,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Official Docs: [Accessibility](https://reactjs.org/docs/accessibility.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Official Docs: [React Reference](https://reactjs.org/docs/react-api.html) - all sections
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 

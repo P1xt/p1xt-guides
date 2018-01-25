@@ -37,7 +37,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
 - [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 10 problems using TypeScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using TypeScript
 - [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
@@ -54,7 +54,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 * Use Bootstrap
 -----    
 - [ ]  Official Docs: [TypeScript basics types ](https://www.typescriptlang.org/docs/handbook/basic-types.html) through [Project Configuration](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) of the TypeScript Handbook
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using TypeScript
 - [ ]  Official Docs: [Karma](https://karma-runner.github.io/2.0/index.html) - all config sections
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Angular](https://angular.io/) - Fundamentals, all sections
@@ -62,7 +62,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using TypeScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
@@ -94,7 +94,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 - [ ]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using TypeScript
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 4 - beyond intermediate
@@ -120,7 +120,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Official Docs: [Protractor Reference ](http://www.protractortest.org/#/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using TypeScript
 - [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)

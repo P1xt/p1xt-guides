@@ -36,7 +36,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Vue Loader](https://vue-loader.vuejs.org/en/)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [vue-test-utils](https://vue-test-utils.vuejs.org/en/)
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 10 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
@@ -55,7 +55,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 -----    
 - [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Transitions & Animation
 - [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Reusability & Composition
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Tooling
 - [ ]  Official Docs: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority B Rules
@@ -63,7 +63,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
 - [ ]  Official Docs: [Vue Router](https://router.vuejs.org/en/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Official Docs: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
@@ -98,7 +98,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
 - [ ]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 4 - beyond intermediate
@@ -125,7 +125,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Official Docs: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [Webpack Template](https://vuejs-templates.github.io/webpack/)
-- [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Official Docs: [Vuex](https://vuex.vuejs.org/en/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [Vue.js Server-Side Rendering Guide](https://ssr.vuejs.org/en/)
