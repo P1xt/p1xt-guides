@@ -9,10 +9,15 @@ The following is a deep dive, designed to familiarize you thoroughly with Angula
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/) (Additional HTML and CSS instruction)  
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/) (Dip into Sass, try to hit this before you finish the guide)
 - [ ]  Book Series: [YDKJS](https://github.com/getify/You-Dont-Know-JS/) (You need to KNOW JavaScript, not just sorta-know JavaScript, if you haven't studied these books, do yourself a favor and study them alongside whatever else you might be doing)
+- [ ]  Official Docs: [ESLint](https://eslint.org/) - thoroughly review the User Guide
+- [ ]  Official Docs: [Axios npm package](https://www.npmjs.com/package/axios) - thoroughly review, you'll want this for making API calls
 
 ## Tier 1 - basics
 
-Study each tutorial thoroughly. Type the code. Understand how it works.      
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing. 
+
+**You NEED to know JavaScript** - if you're shaky on JavaScript, do yourself a favor and hit MDN and study, especially ES6 features - and hit YDKJS. 
+     
 ### For each project:
 * Use a git workflow (If you wonder what this is, read the articles in Tier 0)
 
@@ -36,7 +41,7 @@ Study each tutorial thoroughly. Type the code. Understand how it works.
 
 # Tier 2 - beyond basics
 
-Study each tutorial thoroughly. Type the code. Understand how it works.    
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.    
 ### For each project:
 * Use a git workflow
 * Include at least 20 automated tests
@@ -59,7 +64,7 @@ Study each tutorial thoroughly. Type the code. Understand how it works.
 
 # Tier 3 - intermediate
 
-Study each tutorial thoroughly. Type the code. Understand how it works.    
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.    
 ### For each project:
 * Use a git workflow
 * Include at least 20 automated tests
@@ -87,7 +92,7 @@ Study each tutorial thoroughly. Type the code. Understand how it works.
 
 # Tier 4 - beyond intermediate
 
-Study each tutorial thoroughly. Type the code. Understand how it works.    
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.    
 ### For each project:
 * Use a git workflow
 * Include at least 20 automated tests

@@ -1,8 +1,8 @@
-# Vue - Topic Deep Dive
+# React - Topic Deep Dive
 
-The following is a deep dive, designed to familiarize you thoroughly with Vue. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of Vue's ecosystem and hands on non-Vue JavaScript practice to ensure a rock solid foundation in everything Vue.
+The following is a deep dive, designed to familiarize you thoroughly with React. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of React's ecosystem and hands on non-React JavaScript practice to ensure a rock solid foundation in everything React.
 
-## Tier 0 - reference only if you need pre-Vue basics
+## Tier 0 - reference only if you need pre-React basics
 - [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (If you want more confidence programming)
 - [ ]  Articles: How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64) (You want to be using git, read these to get up to speed.)
 - [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) (Intro, to get you started with HTML and CSS)
@@ -14,81 +14,86 @@ The following is a deep dive, designed to familiarize you thoroughly with Vue. I
 
 ## Tier 1 - basics
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.   
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
 
 **You NEED to know JavaScript** - if you're shaky on JavaScript, do yourself a favor and hit MDN and study, especially ES6 features - and hit YDKJS. 
-        
+
 ### For each project:
 * Use a git workflow (If you wonder what this is, read the articles in Tier 0)
 
 ### For at least one project:
 * Code all CSS yourself
-* Use Bootstrap 
+* Use React-Bootstrap
 ----    
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Essentials
+- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
+- [ ]  Tutorial: [Intro To React](https://reactjs.org/tutorial/tutorial.html) - All sections 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue DevTools](https://github.com/vuejs/vue-devtools)
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority A Rules
+- [ ]  Tutorial: [React Quick Start](https://reactjs.org/docs/hello-world.html) - all sections from Hello World to Thinking in React
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
-- [ ]  Tutorial: [Vue Loader](https://vue-loader.vuejs.org/en/)
+- [ ]  Tutorial: [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
+- [ ]  Tutorial: [React DevTools](https://github.com/facebook/react-devtools)
+- [ ]  Tutorial: [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [vue-test-utils](https://vue-test-utils.vuejs.org/en/)
+- [ ]  Tutorial: [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 10 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Tutorial: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
-
+- [ ]  Tutorial: [React FAQ](https://reactjs.org/docs/faq-ajax.html) read all sections of the FAQ, from AJAX and APIs through Virtual DOM and Internals - make a mental note of everything in case you need to refer back to it during projects
 
 
 # Tier 2 - beyond basics
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.    
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
+
 ### For each project:
 * Use a git workflow
 * Include at least 20 automated tests
 
 ### For at least one project:
 * Code all CSS yourself
-* Use Bootstrap
+* Use React-Bootstrap
 -----    
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Transitions & Animation
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Reusability & Composition
+- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
+- [ ]  Tutorial: [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+- [ ]  Tutorial: [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
+- [ ]  Tutorial: [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Tooling
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority B Rules
+- [ ]  Tutorial: [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+- [ ]  Tutorial: [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
+- [ ]  Tutorial: [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
-- [ ]  Tutorial: [Vue Router](https://router.vuejs.org/en/)
+- [ ]  Tutorial: [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+- [ ]  Tutorial: [Context](https://reactjs.org/docs/context.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
 - [ ]  Tutorial: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
+- [ ]  Tutorial: [Enzyme Docs](http://airbnb.io/enzyme/)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Tutorial: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 3 - intermediate
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing. 
-   
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
+
 ### For each project:
 * Use a git workflow
 * Include at least 20 automated tests
-* Utilize Sass
 * Implement end-to-end testing
 
 ### For at least one project:
 * Code all CSS yourself
-* Use Bootstrap
+* Use React-Bootstrap
 -----
-
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Scaling Up
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Internals
+- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
+- [ ]  Tutorial: [Fragments](https://reactjs.org/docs/fragments.html)
+- [ ]  Tutorial: [Portals](https://reactjs.org/docs/portals.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority C Rules
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
+- [ ]  Tutorial: [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+- [ ]  Tutorial: [Web Components](https://reactjs.org/docs/web-components.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js API](https://vuejs.org/v2/api/) - All sections 
-- [ ]  Tutorial: [Webpack Docs](https://webpack.js.org/concepts/)
+- [ ]  Tutorial: [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+- [ ]  Tutorial: [Render Props](https://reactjs.org/docs/render-props.html)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Tutorial: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
@@ -98,35 +103,34 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 
 # Tier 4 - beyond intermediate
 
-Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.    
+Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the whole thing.
+
 ### For each project:
 * Use a git workflow
 * Include at least 20 automated tests
-* Utilize Sass
 * Implement end-to-end testing
 
 ### For at least one project:
 * Code all CSS yourself
-* Use Bootstrap
-* Implement state using Vuex
+* Use React-Bootstrap
 * Implement state using Redux
 
 On two projects of your choice - use no CLI or boilerplate created by someone else. Setup the project from scratch using npm init. Setup your own build process. Include only what you need from npm. Know precisely what everything in the setup is doing because you put it there, on purpose, yourself.
 
 -----
-
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority D Rules
+- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
+- [ ]  Tutorial: [Webpack Docs](https://webpack.js.org/concepts/)
+- [ ]  Tutorial: [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
+- [ ]  Tutorial: [Redux docs](https://redux.js.org/)
+- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose.
+- [ ]  Tutorial: [Accessibility](https://reactjs.org/docs/accessibility.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
-- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Webpack Template](https://vuejs-templates.github.io/webpack/)
+- [ ]  Tutorial: [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
-- [ ]  Tutorial: [Vuex](https://vuex.vuejs.org/en/)
+- [ ]  Tutorial: [React Reference](https://reactjs.org/docs/react-api.html) - all sections
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Vue.js Server-Side Rendering Guide](https://ssr.vuejs.org/en/)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Redux docs](https://redux.js.org/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
@@ -135,7 +139,6 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 
 ## Bonus - advanced
 
-- [ ]  Tutorial: [Weex official documentation](http://weex.apache.org/guide/) Study thoroughly, then refactor any previous project into a mobile app using Weex
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Clone a substantial production website (on the level of Medium, Twitter, etc)

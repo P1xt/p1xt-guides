@@ -5,6 +5,7 @@ Typically this will only list resource additions and deletions. The goal is alwa
 **January 25, 2018** 
 
 Added Vue topic guide.
+Added React topic guide.
 
 
 **January 24, 2018** 
