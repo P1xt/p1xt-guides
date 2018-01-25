@@ -47,11 +47,12 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 
 ### For each project:
 * Use a git workflow
-* Include at least 20 automated tests
+
 
 ### For at least one project:
 * Code all CSS yourself
 * Use React-Bootstrap
+* Include at least 20 automated tests
 -----    
 - [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
 - [ ]  Tutorial: [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
