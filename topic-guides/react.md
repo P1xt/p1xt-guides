@@ -27,12 +27,15 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 ----    
 - [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
 - [ ]  Official Docs: [Intro To React](https://reactjs.org/tutorial/tutorial.html) - All sections 
+- [ ]  Official Docs: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [React Quick Start](https://reactjs.org/docs/hello-world.html) - all sections from Hello World to Thinking in React
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
 - [ ]  Official Docs: [React DevTools](https://github.com/facebook/react-devtools)
+- [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ]  Official Docs: [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 10 problems using JavaScript
@@ -96,7 +99,9 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 - [ ]  Official Docs: [Render Props](https://reactjs.org/docs/render-props.html)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
+- [ ]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
+- [ ]  Official Docs: [Styled Components](https://www.styled-components.com/)
 - [ ]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
@@ -121,6 +126,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 -----
 - [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
 - [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
+- [ ]  Official Docs: [Gulp Docs](https://gulpjs.com/)sty
 - [ ]  Official Docs: [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
 - [ ]  Official Docs: [Redux docs](https://redux.js.org/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.
@@ -142,6 +148,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Official Docs: [React Native](https://facebook.github.io/react-native/) Study thoroughly, then refactor any previous project into a mobile app using React Native
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [ ]  Official Docs: [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 - [ ]  Project: Clone a substantial production website (on the level of Medium, Twitter, etc)
 - [ ]  Write an extensive tutorial on React - post it publicly
 - [ ]  Project: Make an open source contribution to a project you use
