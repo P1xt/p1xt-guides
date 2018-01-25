@@ -2,6 +2,11 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**January 25, 2018** 
+
+Added Vue topic guide.
+
+
 **January 24, 2018** 
 
 Added Angular topic guide.
