@@ -92,6 +92,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
 - [ ]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+- [ ]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
@@ -122,17 +123,12 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
 - [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
-- [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
-- [ ]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
 - [ ]  Official Docs: [Gulp Docs](https://gulpjs.com/)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using TypeScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
-- [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
-- [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
-- [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 - [ ]  Project: Utilize everything you've learned to create a comprehensive portfolio that showcases your ability with Angular, refactoring earlier projects as necessary to bring them up to the standard of your current abilities.
