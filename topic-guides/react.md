@@ -139,7 +139,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Project: Utilize everything you've learned to create a comprehensive portfolio that showcases your ability with React, refactoring earlier projects as necessary to bring them up to the standard of your current abilities.
 
 ## Bonus - advanced
-
+- [ ]  Official Docs: [React Native](https://facebook.github.io/react-native/) Study thoroughly, then refactor any previous project into a mobile app using React Native
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Clone a substantial production website (on the level of Medium, Twitter, etc)
