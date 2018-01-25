@@ -126,6 +126,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 -----
 - [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
 - [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
+- [ ]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
 - [ ]  Official Docs: [Gulp Docs](https://gulpjs.com/)sty
 - [ ]  Official Docs: [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
 - [ ]  Official Docs: [Redux docs](https://redux.js.org/)
