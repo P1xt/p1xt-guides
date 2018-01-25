@@ -25,18 +25,18 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 * Code all CSS yourself
 * Use Bootstrap 
 ----    
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Essentials
+- [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Essentials
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue DevTools](https://github.com/vuejs/vue-devtools)
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority A Rules
+- [ ]  Official Docs: [Vue DevTools](https://github.com/vuejs/vue-devtools)
+- [ ]  Official Docs: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority A Rules
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
-- [ ]  Tutorial: [Vue Loader](https://vue-loader.vuejs.org/en/)
+- [ ]  Official Docs: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
+- [ ]  Official Docs: [Vue Loader](https://vue-loader.vuejs.org/en/)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [vue-test-utils](https://vue-test-utils.vuejs.org/en/)
+- [ ]  Official Docs: [vue-test-utils](https://vue-test-utils.vuejs.org/en/)
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 10 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 
 
@@ -51,20 +51,20 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 * Code all CSS yourself
 * Use Bootstrap
 -----    
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Transitions & Animation
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Reusability & Composition
+- [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Transitions & Animation
+- [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Reusability & Composition
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Tooling
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority B Rules
+- [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Tooling
+- [ ]  Official Docs: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority B Rules
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
-- [ ]  Tutorial: [Vue Router](https://router.vuejs.org/en/)
+- [ ]  Official Docs: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
+- [ ]  Official Docs: [Vue Router](https://router.vuejs.org/en/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
-- [ ]  Tutorial: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
+- [ ]  Official Docs: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 3 - intermediate
 
@@ -81,20 +81,20 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 * Use Bootstrap
 -----
 
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Scaling Up
-- [ ]  Tutorial: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Internals
+- [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Scaling Up
+- [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Internals
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority C Rules
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
+- [ ]  Official Docs: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority C Rules
+- [ ]  Official Docs: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Vue.js API](https://vuejs.org/v2/api/) - All sections 
-- [ ]  Tutorial: [Webpack Docs](https://webpack.js.org/concepts/)
+- [ ]  Official Docs: [Vue.js API](https://vuejs.org/v2/api/) - All sections 
+- [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
+- [ ]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
-- [ ]  Tutorial: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 4 - beyond intermediate
 
@@ -115,27 +115,27 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 
 -----
 
-- [ ]  Tutorial: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority D Rules
+- [ ]  Official Docs: [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) - Priority D Rules
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
+- [ ]  Official Docs: [Vue.js Examples](https://vuejs.org/v2/style-guide/) - Review all examples and pick one to implement yourself
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Webpack Template](https://vuejs-templates.github.io/webpack/)
+- [ ]  Official Docs: [Webpack Template](https://vuejs-templates.github.io/webpack/)
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using JavaScript
-- [ ]  Tutorial: [Vuex](https://vuex.vuejs.org/en/)
+- [ ]  Official Docs: [Vuex](https://vuex.vuejs.org/en/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Vue.js Server-Side Rendering Guide](https://ssr.vuejs.org/en/)
+- [ ]  Official Docs: [Vue.js Server-Side Rendering Guide](https://ssr.vuejs.org/en/)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Redux docs](https://redux.js.org/)
+- [ ]  Official Docs: [Redux docs](https://redux.js.org/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 - [ ]  Project: Utilize everything you've learned to create a comprehensive portfolio that showcases your ability with Vue, refactoring earlier projects as necessary to bring them up to the standard of your current abilities.
 
 ## Bonus - advanced
 
-- [ ]  Tutorial: [Weex official documentation](http://weex.apache.org/guide/) Study thoroughly, then refactor any previous project into a mobile app using Weex
+- [ ]  Official Docs: [Weex official documentation](http://weex.apache.org/guide/) Study thoroughly, then refactor any previous project into a mobile app using Weex
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Clone a substantial production website (on the level of Medium, Twitter, etc)

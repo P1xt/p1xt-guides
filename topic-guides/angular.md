@@ -25,13 +25,13 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 * Use Angular Material
 * Use Bootstrap 
 ----    
-- [ ]  Tutorial: [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [ ]  Tutorial: [Angular](https://angular.io/) - About Angular, all sections, pay special attention to the resources section, and within it: Angular CLI, Augury, Codelyzer, Lite-Server, and Ionic.
-- [ ]  Tutorial: [Angular](https://angular.io/) - Getting Started
-- [ ]  Tutorial: [Angular](https://angular.io/) - Tutorial, all sections
+- [ ]  Official Docs: [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [ ]  Official Docs: [Angular](https://angular.io/) - About Angular, all sections, pay special attention to the resources section, and within it: Angular CLI, Augury, Codelyzer, Lite-Server, and Ionic.
+- [ ]  Official Docs: [Angular](https://angular.io/) - Getting Started
+- [ ]  Official Docs: [Angular](https://angular.io/) - Tutorial, all sections
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Karma](https://karma-runner.github.io/2.0/index.html) - all intro sections
-- [ ]  Tutorial: [Jasmine](https://jasmine.github.io/) - getting started (Jasmine Standalone)
+- [ ]  Official Docs: [Karma](https://karma-runner.github.io/2.0/index.html) - all intro sections
+- [ ]  Official Docs: [Jasmine](https://jasmine.github.io/) - getting started (Jasmine Standalone)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
@@ -50,11 +50,11 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 * Use Angular Material
 * Use Bootstrap
 -----    
-- [ ]  Tutorial: [TypeScript basics types ](https://www.typescriptlang.org/docs/handbook/basic-types.html) through [Project Configuration](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) of the TypeScript Handbook
+- [ ]  Official Docs: [TypeScript basics types ](https://www.typescriptlang.org/docs/handbook/basic-types.html) through [Project Configuration](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) of the TypeScript Handbook
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
-- [ ]  Tutorial: [Karma](https://karma-runner.github.io/2.0/index.html) - all config sections
+- [ ]  Official Docs: [Karma](https://karma-runner.github.io/2.0/index.html) - all config sections
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Angular](https://angular.io/) - Fundamentals, all sections
+- [ ]  Official Docs: [Angular](https://angular.io/) - Fundamentals, all sections
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Podcast: [AngularAir](https://angularair.com/) - watch one episode of your choice.
@@ -76,13 +76,13 @@ Study each tutorial thoroughly. Type the code. Understand how it works. Yes, the
 * Use Bootstrap
 -----
 
-- [ ]  Tutorial: [Angular](https://angular.io/) - Techniques, all sections
+- [ ]  Official Docs: [Angular](https://angular.io/) - Techniques, all sections
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Jasmine Docs](https://jasmine.github.io/api/2.6/global) - study in their entirety
+- [ ]  Official Docs: [Jasmine Docs](https://jasmine.github.io/api/2.6/global) - study in their entirety
 - [ ]  Book: [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
-- [ ]  Tutorial: [Protractor Quickstart ](http://www.protractortest.org/#/)
+- [ ]  Official Docs: [Protractor Quickstart ](http://www.protractortest.org/#/)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)
-- [ ]  Tutorial: [Protractor Setup ](http://www.protractortest.org/#/)
+- [ ]  Official Docs: [Protractor Setup ](http://www.protractortest.org/#/)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using TypeScript
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
@@ -107,10 +107,10 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 
 -----
 
-- [ ]  Tutorial: [Angular](https://angular.io/) - API, all sections
-- [ ]  Tutorial: [Protractor Tests ](http://www.protractortest.org/#/)
+- [ ]  Official Docs: [Angular](https://angular.io/) - API, all sections
+- [ ]  Official Docs: [Protractor Tests ](http://www.protractortest.org/#/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
-- [ ]  Tutorial: [Protractor Reference ](http://www.protractortest.org/#/)
+- [ ]  Official Docs: [Protractor Reference ](http://www.protractortest.org/#/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Angular application powered by data fetched from the API you chose. 
 - [ ]  Podcast: [Adventures in Angular](https://devchat.tv/adv-in-angular) - listen to one episode of your choice.
 - [ ]  Project: [CodeWars](www.codewars.com) - complete 20 problems using TypeScript
