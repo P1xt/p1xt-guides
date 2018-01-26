@@ -147,6 +147,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 
 ## Bonus - advanced
 - [ ]  Official Docs: [React Native](https://facebook.github.io/react-native/) Study thoroughly, then refactor any previous project into a mobile app using React Native
+- [ ]  Official Docs: [Flow](https://flow.org/) Study thoroughly, then refactor any previous project to use Flow.
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Official Docs: [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
