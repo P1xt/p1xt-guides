@@ -1,6 +1,6 @@
 # Vue - Topic Deep Dive
 
-The following is a deep dive, designed to familiarize you thoroughly with Vue. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of Vue's ecosystem and hands on non-Vue JavaScript practice to ensure a rock solid foundation in everything Vue.
+The following is a deep dive, designed to familiarize you thoroughly with Vue. It is not the "easy path to just learning 'enough'" - it aims far higher, combining thorough study of the official docs, regular practice projects, comprehensive exploration of Vue's ecosystem and hands on non-Vue JavaScript practice to ensure a rock solid foundation in everything Vue.
 
 ## Tier 0 - reference only if you need pre-Vue basics
 - [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (If you want more confidence programming)
