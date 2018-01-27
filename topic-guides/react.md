@@ -1,6 +1,6 @@
 # React - Topic Deep Dive
 
-The following is a deep dive, designed to familiarize you thoroughly with React. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of React's ecosystem and hands on non-React JavaScript practice to ensure a rock solid foundation in everything React.
+The following is a deep dive, designed to familiarize you thoroughly with React. It is not the "easy path to just learning 'enough'" - it aims far higher, combining thorough study of the official docs, regular practice projects, comprehensive exploration of React's ecosystem and hands on non-React JavaScript practice to ensure a rock solid foundation in everything React.
 
 ## Tier 0 - reference only if you need pre-React basics
 - [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (If you want more confidence programming)
