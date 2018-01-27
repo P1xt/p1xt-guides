@@ -1,6 +1,6 @@
 # Angular - Topic Deep Dive
 
-The following is a deep dive, designed to familiarize you thoroughly with Angular. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of TypeScript, Karma, Jasmine, and Protractor and hands on non-Angular TypeScript practice to ensure a rock solid foundation in everything Angular.
+The following is a deep dive, designed to familiarize you thoroughly with Angular. It is not the "easy path to just learning 'enough'" - it aims far higher, combining thorough study of the official docs, regular practice projects, comprehensive exploration of TypeScript, Karma, Jasmine, and Protractor and hands on non-Angular TypeScript practice to ensure a rock solid foundation in everything Angular.
 
 ## Tier 0 - reference only if you need pre-Angular basics
 - [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (If you want more confidence programming)
