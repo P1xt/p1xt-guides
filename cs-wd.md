@@ -1,7 +1,7 @@
 # Computer Science and Web Development - comprehensive
 
 If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ.
-It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
+It has a plethora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - getting started
 
@@ -68,7 +68,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 * [ ] Project: Complete all ES6 Katas [here](http://es6katas.org/)
 * [ ] Course: [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)
 * [ ] Project: Complete all challenges from the [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
-* [ ] Project: Build FaceBook: yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fullfill.
+* [ ] Project: Build Facebook: yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fulfill.
 * [ ] Course: [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 * [ ] Project: Complete all challenges from the [Code Jam Round 1C 2015](https://code.google.com/codejam/contest/4244486/dashboard)
 * [ ] Course: [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
@@ -90,7 +90,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 * [ ] Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
 * [ ] Project: Complete all challenges from the [Code Jam World Finals 2015](https://code.google.com/codejam/contest/5224486/dashboard)
 * [ ] Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
+* [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
 * [ ] Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)
 * [ ] Project: Create a node module that will convert markdown to properly formatted html
 * [ ] Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
