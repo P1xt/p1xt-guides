@@ -62,9 +62,16 @@ If you need to study before diving in:
 - [ ]  Lessons: [Basic Programming](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/)
 - [ ]  Lessons: [Data Structures](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
 - [ ]  Book - [Open Data Structures (in C++)](http://opendatastructures.org/ods-cpp.pdf)
-- [ ]  Practice: [HackerRank Data Structures Section](https://www.hackerrank.com/domains/data-structures/)
-- [ ]  Lessons: [Algorithms](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
-- [ ]  Practice: [HackerRank Algorithms Section](https://www.hackerrank.com/domains/algorithms/)
+- [ ]  Practice: [C++ Interview Prep](https://www.hackerrank.com/chingu-challenge-10-c-interview-prep)
+
+### Prep - JavaScript Version
+- [ ]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+- [ ]  Book: [YDKJS](https://github.com/getify/You-Dont-Know-JS)
+- [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+- [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [ ]  Book - [Open Data Structures](http://opendatastructures.org/ods-python.pdf)
+- [ ]  Practice: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep)
 
 ### Prep - Mathematics / Algorithms to go with any other language of your choice
 - [ ]  Pick a language and find an online resource for learning the basics of that language
@@ -82,3 +89,4 @@ If you need to study before diving in:
 - [ ]  Course: [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) Requires textbook purchase (Cormen)
 - [ ]  Course: [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm)
 - [ ]  Course: [Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)
+
