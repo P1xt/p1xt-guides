@@ -70,6 +70,7 @@ If you need to study before diving in:
 - [ ]  Book: [YDKJS](https://github.com/getify/You-Dont-Know-JS)
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [ ]  Course: [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science)
 - [ ]  Book - [Open Data Structures](http://opendatastructures.org/ods-python.pdf)
 - [ ]  Practice: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep)
 
