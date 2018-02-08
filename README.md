@@ -19,7 +19,7 @@ Web development, software engineering, games programming, mobile app development
     * Angular
     * Vue
     * React
-* [Practice/Speedrun Project lists](#practice-speedrun)
+* [Practice/Speedrun Project lists - interview prep, portfolio building, practice for programming competitions](#practice-speedrun)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Attribution](#attribution)
 
@@ -140,7 +140,7 @@ Comprehensive review of narrow topics.
 
 ## Practice Speedrun
 
-Topic specific practice, to build out a portfolio, gain additional experience in an area, or for a preset list of assignments to tackle for a hands-on boosting speedrun to drive your ability to the next level:
+Topic specific practice, to build out a portfolio, gain additional experience in an area, or for a preset list of assignments to tackle for a hands-on boosting speedrun to drive your ability to the next level (check the Algorithms section for interview prep or practice for programming competitions in Python, Java, C++ or JavaScript):
 
 * [Algorithms and Data Structures](./speedrun-practice/algorithms.md)
 * [Android](./speedrun-practice/android.md)
