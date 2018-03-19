@@ -24,7 +24,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)   
 - [ ] Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
 - [ ] Book - [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
-- [ ] Course - [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX
+- [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 - [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 - [ ] Book - [DOM Enlightenment](http://domenlightenment.com/)
 - [ ] Project - Portfolio from the frontend section of FCC
