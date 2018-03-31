@@ -36,7 +36,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 ## Tier 1 - foundations
 - [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermittently offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6) 
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
+- [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  
 - [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
 - [ ]  Course Series: [Deep Learning Path on Cognitive Class](https://cognitiveclass.ai/learn/deep-learning/)
 - [ ]  Course: [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) 
@@ -44,7 +44,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 - [ ]  Book: [Think Stats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 - [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [ ]  Course: [Introduction to Solid State Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/index.htm) 
-- [ ]  Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) 
+- [ ]  Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
 - [ ]  Book: [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)  
 - [ ]  Course: [Principles of Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x-0) 
 - [ ]  Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) 

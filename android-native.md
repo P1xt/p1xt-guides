@@ -42,7 +42,7 @@ publishing something you copied or cloned.
 - [ ] Project: [Inventory App](./projects/android/Inventory.md)
 
 ## Tier 2 - Intermediate Android
-- [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1) Complete by end of Tier 2 
+- [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) Complete by end of Tier 2 
 - [ ] Course: [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Project: [Popular Movies, Stage 1](./projects/android/PopularMoviesStage1.md)
 - [ ] Project: [Popular Movies, Stage 2](./projects/android/PopularMoviesStage2.md)
@@ -55,7 +55,7 @@ publishing something you copied or cloned.
 
 
 ## Tier 3 - More CS 
-- [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) Complete by the end of Tier 3    
+- [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) Complete by the end of Tier 3    
 - [ ] Course: [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 - [ ] Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
 - [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    

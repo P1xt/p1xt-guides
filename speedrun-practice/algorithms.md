@@ -38,7 +38,7 @@ If you need to study before diving in:
 
 ### Prep - Python version
 - [ ]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
+- [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  
 - [ ]  Course: [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) 
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) 
 - [ ]  Course: [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) (requires book purchase) or Book - [Open Data Structures](http://opendatastructures.org/ods-python.pdf)
@@ -46,7 +46,7 @@ If you need to study before diving in:
 
 ### Prep - Java version
 - [ ]  Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+- [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [ ]  Course: [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/index.htm)
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Book - [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf)
@@ -56,7 +56,7 @@ If you need to study before diving in:
 
 ### Prep - C++ Version
 - [ ]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+- [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [ ]  Course: [Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/index.htm)
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Lessons: [Basic Programming](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/)
@@ -66,7 +66,7 @@ If you need to study before diving in:
 
 ### Prep - JavaScript Version
 - [ ]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+- [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [ ]  Book: [YDKJS](https://github.com/getify/You-Dont-Know-JS)
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
@@ -76,7 +76,7 @@ If you need to study before diving in:
 
 ### Prep - Mathematics / Algorithms to go with any other language of your choice
 - [ ]  Pick a language and find an online resource for learning the basics of that language
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+- [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Book - [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Practice: [HackerRank Data Structures Section](https://www.hackerrank.com/domains/data-structures/)
@@ -85,7 +85,7 @@ If you need to study before diving in:
 ### Advanced Mathematics / Algorithms 
 (addon to any of the other preps if you want to dive even deeper)
 - [ ]  Course: [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-1) Optional - only if it's in session
-- [ ]  Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)  
+- [ ]  Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)  
 - [ ]  Course: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)  
 - [ ]  Course: [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) Requires textbook purchase (Cormen)
 - [ ]  Course: [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm)

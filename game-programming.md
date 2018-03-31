@@ -70,7 +70,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Article: [The Total Beginner’s Guide to Better 2D Game Art](http://www.gamedev.net/page/resources/_/creative/visual-arts/the-total-beginner%E2%80%99s-guide-to-better-2d-game-art-r2959)
 - [ ] Article: [2D Tutorial Series Introduction](http://www.aaroncox.net/tutorials/arcade/Introduction.html)
 - [ ] Game: Pong (Reference Tutorial [Paddle Battle](http://www.aaroncox.net/tutorials/arcade/PaddleBattle.html))
-- [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
+- [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  
 - [ ] Game: Duck Hunt
 - [ ] Course: [The Rise of Superheroes and Their Impact On Pop Culture](https://www.edx.org/course/rise-superheroes-impact-pop-culture-smithsonianx-popx1-5x#!)
 - [ ] Game: Sokoban, Snake, or Minesweeper - your choice
@@ -94,7 +94,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Article: [General Concepts for Beginning Developers](http://www.hobbygamedev.com/beg/general-concepts-for-beginning-game-developers/)
 - [ ] Article: [OpenGL Math Primer](http://lazyfoo.net/articles/article10/index.php)
 - [ ] Game: Breakout (Reference tutorial [Block Breaker (Breakout)](http://www.aaroncox.net/tutorials/arcade/BlockBreaker.html))
-- [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus) 
+- [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
 - [ ] Course: [Intro to Physics](https://www.udacity.com/course/intro-to-physics--ph100)
 - [ ] Game: Asteroids
 - [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
