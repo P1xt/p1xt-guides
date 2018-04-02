@@ -2,6 +2,9 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**April 2, 2018**
+Added Computer Science and Backend Development - Java Focus Guide.
+
 **March 31, 2018**
 Swapped the OSU Calculus courses from Coursera (they're being decommissioned) for MITOCW Calculus Courses.
 
