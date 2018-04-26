@@ -149,7 +149,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Book: [Basics of Compiler Design](http://www.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
 * [ ] Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [ ] Project: [Google Code Jam 2014](https://code.google.com/codejam/past-contests) All Rounds
-* [ ] Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+* [ ] Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
 * [ ] Project: [Google Code Jam 20152](https://code.google.com/codejam/past-contests) All Rounds
 * [ ] Course: [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 * [ ] Project: [Google Code Jam 2016](https://code.google.com/codejam/past-contests) All Rounds
