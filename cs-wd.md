@@ -95,7 +95,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)
 * [ ] Project: Create a node module that will convert markdown to properly formatted html
 * [ ] Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-* [ ] Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+* [ ] Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
 * [ ] Project: Clone [Learn Harmony](http://learnharmony.org/#/?_k=0okjs7)
 * [ ] Course: [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 * [ ] Course: [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
