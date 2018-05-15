@@ -83,7 +83,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 * [ ] Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
 * [ ] Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
+* [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
 * [ ] Project: Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Project: Create a node module that will convert markdown to properly formatted html
 * [ ] Project: Create an npm module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework of your choice on the frontend. Include a full test suite and comprehensive build processes. Publish it to NPM.
