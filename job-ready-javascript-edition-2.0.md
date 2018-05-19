@@ -8,11 +8,11 @@ A guide primarily focused on Frontend development, but including just enough of 
 - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
 - [What now?](#what-now-)
 - [FAQ for this guide](#faq-for-this-guide)
-  * [Why is it so much longer than the original Job Ready Guide?](#why-is-it-so-much-longer-than-the-original-job-ready-guide-)
-  * [Why so much Math and Algorithms?](#why-so-much-math-and-algorithms-)
-  * [Where should I deploy my code?](#where-should-i-deploy-my-code-)
-  * [Why the change in Project selections?](#why-the-change-in-project-selections-)
-  * [Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?](#do-you-have-a-list-of-helpful-links-to-point-me-in-the-right-direction-if-i-need-a-productive-break--or-need-to-consult-the-official-docs-while-i-m-working-through-all-this-)
+  * [Why is it so much longer than the original Job Ready Guide?](#why-is-it-so-much-longer-than-the-original-job-ready-guide)
+  * [Why so much Math and Algorithms?](#why-so-much-math-and-algorithms)
+  * [Where should I deploy my code?](#where-should-i-deploy-my-code)
+  * [Why the change in Project selections?](#why-the-change-in-project-selections)
+  * [Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?](#do-you-have-a-list-of-helpful-links-to-point-me-in-the-right-direction-if-i-need-a-productive-break--or-need-to-consult-the-official-docs-while-i-m-working-through-all-this)
 
 
 ---
