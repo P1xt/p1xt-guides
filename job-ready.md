@@ -12,7 +12,7 @@ Are you thinking "I'll just finish the frontend certification" and start applyin
 Finish this list - and you'll walk into interviews with a lot more confidence, and a much better chance of landing that job.
 
 If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ. 
-It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
+It has a plethora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Read these books, complete these two courses, this certification, and these three projects
 
