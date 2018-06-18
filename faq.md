@@ -14,10 +14,10 @@ You should understand how to use Git and Github, which you can learn using any o
 ## What development environment should I be using?
 * Pick your favorite editor, write all your code on your own machine in that editor
 * Save all your code to GitHub
-* Publish all your projects to the web  - using surge.sh, github pages, heroku etc
+* Publish all your projects to the web - using surge.sh, github pages, heroku etc
 * Avoid codepen.
 * Avoid cloud 9 or any other "just code it on the web so you don't have to learn how to code on your own machine" site.
-* Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.
+* Whenever you are doing a "Clone this" project - use only assets you create yourself or that have copyrights which would allow you to use them.
 * Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
 
 ## How should I approach the items in the guides?
@@ -110,7 +110,7 @@ other host you want, but figuring that out is up to you.
 * sign up for https://www.codingame.com - finish every training challenge up through "very hard", for the hard and very hard challenges, you'll likely need to have worked down the main list in this post to the data structures book
 * learn [Sass](http://sass-lang.com/guide)
 * Join one of the Chingu cohorts that @tropicalchancer puts together and actively participate on one or more group projects
-* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/)  landing page
+* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
 * Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 * Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
