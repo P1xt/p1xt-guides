@@ -88,7 +88,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Finish any of [100 Days of CSS](https://100dayscss.com/) you have yet to complete.
 - [ ]  Project: Create and polish your Portfolio site.
 - [ ]  Project: Create and polish your Resume/CV.
-- [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
+- [ ]  Project: Study and complete all [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank
 - [ ]  Project: Continue honing your skills as you interview. Prioritize contributing to open source.
 ---
 ## What now?
