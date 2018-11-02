@@ -6,9 +6,9 @@ The following is a list of practice projects for full stack development intended
 Always find or make your own open source assets when doing any clone, and attribute your sources. Don't get sued for copyright violation.
 
 ## Projects
-- [ ]  Project: [100 Days of CSS](https://100dayscss.com/) - pick 1 of the 100 and implement it
+- [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) - pick 1 of the 100 and implement it
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
-- [ ]  Project: [100 Days of CSS](https://100dayscss.com/) - pick 1 of the 100 and implement it
+- [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) - pick 1 of the 100 and implement it
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.  
 - [ ]  Project: Build a full stack flashcards app, pre-populated with flash cards for JavaScript review.
 - [ ]  Project: Full stack project of your choice (ideas: clone Facebook, Reddit, Netflix, Slack) - Consider building it as a Chrome Extension, Mobile, or Electron App.
@@ -18,12 +18,12 @@ Always find or make your own open source assets when doing any clone, and attrib
 - [ ]  Project: Clone Twitter using the language/framework of your choice on the backend, and your frontend framework/library of choice. Include all basic features: signup/login/logout, follow user, search, tweet, like/retweet, home page with stream of recent tweets.
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ]  Project: Enhance your flash cards app with another deck of cards for an additional topic of your choosing.
-- [ ]  Project: [100 Days of CSS](https://100dayscss.com/) - pick 1 of the 100 and implement it
+- [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) - pick 1 of the 100 and implement it
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose. 
 - [ ]  Project: Full stack project of your choice (ideas: clone Facebook, Reddit, Netflix, Slack) - Consider building it as a Chrome Extension, Mobile, or Electron App.
 - [ ]  Project: Enhance your flash cards app with another deck of cards for an additional topic of your choosing.
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
-- [ ]  Project: [100 Days of CSS](https://100dayscss.com/) - pick 1 of the 100 and implement it
+- [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) - pick 1 of the 100 and implement it
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose. 
 - [ ]  Project: Enhance your flash cards app with another deck of cards for an additional topic of your choosing.
 - [ ]  Project: Clone Medium. Include: create account, create post, publish post, edit post, add topic to post, follow user, follow topic, cheer for post, and home page with feed of recent posts, followed users, and followed topics.
