@@ -3,7 +3,7 @@
 You should understand how to use Git and Github, which you can learn using any of these free resources:
 
 **Note**: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!
-- [Try Git](https://try.github.io/levels/1/challenges/1)
+- [Git Videos](https://git-scm.com/videos) or [Pro Git](https://git-scm.com/book/en/v2)
 - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
