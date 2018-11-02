@@ -36,7 +36,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Simon Game from the frontend section of FCC
 * [ ] Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 * [ ] Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
-* [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
+* [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or Course: [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) on edX (or both, your choice)
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 * [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -59,7 +59,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 * [ ] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
-* [ ] Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
+* [ ] Book: [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 * [ ] Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 * [ ] Project: Clone Reddit

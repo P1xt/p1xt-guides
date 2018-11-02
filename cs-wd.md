@@ -34,7 +34,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
 * [ ] Project: Simon Game from the frontend section of FCC
 * [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
-* [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
+* [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or Course: [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) on edX (or both, your choice)
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 * [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -62,7 +62,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 * [ ] Project: Complete all challenges from the [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
-* [ ] Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
+* [ ] Book: [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
 * [ ] Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
