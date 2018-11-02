@@ -34,7 +34,8 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 
 ## Tier 1 - foundations
-- [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermittently offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
+- [ ]  Course: [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - note: this course is only intermittently offered, sign up at the start of the Tier, then proceed to the other courses and return to this one when it's in session 
+- [ ]  Course: [MM220P: MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) - note: this course is only intermittently offered, sign up at the start of the Tier, then proceed to the other courses and return to this one when it's in session 
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6) 
 - [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  
 - [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
