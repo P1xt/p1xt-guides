@@ -8,13 +8,11 @@ Web development, software engineering, games programming, mobile app development
 * [Guides](#guides)
   * [Job Ready Guide - JavaScript Edition 3.0](#job-ready-guide---javascript-edition-30)
   * [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
-  * [Job Ready Guide - JavaScript Edition 1.0](#get-job-ready-with-13-projects-2-courses-and-10-books) - deprecated
-  * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20) - deprecated
   * [Computer Science and Backend Development - Java Focus](#computer-science-and-backend-development---java-focus)
   * [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   * [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
   * [Data Science - comprehensive](#data-science---comprehensive)
-  * [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations)
+  * [Video Game Programming - comprehensive foundations 2.0](#video-game-programming---comprehensive-foundations-2.0)
   * [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
   * [Topic Specific Guides](#topic-specific-deep-dives)
     * regex
@@ -24,6 +22,10 @@ Web development, software engineering, games programming, mobile app development
 * [Practice/Speedrun Project lists - interview prep, portfolio building, practice for programming competitions](#practice-speedrun)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Attribution](#attribution)
+* Old versions which have been replaced by newer revisions to the guides (left here so as not to strand anyone already using them who doesn't want to swap to the newer version)
+  * [Job Ready Guide - JavaScript Edition 1.0](#get-job-ready-with-13-projects-2-courses-and-10-books) - deprecated
+  * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20) - deprecated
+  * [Video Game Programming - comprehensive foundations](#video-game-programming---comprehensive-foundations) - deprecated
 
 ## Summary
 
@@ -46,6 +48,7 @@ If you're interested in seeing how much Computer Science you can learn in a year
 * Topic Guide: React - January, 2018
 * Computer Science and Backend Development - Java Focus - April 2018
 * Job Ready JavaScript 3.0 - December, 2018
+* Video Game Programming - comprehensive foundations 2.0 - December, 2018
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -68,27 +71,6 @@ A JavaScript-centric version of the Job Ready Guide, narrowly focused on buildin
 A Python-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
 
 [go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
-
-### Get Job ready with 13 projects, 2 courses, and 10 books
-
-Note: This is an old version of the guide, left here so anyone already working through it may continute to do so - I highly recommend anyone new to the guides use [the 3.0 version](#job-ready-guide---javascript-edition-30) instead.
-    
-A structured plan of resources and activities for learners who want to beeline to "job ready" and get there
-reasonably prepared to be successful.
-
-**Goal:** confident web developer ready to apply for junior positions
-
-[go to the Job Ready Guide](./job-ready.md)
-
-### Job Ready Guide - JavaScript Edition 2.0
-
-Note: This is an old version of the guide, left here so anyone already working through it may continute to do so - I highly recommend anyone new to the guides use [the 3.0 version](#job-ready-guide---javascript-edition-30) instead.
-    
-A JavaScript-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" JavaScript Developer. This is an updated version of the original Job Ready guide which incorporates additional algorithms practice, additional projects, and a sequence that builds in additional activities to answer the "what should I be doing on the side" question.
-
-**Goal:** confident frontend web developer ready to apply for junior positions
-
-[go to the Job Ready Guide - JavaScript Edition 2.0](./job-ready-javascript-edition-2.0.md)
 
 
 
@@ -141,14 +123,17 @@ _"not in a rush"_ plan that pushes from beginner to advanced, including a bonus 
 
 [go to the Data Science Guide](./data-science.md)
 
-### Video Game Programming - comprehensive foundations
+### Video Game Programming - comprehensive foundations 2.0
+
+Note: the 2.0 version of this guide includes slightly more game programming practice, adds the excellent CS50 game programming course, and a general overall maintenance update to ensure links are current.
 
 Develop a variety of games, first in JavaScript, then C++ while learning the computer science principles
 important in game development ... while having fun in the process.
 
 **Goal:** learn how to code video games
 
-[go to the Video Game Programming Guide](./game-programming.md)
+[go to the Video Game Programming Guide2.0](./game-programming-2.0.md)
+
 
 ### Native Android Programming - comprehensive
 
@@ -189,3 +174,40 @@ see the [FAQ](./faq.md)
 * Many of the projects were inspired by (or are directly taken from) [Free Code Camp](https://www.freecodecamp.com/), [The Odin Project](http://www.theodinproject.com/) and [Udacity](https://www.udacity.com)
 
 Although I took heavy inspiration from many resources when creating these guides, none of it is a cut and paste path from somewhere else. Often, I substituted courses (especially in the case of Coursera) to ensure that the entire course was available for free and required no purchases of any kind. Where possible, I tried to align projects to reinforce prior learning.
+
+## Deprecated Guides
+### Get Job ready with 13 projects, 2 courses, and 10 books
+
+Note: This is an old version of the guide, left here so anyone already working through it may continute to do so - I highly recommend anyone new to the guides use [the 3.0 version](#job-ready-guide---javascript-edition-30) instead. This version is no longer maintained and may contain dead links.
+    
+~~A structured plan of resources and activities for learners who want to beeline to "job ready" and get there
+reasonably prepared to be successful.~~
+
+~~**Goal:** confident web developer ready to apply for junior positions~~
+
+~~[go to the Job Ready Guide](./job-ready.md)~~
+
+### Job Ready Guide - JavaScript Edition 2.0
+
+Note: This is an old version of the guide, left here so anyone already working through it may continute to do so - I highly recommend anyone new to the guides use [the 3.0 version](#job-ready-guide---javascript-edition-30) instead. This version is no longer maintained and may contain dead links.
+    
+    
+~~A JavaScript-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" JavaScript Developer. This is an updated version of the original Job Ready guide which incorporates additional algorithms practice, additional projects, and a sequence that builds in additional activities to answer the "what should I be doing on the side" question.~~
+
+~~**Goal:** confident frontend web developer ready to apply for junior positions~~
+
+~~[go to the Job Ready Guide - JavaScript Edition 2.0](./job-ready-javascript-edition-2.0.md)~~
+
+### Video Game Programming - comprehensive foundations
+
+Note: this version of the Game Programming Guide is deprecated in favor of [the 2.0 version](#video-game-programming---comprehensive-foundations-2.0) it is left here so as not to strand anyone who was in the middle of it and doesn't want to switch to the 2.0 version. No longer maintained - may contain dead links.
+
+~~Develop a variety of games, first in JavaScript, then C++ while learning the computer science principles
+important in game development ... while having fun in the process.~~
+
+~~**Goal:** learn how to code video games~~
+
+~~[go to the Video Game Programming Guide](./game-programming.md)~~
+
+
+

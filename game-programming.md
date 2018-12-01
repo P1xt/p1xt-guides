@@ -1,6 +1,8 @@
 
 # Video Game Programming - comprehensive foundations 
 
+## Deprecated - Updated 2.0 version available [here](./game-programming-2.0.md)
+
 I list a lot of games to clone in this list. I do not mean make the exact same game down to the assets and name and everything. I mean make a game that uses the same mechanics. **Don't get yourself sued for copyright violation.**
 There are references at the bottom of this list to answer some common questions relevant only to this guide (and thus not present in the [FAQ](./faq.md) which contains a plathora of information pertinent to not only this guide, but the others as well.)
 

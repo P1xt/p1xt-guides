@@ -2,8 +2,11 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+
 **December 1, 2018**
 Added Job Ready Guide - JavaScript Edition 3.0.
+Added Video Game Programming - comprehensive foundations 2.0.
+Marked all previous versions of the Job Ready and Video Game Programming guides as deprecated. The deprecated guides remain for those who don't want to switch to the newer versions but they are no longer maintained and may contain dead links.
 
 **April 26, 2018**
 Swapped the Natural Language Processing course from Michigan for the Robotics Fundamentals course from Penn. There wasn't a similarly outstanding NLP course available so I replaced it with an outstanding course from a similarly interesting field taught at a similarly advanced level of rigor.

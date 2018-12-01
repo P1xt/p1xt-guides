@@ -1,4 +1,7 @@
 # Get Job ready - JavaScript Edition - Version 2.0
+
+## Deprecated - Updated 3.0 version available [here](./job-ready-javascript-edition-3.0.md)
+
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
 - [Tier 0 - Prep](#tier-0---prep)

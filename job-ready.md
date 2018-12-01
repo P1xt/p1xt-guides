@@ -1,5 +1,7 @@
 # Get Job ready with 13 projects, 2 courses, and 10 books
 
+## Deprecated - Updated 3.0 version available [here](./job-ready-javascript-edition-3.0.md)
+
 Are you working through the FreeCodeCamp curriculum and  want to be job ready (for a junior role) without finishing all three certifications? 
 Want to short-circuit the process and get this done quick without getting laughed out of interviews?
 
