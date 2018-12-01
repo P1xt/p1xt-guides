@@ -56,7 +56,7 @@ Precalculus
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-agency/) as your inspiration, include all features (hover effects, animations, etc)  
-- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Easy' setion.   
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Easy' section.   
 - [ ]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-resume/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
@@ -88,9 +88,9 @@ Precalculus
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
-- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Medium' setion. 
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Medium' section. 
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
-- [ ]  Tackle documentation: Pick [Angular](https://angular.io/), [React](https://reactjs.org/), or [Vue](https://vuejs.org/) and dive into it's official documentation, study it all, practice it, learn it thoroughly - then clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using whichever library/framework you chose. Note that there are 'many' pages and features to this template, you should clone them all. Continue practicing by using your library/framework of choice on the majority of the projects from this point forward in the guide.
+- [ ]  Tackle documentation: Pick [Angular](https://angular.io/), [React](https://reactjs.org/), or [Vue](https://vuejs.org/) and dive into its official documentation, study it all, practice it, learn it thoroughly - then clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using whichever library/framework you chose. Note that there are 'many' pages and features to this template, you should clone them all. Continue practicing by using your library/framework of choice on the majority of the projects from this point forward in the guide.
 - [ ]  Tackle documentation: Study the [Jest.io official docs](https://jestjs.io/) working through all the introduction and guides sections.
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-coming-soon/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -114,7 +114,7 @@ Algebra II
 Trigonometry
 ](https://www.khanacademy.org/math/trigonometry) you have yet to complete.
 - [ ]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
-- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Hard' setion. 
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Hard' section. 
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/fine-best-app-landing-page-free-web-template/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Tackle documentation: Thoroughly study [The Webpack Guides](https://webpack.js.org/guides/)
@@ -133,7 +133,7 @@ Precalculus
 **Goal:** Interview with confidence.
 - [ ]  Project: Finish any questions you have remaining from   [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep)
 - [ ]  Project: Finish any of [100 Days of CSS](https://codepen.io/collection/AVPPQq/) you have yet to complete.
-- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Very Hard' setion. 
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Very Hard' section. 
 - [ ]  Project: Create and polish your Portfolio site.
 - [ ]  Project: Create and polish your Resume/CV.
 - [ ]  Project: Study and complete all [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank
