@@ -1,5 +1,5 @@
 # Get Job ready - JavaScript Edition - Version 3.0
-# work in progress - not ready for use
+
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
 - [Tier 0 - Prep](#tier-0---prep)
