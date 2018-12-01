@@ -61,7 +61,7 @@ A JavaScript-centric version of the Job Ready Guide, narrowly focused on buildin
 
 **Goal:** confident frontend web developer ready to apply for junior positions
 
-[go to the Job Ready Guide - JavaScript Edition 3.0](./job-ready-javascript-edition-2.0.md)
+[go to the Job Ready Guide - JavaScript Edition 3.0](./job-ready-javascript-edition-3.0.md)
 
 ### Job Ready Guide - Python Edition
 
