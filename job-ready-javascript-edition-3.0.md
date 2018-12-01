@@ -3,10 +3,11 @@
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
 - [Tier 0 - Prep](#tier-0---prep)
-- [Tier 1 - Intro to Programming](#tier-1---intro-to-programming)
-- [Tier 2 - Add Complexity](#tier-2---add-complexity)
-- [Tier 3 - Practice](#tier-3---practice)
-- [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
+- [Tier 1 - The Basics](#tier-1---the-basics)
+- [Tier 2 - Intro to Programming](#tier-2---intro-to-programming)
+- [Tier 3 - Add Complexity](#tier-3---add-complexity)
+- [Tier 4 - Practice](#tier-4---practice)
+- [Tier 5 - Wrap everything up and prep for interviews](#tier-5---wrap-everything-up-and-prep-for-interviews)
 - [What now?](#what-now-)
 - [FAQ for this guide](#faq-for-this-guide)
   * [Why is it so much longer than the original Job Ready Guide?](#why-is-it-so-much-longer-than-the-original-job-ready-guide)
@@ -22,22 +23,33 @@ A guide primarily focused on Frontend development, but including just enough of 
 **Goal:** Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by midway through Tier 2. 
 
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
-- [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
-- [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
+- [ ]  Start working on [Khan Academy]() math sections daily. Begin wherever your current knowledge lies, and progress alongside the rest of the guide (aiming to cover Algebra, Trigonometry and Pre-Calculus).
 - [ ]  Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
 - [ ]  Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
 - [ ]  Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
 
 ---
 
-## Tier 1 - Intro to Programming 
+## Tier 1 - The Basics
+**Goal**: Become comfortable with HTML, CSS, JavaScript and SQL basics.
+
+- [ ]  Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) 
+- [ ]  Course: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) 
+- [ ]  Course: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) 
+- [ ]  Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) 
+- [ ]  Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) 
+- [ ]  Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
+- [ ]  Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
+
+## Tier 2 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 - [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) 
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
 - [ ]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-- [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-agency/) as your inspiration, include all features (hover effects, animations, etc)    
+- [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-agency/) as your inspiration, include all features (hover effects, animations, etc)  
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Easy' setion.   
 - [ ]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-resume/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
@@ -55,10 +67,11 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/delta-corporate-material-design-bootstrap-html-template/index.html) as your inspiration, include all features (hover effects, animations, etc). Note that this theme has multiple pages for you to implement.
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 10 more at this point.
 - [ ]  Project: Complete [the Odin Project JavaScript course](https://www.theodinproject.com/courses/javascript) including all projects (Feel free to skip the Ruby on Rails section.)
+- [ ]  Course: [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 ---
 
-## Tier 2 - Add Complexity
+## Tier 3 - Add Complexity
 **Goal:** Become familiar with D3.js and frontend libraries/frameworks to strengthen your proficiency with JavaScript.
 - [ ]  Course: [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-creative/) as your inspiration, include all features (hover effects, animations, etc)
@@ -66,6 +79,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Medium' setion. 
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Tackle documentation: Pick [Angular](https://angular.io/), [React](https://reactjs.org/), or [Vue](https://vuejs.org/) and dive into it's official documentation, study it all, practice it, learn it thoroughly - then clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using whichever library/framework you chose. Note that there are 'many' pages and features to this template, you should clone them all. Continue practicing by using your library/framework of choice on the majority of the projects from this point forward in the guide.
 - [ ]  Tackle documentation: Study the [Jest.io official docs](https://jestjs.io/) working through all the introduction and guides sections.
@@ -79,14 +93,14 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 
 ---
-## Tier 3 - Practice
+## Tier 4 - Practice
 **Goal:** Practice Frontend Development in greater depth and continue studying JavaScript, ensuring you understand the algorithms and data structures you're likely to encounter in interviews (and on the job).
 
 - [ ]  Project: Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice) by the end of this Tier.
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/flavour-restaurant-html5-responsive-web-template/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
-- [ ]  Project: Finish all classic puzzles on [CodinGame](https://www.codingame.com/training) from easy through hard by the end of the Tier. 
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Hard' setion. 
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/fine-best-app-landing-page-free-web-template/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Tackle documentation: Thoroughly study [The Webpack Guides](https://webpack.js.org/guides/)
@@ -98,10 +112,11 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 ---
 
-## Tier 4 - Wrap everything up and prep for interviews
+## Tier 5 - Wrap everything up and prep for interviews
 **Goal:** Interview with confidence.
 - [ ]  Project: Finish any questions you have remaining from   [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep)
 - [ ]  Project: Finish any of [100 Days of CSS](https://codepen.io/collection/AVPPQq/) you have yet to complete.
+- [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Very Hard' setion. 
 - [ ]  Project: Create and polish your Portfolio site.
 - [ ]  Project: Create and polish your Resume/CV.
 - [ ]  Project: Study and complete all [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank

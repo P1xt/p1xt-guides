@@ -6,9 +6,10 @@ Web development, software engineering, games programming, mobile app development
 
 * [Summary](#summary)
 * [Guides](#guides)
-  * [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
-  * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
+  * [Job Ready Guide - JavaScript Edition 3.0](#job-ready-guide---javascript-edition-30)
   * [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
+  * [Job Ready Guide - JavaScript Edition 1.0](#get-job-ready-with-13-projects-2-courses-and-10-books) - deprecated
+  * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20) - deprecated
   * [Computer Science and Backend Development - Java Focus](#computer-science-and-backend-development---java-focus)
   * [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
   * [Web Development with Computer Science Foundations - comprehensive](#web-development-with-computer-science-foundations---comprehensive)
@@ -44,6 +45,7 @@ If you're interested in seeing how much Computer Science you can learn in a year
 * Topic Guide: Vue - January, 2018
 * Topic Guide: React - January, 2018
 * Computer Science and Backend Development - Java Focus - April 2018
+* Job Ready JavaScript 3.0 - December, 2018
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -53,8 +55,24 @@ Do not click that button if you don't want to or can't afford to. I devote time 
 
 ## Guides
 
+### Job Ready Guide - JavaScript Edition 3.0
+
+A JavaScript-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" JavaScript Developer. This is a further update to the original guide and is designed to provide a gentler introduction plus far more hands-on practice throughout the course of the guide.
+
+**Goal:** confident frontend web developer ready to apply for junior positions
+
+[go to the Job Ready Guide - JavaScript Edition 3.0](./job-ready-javascript-edition-2.0.md)
+
+### Job Ready Guide - Python Edition
+
+A Python-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
+
+[go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
+
 ### Get Job ready with 13 projects, 2 courses, and 10 books
 
+Note: This is an old version of the guide, left here so anyone already working through it may continute to do so - I highly recommend anyone new to the guides use [the 3.0 version](#job-ready-guide---javascript-edition-30) instead.
+    
 A structured plan of resources and activities for learners who want to beeline to "job ready" and get there
 reasonably prepared to be successful.
 
@@ -64,17 +82,15 @@ reasonably prepared to be successful.
 
 ### Job Ready Guide - JavaScript Edition 2.0
 
+Note: This is an old version of the guide, left here so anyone already working through it may continute to do so - I highly recommend anyone new to the guides use [the 3.0 version](#job-ready-guide---javascript-edition-30) instead.
+    
 A JavaScript-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" JavaScript Developer. This is an updated version of the original Job Ready guide which incorporates additional algorithms practice, additional projects, and a sequence that builds in additional activities to answer the "what should I be doing on the side" question.
 
 **Goal:** confident frontend web developer ready to apply for junior positions
 
 [go to the Job Ready Guide - JavaScript Edition 2.0](./job-ready-javascript-edition-2.0.md)
 
-### Job Ready Guide - Python Edition
 
-A Python-centric version of the Job Ready Guide, narrowly focused on building the skills likely necessary to beeline to "job ready" Python Developer.
-
-[go to the Job Ready Guide - Python Edition](./job-ready-python-edition.md)
 
 ### Computer Science and Backend Development - Java Focus
 Deep dive into Computer Science with a focus on Java
