@@ -57,8 +57,6 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 ## Junior developer
 
----
-
 ### Tier X - Math Prep
 
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
@@ -142,8 +140,6 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 
 ## Intermediate Developer
 
----
-
 ### Tier 2 - Develop More Expertise
 
 Dive deeper into the Computer Science topics which will prove useful throughout all programming
@@ -209,11 +205,9 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | **Specialization**                                                                                                                                                                                          | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization       |            |
 
-## <br><br>
+<br><br>
 
 ## Senior Developer
-
----
 
 ### Tier 4 - Polish the Rough Edges
 
@@ -244,8 +238,6 @@ Wrap up by taking a look at some specific areas of computing to complete a bread
 | Tier Programming Project                                                                                                                                                                              |            |
 | **Specialization**                                                                                                                                                                                    | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization |            |
-
----
 
 ### Tier 5 - Specialize
 
