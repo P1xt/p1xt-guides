@@ -53,7 +53,9 @@ The following specializations rely on knowledge gained in earlier tiers. Additio
 
 ### Tier Programming Projects
 
-Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas. Note: In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
+Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas. 
+    
+**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
 
 ## Junior developer
 
