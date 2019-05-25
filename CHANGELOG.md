@@ -2,6 +2,10 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**May 25, 2019**  
+Complete overhaul to version Version 4.0. Consolidated the 'special interest' guides into specializations, migrated from Coursera and eDX resources which now sit behind paywalls, and restructured the 'guides' into one cohesive guide that contains core material within each tier and allows further study each tier of a learner selected specialization. This fixes two issues. First, it handles the paywall issues to make the guide require less volatile maintenance (swapping out courses as they are paywalled). Second, it provides better structure and answers the 'which guide should I pick' question.
+
+All prior guides have been moved to deprecated and may be out of date and/or contain dead links. Focus will be on maintainting the 4.0 Guide version, deprecated guides will not be maintained.
 
 **December 1, 2018**
 Added Job Ready Guide - JavaScript Edition 3.0.
@@ -20,16 +24,14 @@ Swapped the OSU Calculus courses from Coursera (they're being decommissioned) fo
 **March 6, 2018**
 Added [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) to the cs-wd and wd-cs guides. It's the next course in the series and became available today.
 
-**January 25, 2018** 
+**January 25, 2018**
 
 Added Vue topic guide.
 Added React topic guide.
 
-
-**January 24, 2018** 
+**January 24, 2018**
 
 Added Angular topic guide.
-
 
 **January 03, 2018**
 
