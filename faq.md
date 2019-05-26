@@ -28,7 +28,7 @@ You'll note that each tier has Courses, Reading, and Practice sections It appear
 ## What are the Tier Programming Projects?
 
 Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas. Note: In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
-
+  
 **An important note about Programming Projects** - you may elect to clone templates, apps, or games for your programming projects. When doing so, always use your own assets (images, audio, etc.) or assets you know are legal to use, and mark your project as 'inspired by' the original, giving full credit to the original author. Don't try to put their ideas off as your own, or (worse yet) try to put your project up on app stores as an original app. These are practice projects - don't go out and clone Tetris, toss it up on the app store, and get sued for copyright infringement and blame me - I warned you.
 
 ## Why switch from simple checkboxes to a tabular format?
