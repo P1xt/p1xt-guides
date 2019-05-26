@@ -25,12 +25,16 @@ They are unfortunately behind a paywall now. You will find, however, that the bo
 
 You'll note that each tier has Courses, Reading, and Practice sections It appears that Readings come after Courses, and Practice comes after Reading - but you need not take that literally. Take the Courses in order, stopping to Read or Practice as you like, aiming to finish everything in the tier before moving to the next tier. Most tiers end with a Capstone 'specialization' which will contain much more hands-on coding via projects.
 
-## What are the Tier Programming Projects
-
-**An important note about Programming Projects** - you may elect to clone templates, apps, or games for your programming projects. When doing so, always use your own assets (images, audio, etc.) or assets you know are legal to use, and mark your project as 'inspired by' the original, giving full credit to the original author. Don't try to put their ideas off as your own, or (worse yet) try to put your project up on app stores as an original app. These are practice projects - don't go out and clone Tetris, toss it up on the app store, and get sued for copyright infringement and blame me - I warned you.
+## What are the Tier Programming Projects?
 
 Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas. Note: In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
 
-## Why switch from simple checkboxes to a tabular format
+**An important note about Programming Projects** - you may elect to clone templates, apps, or games for your programming projects. When doing so, always use your own assets (images, audio, etc.) or assets you know are legal to use, and mark your project as 'inspired by' the original, giving full credit to the original author. Don't try to put their ideas off as your own, or (worse yet) try to put your project up on app stores as an original app. These are practice projects - don't go out and clone Tetris, toss it up on the app store, and get sued for copyright infringement and blame me - I warned you.
+
+## Why switch from simple checkboxes to a tabular format?
 
 While the checkboxes made for easily checking items off as you complete them, I've found that using a table where it's easier to mark both what you're working on and what you've completed, plus add links to any projects you completed or other 'evidence' type materials, gives a much more meaning full progress indication. Plus, it builds in the process of linking to anything you create along the way which will put everything right at your fingertips should you later wish to create a portfolio or highlight prior work.
+
+## Do I really have to create a separate 'highlights' site for each tier?
+
+No, you don't. You may either create a separate site for each tier or maintain one site which you create in the first tier and update as you progress through subsequent tiers.
