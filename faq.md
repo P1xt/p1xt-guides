@@ -4,14 +4,14 @@
 
 This guide is a restructuring of previous iterations of multiple guides in order to solve two issues:
 
-1. _Which guide should I choose?_ This question comes up all the time. With this restructure the answer becomes consistent - 'this guide'. This guide contains the core content within tiers, then asks you to pick a 'specialization' as your capstone for the tier. Within the specialization, you'll have to opportunity to dive more deeply in the areas of most interest to you and complete a number of specialization specific projects.
+1. _Which guide should I choose?_ This question comes up all the time. With this restructure the answer becomes consistent - 'this guide'. This guide contains the core content within tiers, then asks you to pick a 'specialization' as your capstone for the tier. Within the specialization, you'll have an opportunity to dive more deeply in the areas of most interest to you and complete a number of specialization specific projects.
 2. _X course is paywalled or no longer available, what do I do?_ This has been a recurring issue as Coursera and edX try to settle on a sustainable business model. There are still awesome courses there, and I'll leave my prior guides available in the 'deprecated' section should you want to look into them, but for now, I'm going to focus on much less volatile resources.
 
 _Why? Coursera and edX have continually ramped up 'paywall' efforts over the past couple years, thus rendering many of the 'open' (as in free) course options available on their platforms increasingly unavailable for those without the funds to do more than audit._
 
 ## What if I just want to specialize and don't want all that extra 'fluff' that's not pertinent to my specialization in a tier?
 
-That fluff isn't fluff. However, you are presumably a grown adult or precocious pre-adult type person completely capable of being responsible for your own decisions. I consider the material in the tiers important foundational knowledge that will inform your programming career regardless which specialization you choose. If you do not agree, own your decision and omit what you consider irrelevent. Just don't skip stuff and then blame anybody but you for you missing out on learning.
+That fluff isn't fluff. However, you are presumably a grown adult or precocious pre-adult type person completely capable of being responsible for your own decisions. I consider the material in the tiers important foundational knowledge that will inform your programming career regardless of which specialization you choose. If you do not agree, own your decision and omit what you consider irrelevant. Just don't skip stuff and then blame anybody but you for you missing out on learning.
 
 ## What about CS50? It is awesome!
 
@@ -19,7 +19,7 @@ CS50 remains in the guide, however, the sequence beyond has been re-evaluated to
 
 ## What about the 'How to Code' series of courses? They are awesome!
 
-They are unfortunately behind a paywal now. You will find, however, that the book on which the courses are based is now included in Tier 4.
+They are unfortunately behind a paywall now. You will find, however, that the book on which the courses are based is now included in Tier 4.
 
 ## Why so many courses in a row without any projects?
 
@@ -33,4 +33,4 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 ## Why switch from simple checkboxes to a tabular format
 
-While the checkboxes made for easily checking items off as you complete them, I've found that using a table where it's easier to mark both what you're working on and what you've completed, plus add links to any projects you completed or other 'evidence' type materials, gives much a much more meaning full progress indication. Plus, it builds in the process of linking to anything you create along the way which will put everything right at your fingertips should you later wish to create a portfolio or highlight prior work.
+While the checkboxes made for easily checking items off as you complete them, I've found that using a table where it's easier to mark both what you're working on and what you've completed, plus add links to any projects you completed or other 'evidence' type materials, gives a much more meaning full progress indication. Plus, it builds in the process of linking to anything you create along the way which will put everything right at your fingertips should you later wish to create a portfolio or highlight prior work.
