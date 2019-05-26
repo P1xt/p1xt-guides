@@ -5,7 +5,7 @@ Typically this will only list resource additions and deletions. The goal is alwa
 **May 25, 2019**  
 Complete overhaul to version Version 4.0. Consolidated the 'special interest' guides into specializations, migrated from Coursera and eDX resources which now sit behind paywalls, and restructured the 'guides' into one cohesive guide that contains core material within each tier and allows further study each tier of a learner selected specialization. This fixes two issues. First, it handles the paywall issues to make the guide require less volatile maintenance (swapping out courses as they are paywalled). Second, it provides better structure and answers the 'which guide should I pick' question.
 
-All prior guides have been moved to deprecated and may be out of date and/or contain dead links. Focus will be on maintainting the 4.0 Guide version, deprecated guides will not be maintained.
+All prior guides have been moved to deprecated and may be out of date and/or contain dead links. Focus will be on maintaining the 4.0 Guide version, deprecated guides will not be maintained.
 
 **December 1, 2018**
 Added Job Ready Guide - JavaScript Edition 3.0.
