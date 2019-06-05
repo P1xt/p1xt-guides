@@ -11,6 +11,7 @@ Pick your targeted mobile platform and complete the following:
 - [Xamarin](https://visualstudio.microsoft.com/xamarin/) for iOS or Android
 - [Swift](https://developer.apple.com/swift/) and [iOS](https://developer.apple.com/develop/)
 - [Kotlin](https://kotlinlang.org/) and [Android](https://developer.android.com/)
+      
   You may elect to complete this specialization more than once by selecting it as your capstone for multiple tiers.
 
 | **Reading**                                               | **Status** | **Evidence** |
