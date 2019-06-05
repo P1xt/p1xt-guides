@@ -15,21 +15,20 @@ Pick your targeted mobile platform and complete the following:
 
 | **Reading**                                               | **Status** | **Evidence** |
 | :-------------------------------------------------------- | :--------: | :----------: |
-| [FireBase](https://firebase.google.com/docs/)             |            |
-| Study all docs for your chosen platform and its ecosystem |            |
+| [FireBase](https://firebase.google.com/docs/)             |            |              |
+| Study all docs for your chosen platform and its ecosystem |            |              |
 | **Practice**                                              | **Status** | **Evidence** |
-
-| Tier Programming Project | |
-| Tier Programming Project | |
-| Identify blogs and Twitter users to follow to stay up to date on your chosen platform and its ecosystem and begin 'reading up' on a weekly basis to stay current | |
-| Tier Programming Project | |
-| Tier Programming Project | |
-| Tier Programming Project | |
-| Tier Programming Project | |
-| Participate in the community surrounding your chosen platform and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself | |
-| Tier Programming Project | |
-| Tier Programming Project | |
-| Tier Programming Project | |
-| Tier Programming Project | |
+| Tier Programming Project | |              |
+| Tier Programming Project | |              |
+| Identify blogs and Twitter users to follow to stay up to date on your chosen platform and its ecosystem and begin 'reading up' on a weekly basis to stay current | |              |
+| Tier Programming Project | |              |
+| Tier Programming Project | |              |
+| Tier Programming Project | |              |
+| Tier Programming Project | |              |
+| Participate in the community surrounding your chosen platform and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself | |              |
+| Tier Programming Project | |              |
+| Tier Programming Project | |              |
+| Tier Programming Project | |              |
+| Tier Programming Project | |              |
 | **Capstone** | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | |              |
