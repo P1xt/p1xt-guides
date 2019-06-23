@@ -10,7 +10,7 @@ Expand beyond Computer Science into Statistics, Probability and Data Science
 | [M001: MongoDB Basics](https://university.mongodb.com/courses/catalog)                                                                                                |            |
 | [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python/)                                                                         |            |
 | [Deep Learning](https://cognitiveclass.ai/learn/deep-learning/)                                                                                                       |            |
-| [M200P](https://university.mongodb.com/courses/catalog)                                                                                                               |            |
+| [M220P](https://university.mongodb.com/courses/catalog)                                                                                                               |            |
 | [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) (more rigorous) or [Khan Academy Probability and Statistics](https://www.khanacademy.org/math/statistics-probability) (a more gentle introduction)         |            |
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
 | [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)                                                                                                |            |
