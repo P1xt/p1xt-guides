@@ -33,7 +33,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Vue.js Examples](https://vuejs.org/v2/examples/) - Review all examples and pick one to implement yourself
-- [ ]  Official Docs: [Vue Loader](https://vue-loader.vuejs.org/en/)
+- [ ]  Official Docs: [Vue Loader](https://vue-loader.vuejs.org)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [vue-test-utils](https://vue-test-utils.vuejs.org/en/)
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
