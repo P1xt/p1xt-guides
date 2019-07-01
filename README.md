@@ -12,7 +12,7 @@ If you want to develop the skills necessary to be 'job ready' for a junior devel
 
 - [tier X - Math Prep](#tier-x---math-prep)
 - [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---programming-prep)
+- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
