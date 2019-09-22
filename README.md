@@ -92,7 +92,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Courses                                                                                                                                                               |      Status       |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------: | :----------: |
 | Welcome To Coding                                                                                                                                                     |       100%        |   Done all   |
-| Full Stack Online - Intro to Programming                                                                                                                              | 8/12 Loops(18/22) |              |
+| Full Stack Online - Intro to Programming                                                                                                                              | 9/12 Arrays(0/35) |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |                   |              |
 | Full Stack Online - Ruby                                                                                                                                              |                   |              |
 | Full Stack Online - SQL                                                                                                                                               |                   |              |
