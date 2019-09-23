@@ -22,9 +22,9 @@ If you want to develop the skills necessary to move beyond junior to intermediat
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
 - [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
-### Senior developer
+### Advanced developer
 
-If you want to develop the skills necessary to move beyond intermediate to senior developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
+If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
 
 - [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
 - [tier 5 - Specialize](#tier-5---specialize)
@@ -204,7 +204,7 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 
 <br><br>
 
-## Senior Developer
+## Advanced Developer
 
 ### Tier 4 - Polish the Rough Edges
 
