@@ -64,12 +64,12 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
 
-| Courses                                                       | Status  |     Evidence     |
-| :------------------------------------------------------------ | :-----: | :--------------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | Level 1 | 640/ 17,500 (4%) |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |         |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |         |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |         |
+| Courses                                                       | Status |  Evidence   |
+| :------------------------------------------------------------ | :----: | :---------: |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |   5%   | 960/ 17,500 |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
 
 ### Tier X - Programming Prep Prep
 
