@@ -64,9 +64,9 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
 
-| Courses                                                       | Status |  Evidence   |
-| :------------------------------------------------------------ | :----: | :---------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |   5%   | 960/ 17,500 |
+| Courses                                                       | Status |   Evidence   |
+| :------------------------------------------------------------ | :----: | :----------: |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |   6%   | 1120/ 17,500 |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
@@ -89,19 +89,19 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
 
-| Courses                                                                                                                                                               |   Status   |     Evidence     |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :--------------: |
-| Welcome To Coding                                                                                                                                                     |    100%    |     Done All     |
-| Full Stack Online - Intro to Programming                                                                                                                              | 9/12 Done  | On array methods |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |                  |
-| Full Stack Online - Ruby                                                                                                                                              |            |                  |
-| Full Stack Online - SQL                                                                                                                                               |            |                  |
-| Full Stack Online - Rails                                                                                                                                             |            |                  |
-| Full Stack Online - JavaScript                                                                                                                                        |            |                  |
-| Full Stack Online - React                                                                                                                                             |            |                  |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |                  |
-| Full Stack Online - Job Search                                                                                                                                        |            |                  |
-| **Capstone**                                                                                                                                                          | **Status** |   **Evidence**   |
+| Courses                                                                                                                                                               |   Status   |   Evidence   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| Welcome To Coding                                                                                                                                                     |    100%    |   Done All   |
+| Full Stack Online - Intro to Programming                                                                                                                              | 9/12 Done  |    27/43     |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
+| Full Stack Online - Ruby                                                                                                                                              |            |              |
+| Full Stack Online - SQL                                                                                                                                               |            |              |
+| Full Stack Online - Rails                                                                                                                                             |            |              |
+| Full Stack Online - JavaScript                                                                                                                                        |            |              |
+| Full Stack Online - React                                                                                                                                             |            |              |
+| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
+| Full Stack Online - Job Search                                                                                                                                        |            |              |
+| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
 ### Tier 1 - Getting Started
