@@ -92,7 +92,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Courses                                                                                                                                                               |    Status     |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :----------: |
 | Welcome To Coding                                                                                                                                                     |     100%      |   Done All   |
-| Full Stack Online - Intro to Programming                                                                                                                              | Hashes(11/12) |     4/43     |
+| Full Stack Online - Intro to Programming                                                                                                                              | Hashes(11/12) |    14/34     |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |               |              |
 | Full Stack Online - Ruby                                                                                                                                              |               |              |
 | Full Stack Online - SQL                                                                                                                                               |               |              |
