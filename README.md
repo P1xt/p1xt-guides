@@ -22,9 +22,9 @@ If you want to develop the skills necessary to move beyond junior to intermediat
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
 - [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
-### Senior developer
+### Advanced developer
 
-If you want to develop the skills necessary to move beyond intermediate to senior developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
+If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
 
 - [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
 - [tier 5 - Specialize](#tier-5---specialize)
@@ -175,11 +175,11 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | Courses                                                                                                                                                                                                                                                    |   Status   |   Evidence   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)                                                                                                                                                       |            |
-| [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)                                                |            |
 | [Algorithms: Design and Analysis, Part 2](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)                                                                                                                         |            |
 | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) (more rigorous) or [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) (a more gentle introduction) |            |
 | [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)                                                          |            |
 | [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)                                                                                         |            |
+| [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)                                                                                                                                                                |            |
 | [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)                                                                                                       |            |
 | **Reading**                                                                                                                                                                                                                                                | **Status** | **Evidence** |
 | Official docs for [Angular](https://angular.io/docs), [React](https://reactjs.org/docs/getting-started.html), or [Vue](https://vuejs.org/v2/guide/)                                                                                                        |            |
@@ -204,7 +204,7 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 
 <br><br>
 
-## Senior Developer
+## Advanced Developer
 
 ### Tier 4 - Polish the Rough Edges
 
