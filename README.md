@@ -66,7 +66,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status |   Evidence   |
 | :------------------------------------------------------------ | :----: | :----------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |   7%   | 1170/ 17,500 |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |   7%   | 1220/ 17,500 |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
@@ -92,7 +92,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Courses                                                                                                                                                               |     Status      |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----------: |
 | Welcome To Coding                                                                                                                                                     |      100%       |   Done All   |
-| Full Stack Online - Intro to Programming                                                                                                                              | Advanced(12/12) |     0/51     |
+| Full Stack Online - Intro to Programming                                                                                                                              | Advanced(12/12) |    22/51     |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |                 |              |
 | Full Stack Online - Ruby                                                                                                                                              |                 |              |
 | Full Stack Online - SQL                                                                                                                                               |                 |              |
