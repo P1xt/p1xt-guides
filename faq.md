@@ -1,5 +1,9 @@
 # About this guide - FAQ
 
+## Who is this guide for?
+
+This guide is for anyone who wants to learn a fair amount of computer science while also gaining practical hands on experience building projects. Whether you're just starting out, or already have some experience, you can tailor the guide to suit your needs by starting either earlier or later in the tiers.
+
 ## Why did you deprecate all the other guides and condense everything down into just one guide?
 
 This guide is a restructuring of previous iterations of multiple guides in order to solve two issues:
