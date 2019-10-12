@@ -4,6 +4,10 @@
 
 This guide is for anyone who wants to learn a fair amount of computer science while also gaining practical hands on experience building projects. Whether you're just starting out, or already have some experience, you can tailor the guide to suit your needs by starting either earlier or later in the tiers.
 
+## Why did you write this guide?
+
+My primary goal is to save aspiring programmers the time of vetting the litany of resources available so they can spend more time learning and less time deciding what to learn. The internet is vast and chock full of tutorials and 'one off' courses and a significant amount of them only teach material at the surface level. I wanted there to be a resource that would go deeper, teach foundations, then build on those foundations for folks who want dive deep and aspire to go beyond 'good enough'.
+
 ## Why did you deprecate all the other guides and condense everything down into just one guide?
 
 This guide is a restructuring of previous iterations of multiple guides in order to solve two issues:
