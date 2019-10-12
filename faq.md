@@ -19,7 +19,7 @@ _Why? Coursera and edX have continually ramped up 'paywall' efforts over the pas
 
 ## What if I just want to specialize and don't want all that extra 'fluff' that's not pertinent to my specialization in a tier?
 
-That fluff isn't fluff. However, you are presumably a grown adult or precocious pre-adult type person completely capable of being responsible for your own decisions. I consider the material in the tiers important foundational knowledge that will inform your programming career regardless of which specialization you choose. If you do not agree, own your decision and omit what you consider irrelevant. You know best what is right for you. The path I propose is one of many completely viable routes to the same goal. I will say that regardless your goals, App Academy and CS50 are invaluable resources - if you ignore every other resource in this entire guide, you owe it to yourself to not skip them.
+I believe that 'fluff' is important. However, you know your goals, they are yours. YOLO. You do you. I would suggest that, when you're considering skipping something, you pause and consider that there's nothing I added to the guide without the intention of providing a resource that will help you grow your skills and careeer as a programmer.
 
 ## What about CS50? It is awesome!
 
