@@ -1,5 +1,13 @@
 # About this guide - FAQ
 
+## Who is this guide for?
+
+This guide is for anyone who wants to learn a fair amount of computer science while also gaining practical hands on experience building projects. Whether you're just starting out, or already have some experience, you can tailor the guide to suit your needs by starting either earlier or later in the tiers.
+
+## Why did you write this guide?
+
+My primary goal is to save aspiring programmers the time of vetting the litany of resources available so they can spend more time learning and less time deciding what to learn. The internet is vast and chock full of tutorials and 'one off' courses and a significant amount of them only teach material at the surface level. I wanted there to be a resource that would go deeper, teach foundations, then build on those foundations for folks who want dive deep and aspire to go beyond 'good enough'.
+
 ## Why did you deprecate all the other guides and condense everything down into just one guide?
 
 This guide is a restructuring of previous iterations of multiple guides in order to solve two issues:
@@ -11,7 +19,7 @@ _Why? Coursera and edX have continually ramped up 'paywall' efforts over the pas
 
 ## What if I just want to specialize and don't want all that extra 'fluff' that's not pertinent to my specialization in a tier?
 
-That fluff isn't fluff. However, you are presumably a grown adult or precocious pre-adult type person completely capable of being responsible for your own decisions. I consider the material in the tiers important foundational knowledge that will inform your programming career regardless of which specialization you choose. If you do not agree, own your decision and omit what you consider irrelevant. You know best what is right for you. The path I propose is one of many completely viable routes to the same goal. I will say that regardless your goals, App Academy and CS50 are invaluable resources - if you ignore every other resource in this entire guide, you owe it to yourself to not skip them.
+I believe that 'fluff' is important. However, you know your goals, they are yours. YOLO. You do you. I would suggest that, when you're considering skipping something, you pause and consider that there's nothing I added to the guide without the intention of providing a resource that will help you grow your skills and careeer as a programmer.
 
 ## What about CS50? It is awesome!
 
