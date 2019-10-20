@@ -12,7 +12,7 @@ My primary goal is to save aspiring programmers the time of vetting the litany o
 
 This guide is a restructuring of previous iterations of multiple guides in order to solve two issues:
 
-1. _Which guide should I choose?_ This question comes up all the time. With this restructure the answer becomes consistent - 'this guide'. This guide contains the core content within tiers, then asks you to pick a 'specialization' as your capstone for the tier. Within the specialization, you'll have an opportunity to dive more deeply in the areas of most interest to you and complete a number of specialization specific projects.
+1. _Which guide should I choose?_ This question comes up all the time. With this restructuring the answer becomes consistent - 'this guide'. This guide contains the core content within tiers, then asks you to pick a 'specialization' as your capstone for the tier. Within the specialization, you'll have an opportunity to dive more deeply in the areas of most interest to you and complete a number of specialization specific projects.
 2. _X course is paywalled or no longer available, what do I do?_ This has been a recurring issue as Coursera and edX try to settle on a sustainable business model. There are still awesome courses there, and I'll leave my prior guides available in the 'deprecated' section should you want to look into them, but for now, I'm going to focus on much less volatile resources.
 
 _Why? Coursera and edX have continually ramped up 'paywall' efforts over the past couple years, thus rendering many of the 'open' (as in free) course options available on their platforms increasingly unavailable for those without the funds to do more than audit._
