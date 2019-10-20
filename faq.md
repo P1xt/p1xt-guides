@@ -19,7 +19,7 @@ _Why? Coursera and edX have continually ramped up 'paywall' efforts over the pas
 
 ## What if I just want to specialize and don't want all that extra 'fluff' that's not pertinent to my specialization in a tier?
 
-I believe that 'fluff' is important. However, you know your goals, they are yours. YOLO. You do you. I would suggest that, when you're considering skipping something, you pause and consider that there's nothing I added to the guide without the intention of providing a resource that will help you grow your skills and careeer as a programmer.
+I believe that 'fluff' is important. However, you know your goals, they are yours. YOLO. You do you. I would suggest that, when you're considering skipping something, you pause and consider that there's nothing I added to the guide without the intention of providing a resource that will help you grow your skills and career as a programmer.
 
 ## What about CS50? It is awesome!
 
