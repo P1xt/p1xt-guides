@@ -14,10 +14,8 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - React                                                                                                                                                       |            |              |
 | Full Stack Online - Full Stack Project                                                                                                                                          |            |              |
 | Full Stack Online - Job Search                                                                                                                                                  |            |              |
-| Full Stack Online - Docker |
-|            |              |
-| Full Stack Online - GraphQl |
-|            |              |
+| Full Stack Online - Docker |            |              |
+| Full Stack Online - GraphQl |            |              |
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
 | [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
