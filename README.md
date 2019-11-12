@@ -101,6 +101,8 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - React                                                                                                                                             |            |              |
 | Full Stack Online - Full Stack Project                                                                                                                                |            |              |
 | Full Stack Online - Job Search                                                                                                                                        |            |              |
+| Full Stack Online - Docker |            |              |
+| Full Stack Online - GraphQl|            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
@@ -216,7 +218,7 @@ Wrap up by taking a look at some specific areas of computing to complete a bread
 | [Introduction to Databases - all mini-courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)                                                                                         |            |
 | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)                                                                                           |            |
 | [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)                                                 |            |
-| [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/index.htm)          |            |
+| [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)                   |            |
 | [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)                                                                                       |            |
 | [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)                                                                                                               |            |
 | **Reading**                                                                                                                                                                                           | **Status** | **Evidence** |
