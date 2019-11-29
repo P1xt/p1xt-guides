@@ -100,9 +100,11 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - JavaScript                                                                                                                                        |            |              |
 | Full Stack Online - React                                                                                                                                             |            |              |
 | Full Stack Online - Full Stack Project                                                                                                                                |            |              |
+| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
 | Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker |            |              |
-| Full Stack Online - GraphQl|            |              |
+| Full Stack Online - Docker                                                                                                                                            |            |              |
+| Full Stack Online - GraphQl                                                                                                                                           |            |              |
+| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
