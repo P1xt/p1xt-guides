@@ -66,8 +66,8 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |  Complete      | Proof(https://drive.google.com/open?id=1mqAg8R-0irVLfiqI7viNs-ih9Mn8HabD)
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |     Active   |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
 
