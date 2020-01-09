@@ -66,7 +66,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |  Complete      | [Proof](https://drive.google.com/open?id=1mqAg8R-0irVLfiqI7viNs-ih9Mn8HabD)
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |  DONE      | [Evidence](https://drive.google.com/open?id=1mqAg8R-0irVLfiqI7viNs-ih9Mn8HabD)
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |     Active   |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
@@ -77,8 +77,8 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                             |   DONE    | [Evidence] (https://drive.google.com/open?id=1Fv38-zkkDHqG4ZuBQGB__V-vtnTe0DZb)
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |    DONE   | [Evidence] (https://drive.google.com/open?id=1hcymSaHwPT3bPGjxiOE0mNAVuxZEvwlX)
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
@@ -91,20 +91,20 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQl                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
+| Welcome To Coding                                                                                                                                                     |    SKIPPED        |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |       SKIPPED     |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |     SKIPPED       |              |
+| Full Stack Online - Ruby                                                                                                                                              |    SKIPPED        |              |
+| Full Stack Online - SQL                                                                                                                                               |    SKIPPED        |              |
+| Full Stack Online - Rails                                                                                                                                             |     SKIPPED       |              |
+| Full Stack Online - JavaScript                                                                                                                                        |    SKIPPED        |              |
+| Full Stack Online - React                                                                                                                                             |      SKIPPED      |              |
+| Full Stack Online - Full Stack Project                                                                                                                                |     SKIPPED       |              |
+| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |    SKIPPED        |              |
+| Full Stack Online - Job Search                                                                                                                                        |    SKIPPED        |              |
+| Full Stack Online - Docker                                                                                                                                            |   SKIPPED         |              |
+| Full Stack Online - GraphQl                                                                                                                                           |    SKIPPED        |              |
+| Full Stack Online - Data Structures and Algorithms                                                                                                                    |   SKIPPED         |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
