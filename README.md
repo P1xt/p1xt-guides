@@ -1,6 +1,6 @@
 # Computer Science and Programming - Version 4.0
 
-Clone of p1xt-guides curriculum for tracking my individual progress. I will be modifying this as I go, substituting some courses for similar material that I prefer or have previously completed. Courses I am substituting will be crossed out, with the replacement course to the right. 
+Fork of p1xt-guides curriculum for tracking my individual progress. I will be modifying this somewhat, substituting some courses for similar material that I have already started working on or have previously completed. Courses I am substituting will be crossed out, with the replacement course to the right. I will not be following this completely in order. For the work I'm currently doing, some skills are more valuable for me to learn sooner rather than later.
 
 **I'm currently working on the 'Junior Developer' tiers**
 
@@ -23,13 +23,13 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [~~Intro to JS: Drawing & Animation~~  Beginning JavasScript](https://teamtreehouse.com/tracks/beginning-javascript)                                                            | **Completed** | [Profile](https://teamtreehouse.com/timfau)
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| [~~Intro to JS: Drawing & Animation~~ ](https://www.khanacademy.org/computing/computer-programming/programming) [Team Treehouse: Beginning JavasScript Track](https://teamtreehouse.com/tracks/beginning-javascript) | **Completed** | [Profile](https://teamtreehouse.com/timfau)
+| [~~Intro to HTML/CSS: Making webpages~~](https://www.khanacademy.org/computing/computer-programming/html-css) [Team Treehouse: Web Design Track](https://teamtreehouse.com/tracks/web-design) |  **Completed** | [Profile](https://teamtreehouse.com/timfau)         
+| [~~Intro to SQL: Querying and managing data~~](https://www.khanacademy.org/computing/computer-programming/sql) [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)    | **In Progress** |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) |    |
+| [~~HTML/JS: Making webpages interactive~~](https://www.khanacademy.org/computing/computer-programming/html-css-js) [Team Treehouse: Front End Web Development Track](https://teamtreehouse.com/tracks/front-end-web-development) | **Completed** | [Profile](https://teamtreehouse.com/timfau) 
+| **Capstone**  | **Status** | **Evidence**
+| Build a Wordpress theme based on [underscores](https://underscores.me/) | **Completed** | [Website](https://www.rockinwithpurpose.com/)
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
@@ -44,13 +44,13 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - SQL                                                                                                                                               |            |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
 | Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
+| ~~Full Stack Online - React~~ [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/learn#javascript-algorithms-and-data-structures#front-end-libraries) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/front-end-libraries)   |
 | Full Stack Online - Full Stack Project                                                                                                                                |            |              |
 | Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
 | Full Stack Online - Job Search                                                                                                                                        |            |              |
 | Full Stack Online - Docker                                                                                                                                            |            |              |
 | Full Stack Online - GraphQl                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
+| ~~Full Stack Online - Data Structures and Algorithms~~ [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/#javascript-algorithms-and-data-structures) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/javascript-algorithms-and-data-structures) |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
@@ -94,7 +94,7 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | Courses                                                                                                                                                                                                            |   Status   |   Evidence   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)                                                   |            |
-| [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |            |
+| [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | **In Progress** |
 | [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       |            |
 | [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)      
 | [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)   |            |
