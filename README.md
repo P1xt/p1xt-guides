@@ -77,8 +77,8 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                             |   DONE    | [Evidence](https://drive.google.com/open?id=1Fv38-zkkDHqG4ZuBQGB__V-vtnTe0DZb)
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |    DONE   | [Evidence](https://drive.google.com/open?id=1hcymSaHwPT3bPGjxiOE0mNAVuxZEvwlX)
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                             |   Completed    | [Evidence](https://drive.google.com/open?id=1Fv38-zkkDHqG4ZuBQGB__V-vtnTe0DZb)
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |    Completed   | [Evidence](https://drive.google.com/open?id=1hcymSaHwPT3bPGjxiOE0mNAVuxZEvwlX)
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
