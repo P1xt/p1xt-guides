@@ -88,11 +88,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
-
-If you want a bit tougher intro, please feel free to substitute with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md). This, will result in you learning "about the same" amount as you would with App Academy, however the content will begin at a more advanced level so you'll need a higher degree of determination and "grit" to make the most of it.
-
-If "but am I wasting my time learning Ruby" is causing you anxiety that is preventing you from progressing in your learning journey, feel free to substitute with [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack JavaScript](./specializations/the_odin_project_javascript.md). Note, this option will result in you learning less than you would have with App Academy Open but it's still a viable path in which you will learn a lot. Note 2: You're really not wasting your time learning Ruby. The language used isn't what's important here. The important part is the foundational concepts that will illuminate all of your future learning, regardless of language.
+Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
