@@ -35,7 +35,8 @@ Each tier has a 'specialization' based capstone which involves further study and
 
 - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
 - [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md)
-- [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
+- [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack Ruby on Rails](./specializations/the_odin_project_ruby.md)
+- [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack JavaScript](./specializations/the_odin_project_javascript.md)
 - [Web Development - Frontend](./specializations/frontend.md)
 - [Web Development - Backend](./specializations/backend.md)
 - [Mobile App Development](./specializations/mobile.md)
@@ -88,6 +89,10 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
+
+If you want a bit tougher intro, please feel free to substitute with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md). This, will result in you learning "about the same" amount as you would with App Academy, however the content will begin at a more advanced level so you'll need a higher degree of determination and "grit" to make the most of it.
+
+If "but am I wasting my time learning Ruby" is causing you anxiety that is preventing you from progressing in your learning journey, feel free to substitute with [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack JavaScript](./specializations/the_odin_project_javascript.md). Note, this option will result in you learning less than you would have with App Academy Open but it's still a viable path in which you will learn a lot. Note 2: You're really not wasting your time learning Ruby. The language used isn't what's important here. The important part is the foundational concepts that will illuminate all of your future learning, regardless of language.
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
@@ -145,32 +150,33 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 
 Dive deeper into the Computer Science topics which will prove useful throughout all programming
 
-| Courses                                                                                                                                                                                                            |   Status   |   Evidence   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)                                                   |            |
-| [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |            |
-| [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       |            |
-| [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)      
-| [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)   |            |
-| [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)                                                                  |            |
-| **Reading**                                                                                                                                                                                                        | **Status** | **Evidence** |
-| [MDN JavaScript - Tutorials - Advanced](https://developer.mozilla.org/en-US/docs/Web/JavaScript#Advanced)                                                                                                          |            |
-| [MDN HTTP - Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTTP#Tutorials)                                                                                                                                |            |
-| [MDN Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_components)                                                                                                                                  |            |
-| [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)                                                         |            |
-| [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)                                                                  |            |
-| [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)                                                                                                                                  |            |
-| [D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-acknowledgements)                                                                                                               |            |
-| **Practice**                                                                                                                                                                                                       | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/)                                                                                                                                   |            |
-| Complete all ES6 Katas [here](http://es6katas.org/)                                                                                                                                                                |            |
-| Complete [Google Kick Start 2017](https://codingcompetitions.withgoogle.com/kickstart/archive/2017)                                                                                                                |            |
-| Complete [Google Code Jam 2018](https://codingcompetitions.withgoogle.com/codejam/archive/2018)                                                                                                                    |            |
-| Complete [FaceBook Hacker Cup 2017](https://www.facebook.com/hackercup/past_rounds/)                                                                                                                               |            |
-| Tier Programming Project                                                                                                                                                                                           |            |
-| Tier Programming Project                                                                                                                                                                                           |            |
-| **Specialization**                                                                                                                                                                                                 | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization              |            |
+| Courses                                                                                                                                                                                                            | Status | Evidence |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)                                                   |        |
+| [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |        |
+| [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       |        |
+
+| [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)  
+| [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) | |
+| [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | |
+| **Reading** | **Status** | **Evidence** |
+| [MDN JavaScript - Tutorials - Advanced](https://developer.mozilla.org/en-US/docs/Web/JavaScript#Advanced) | |
+| [MDN HTTP - Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTTP#Tutorials) | |
+| [MDN Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_components) | |
+| [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) | |
+| [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) | |
+| [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix) | |
+| [D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-acknowledgements) | |
+| **Practice** | **Status** | **Evidence** |
+| Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) | |
+| Complete all ES6 Katas [here](http://es6katas.org/) | |
+| Complete [Google Kick Start 2017](https://codingcompetitions.withgoogle.com/kickstart/archive/2017) | |
+| Complete [Google Code Jam 2018](https://codingcompetitions.withgoogle.com/codejam/archive/2018) | |
+| Complete [FaceBook Hacker Cup 2017](https://www.facebook.com/hackercup/past_rounds/) | |
+| Tier Programming Project | |
+| Tier Programming Project | |
+| **Specialization** | **Status** | **Evidence** |
+| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization | |
 
 ### Tier 3 - Add More Rigor
 
@@ -183,14 +189,14 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)                                                          |            |
 | [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)                                                                                         |            |
 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)                                                                                                                                                                |            |
-| [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)                                                                                                                                                       |            |
+| [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)                                                                                                                                        |            |
 | [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)                                                                                                       |            |
 | **Reading**                                                                                                                                                                                                                                                | **Status** | **Evidence** |
 | Official docs for [Angular](https://angular.io/docs), [React](https://reactjs.org/docs/getting-started.html), or [Vue](https://vuejs.org/v2/guide/)                                                                                                        |            |
 | [Jest Official Docs](https://jestjs.io/)                                                                                                                                                                                                                   |            |
 | [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)                                                                                                                                                             |            |
 | [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)                                                                                                                                                                                    |            |
-| [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)                                                                                                                 |            |
+| [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)                                                                                                                           |            |
 | [Functional Light JS](https://github.com/getify/Functional-Light-JS)                                                                                                                                                                                       |            |
 | [Essential TypeScript](https://leanpub.com/essentialtypescript/read)                                                                                                                                                                                       |            |
 | **Practice**                                                                                                                                                                                                                                               | **Status** | **Evidence** |
@@ -217,9 +223,9 @@ Wrap up by taking a look at some specific areas of computing to complete a bread
 | Courses                                                                                                                                                                                               |   Status   |   Evidence   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/index.htm)                                                  |            |
-| [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)                                                                                         |            |
+| [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)                                                                                                  |            |
 | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)                                                                                           |            |
-| [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)                                                                                         |            |
+| [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)                                                                                          |            |
 | [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)                                                 |            |
 | [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)                   |            |
 | [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)                                                                                       |            |
