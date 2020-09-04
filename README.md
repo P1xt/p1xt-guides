@@ -83,7 +83,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | Completed      | [Evidence](https://drive.google.com/file/d/1imIxptF7bx0wDWrzXImR8TsA4cwxGfVV/view?usp=sharing)
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |   Completed       | [Evidence](https://drive.google.com/file/d/1zclJVFN99QZSt8IBVi09IWJ41nGL1MB0/view?usp=sharing)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** | MY own pomodoro website and my own blog / website for cs/programming pathway
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | Completed  | [Evidence](https://masterseeker.github.io/)
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
