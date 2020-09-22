@@ -92,8 +92,8 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Welcome To Coding                                                                                                                                                     |         DONE   |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |         IN PROGRESS   |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
