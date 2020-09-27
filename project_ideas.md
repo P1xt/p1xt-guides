@@ -16,14 +16,16 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 **Clone one or more of the following Website Templates (or the frontend of any website or theme you like) as a web or mobile app:**
 
-- [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-agency/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-resume/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/), include all features (hover effects, animations, pages, etc)
+Note: Either use the theme as inspiration, coding similar features but using your own typography, images, and design ideas, or fully attribute the original theme and note yours as a clone - or both. The intention is to gain practice coding, not to get sued for copyright infringment. Give attribution to your sources.
+
+- [this theme](https://startbootstrap.com/previews/landing-page/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/agency/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/resume/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/stylish-portfolio/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/ballet-one-page-free-website-template/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/delta-corporate-material-design-bootstrap-html-template/index.html), include all features (hover effects, animations, pages, etc).
-- [this theme](https://blackrockdigital.github.io/startbootstrap-creative/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-coming-soon/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/creative/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/coming-soon/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/lookup-interior-design-bootstrap-website-template/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/flavour-restaurant-html5-responsive-web-template/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/fine-best-app-landing-page-free-web-template/), include all features (hover effects, animations, pages, etc)
