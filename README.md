@@ -91,22 +91,22 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |    SKIPPED        |              |
+| Welcome To Coding                                                                                                                                                     |    SKIPPED        |     SKIPPED	         |
 | Full Stack Online - Intro to Programming                                                                                                                              |       SKIPPED     |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |     SKIPPED       |              |
-| Full Stack Online - Ruby                                                                                                                                              |    SKIPPED        |              |
-| Full Stack Online - SQL                                                                                                                                               |    SKIPPED        |              |
-| Full Stack Online - Rails                                                                                                                                             |     SKIPPED       |              |
-| Full Stack Online - JavaScript                                                                                                                                        |    SKIPPED        |              |
-| Full Stack Online - React                                                                                                                                             |      SKIPPED      |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |     SKIPPED       |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |    SKIPPED        |              |
-| Full Stack Online - Job Search                                                                                                                                        |    SKIPPED        |              |
-| Full Stack Online - Docker                                                                                                                                            |   SKIPPED         |              |
-| Full Stack Online - GraphQl                                                                                                                                           |    SKIPPED        |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |   SKIPPED         |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |     SKIPPED       |       SKIPPED	       |
+| Full Stack Online - Ruby                                                                                                                                              |    SKIPPED        |      SKIPPED	        |
+| Full Stack Online - SQL                                                                                                                                               |    SKIPPED        |     SKIPPED      |
+| Full Stack Online - Rails                                                                                                                                             |     SKIPPED       |     SKIPPED       |
+| Full Stack Online - JavaScript                                                                                                                                        |    SKIPPED        |     SKIPPED  	  |
+| Full Stack Online - React                                                                                                                                             |      SKIPPED      |          SKIPPED	|
+| Full Stack Online - Full Stack Project                                                                                                                                |     SKIPPED       |        SKIPPED	  |
+| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |    SKIPPED        |      SKIPPED	 |
+| Full Stack Online - Job Search                                                                                                                                        |    SKIPPED        |     SKIPPED	   |
+| Full Stack Online - Docker                                                                                                                                            |   SKIPPED         |    SKIPPED	  |
+| Full Stack Online - GraphQl                                                                                                                                           |    SKIPPED        |     SKIPPED	   |
+| Full Stack Online - Data Structures and Algorithms                                                                                                                    |   SKIPPED         |     SKIPPED	  |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | SKIPPED           |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | SKIPPED     SKIPPED	      |
 
 ### Tier 1 - Getting Started
 
