@@ -106,7 +106,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - GraphQl                                                                                                                                           |    SKIPPED        |     SKIPPED	   |
 | Full Stack Online - Data Structures and Algorithms                                                                                                                    |   SKIPPED         |     SKIPPED	  |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | SKIPPED     SKIPPED	      |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | SKIPPED       | SKIPPED	
 
 ### Tier 1 - Getting Started
 
