@@ -91,10 +91,10 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |    SKIPPED        |     SKIPPED	         |
-| Full Stack Online - Intro to Programming                                                                                                                              |       SKIPPED     |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |     SKIPPED       |       SKIPPED	       |
-| Full Stack Online - Ruby                                                                                                                                              |    SKIPPED        |      SKIPPED	        |
+| Welcome To Coding                                                                                                                                                     |    SKIPPED        |     SKIPPED	     |
+| Full Stack Online - Intro to Programming                                                                                                                              |       SKIPPED     |         SKIPPED	  |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |     SKIPPED       |      SKIPPED	  |
+| Full Stack Online - Ruby                                                                                                                                              |    SKIPPED        |      SKIPPED     |
 | Full Stack Online - SQL                                                                                                                                               |    SKIPPED        |     SKIPPED      |
 | Full Stack Online - Rails                                                                                                                                             |     SKIPPED       |     SKIPPED       |
 | Full Stack Online - JavaScript                                                                                                                                        |    SKIPPED        |     SKIPPED  	  |
