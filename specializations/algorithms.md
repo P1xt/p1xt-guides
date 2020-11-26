@@ -8,7 +8,7 @@ Pick this specialization to gain a ton of practice with data structures and algo
 
 | **Practice**                                                                                                                                                                                               | **Status** | **Evidence** |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Pick: Study [C](https://www.geeksforgeeks.org/c-programming-language/)and then complete all [Quizzes ](https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/) for that language               |            |              |
+| Pick: Study [C](https://www.geeksforgeeks.org/c-programming-language/) and then complete all [Quizzes ](https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/) for that language               |            |              |
 | or Pick: Study [C++](https://www.geeksforgeeks.org/c-plus-plus/) and then complete all [Quizzes ](https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/) for that language                    |            |              |
 | or Pick: Study [Java](https://www.geeksforgeeks.org/java/) and then complete all [Quizzes ](https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/) for that language                          |            |              |
 | or Pick: Study [Python](https://www.geeksforgeeks.org/python-programming-language/) and then complete all [Quizzes ](https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/) for that language |            |              |
