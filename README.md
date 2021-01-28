@@ -101,7 +101,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - JavaScript                                                                                                                                        |            |              |
 | Full Stack Online - React                                                                                                                                             |            |              |
 | Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
+| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
 | Full Stack Online - Job Search                                                                                                                                        |            |              |
 | Full Stack Online - Docker                                                                                                                                            |            |              |
 | Full Stack Online - GraphQL                                                                                                                                           |            |              |
