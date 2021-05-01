@@ -4,7 +4,7 @@ Complete [The Odin Project - Full Stack Ruby on Rails](https://www.theodinprojec
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Web Development 101                                                                                                                                                             |            |              |
+| Fundamentals                                                                                                                                                             |            |              |
 | Ruby Programming                                                                                                                                                                |            |              |
 | Databases                                                                                                                                                                       |            |              |
 | Ruby on Rails                                                                                                                                                                   |            |              |
