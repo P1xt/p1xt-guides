@@ -4,7 +4,7 @@ Complete [The Odin Project - Full Stack JavaScript](https://www.theodinproject.c
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Web Development 101                                                                                                                                                             |            |              |
+| Fundamentals                                                                                                                                                             |            |              |
 | JavaScript                                                                                                                                                                      |            |              |
 | HTML and CSS                                                                                                                                                                    |            |              |
 | JavaScript                                                                                                                                                                      |            |              |
