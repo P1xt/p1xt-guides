@@ -16,7 +16,7 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 **Clone one or more of the following Website Templates (or the frontend of any website or theme you like) as a web or mobile app:**
 
-Note: Either use the theme as inspiration, coding similar features but using your own typography, images, and design ideas, or fully attribute the original theme and note yours as a clone - or both. The intention is to gain practice coding, not to get sued for copyright infringment. Give attribution to your sources.
+Note: Either use the theme as inspiration, coding similar features but using your own typography, images, and design ideas, or fully attribute the original theme and note yours as a clone - or both. The intention is to gain practice coding, not to get sued for copyright infringement. Give attribution to your sources.
 
 - [this theme](https://startbootstrap.com/previews/landing-page/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://startbootstrap.com/previews/agency/), include all features (hover effects, animations, pages, etc)
