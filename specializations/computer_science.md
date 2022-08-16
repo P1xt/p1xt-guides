@@ -1,6 +1,6 @@
 # Computer Science - Intensive Specialization
 
-This specialization dives deep into computer science from algorithms and data structures all the way through databases, compilers, operating systems, and other advanced topics. It is best attempted as the capstone to tier 4 as it reinforces the breadth of knowledge built in that tier.
+This specialization dives deep into computer science from [algorithms and data structures](https://www.scaler.com/topics/data-structures/) all the way through databases, compilers, operating systems, and other advanced topics. It is best attempted as the capstone to tier 4 as it reinforces the breadth of knowledge built in that tier.
 
 **Note:** Though this list may seem far shorter than other specializations, this specialization is actually far more work. There is a LOT of study involved.
 
