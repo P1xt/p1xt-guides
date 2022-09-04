@@ -1,8 +1,6 @@
 # Computer Science and Programming - Version 4.0
 
-Fork of p1xt-guides curriculum for tracking my individual progress. I will be modifying this somewhat, substituting some courses for similar material that I have already started working on or have previously completed. Courses I am substituting will be crossed out, with the replacement course to the right. I will not be following this completely in order. For my current role, some skills are more immediately valuable for me.
-
-**I'm currently working on the 'Junior Developer' tiers**
+Fork of p1xt-guides curriculum for tracking my individual progress. I will be modifying this guide somewhat, substituting some courses for similar material that I have already started working on or have previously completed. I will not be following this completely in order; courses that are relevant to my current role or personal projects may be prioritized.
 
 Some helpful information has been removed and can be viewed as needed in the [official p1xt-guides repo](https://github.com/P1xt/p1xt-guides).
 
@@ -21,15 +19,18 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 ### Tier X - Programming Prep Prep
 
-I've previously completed materials on Team Treehouse that I think adequately cover prep material, so I am substituting most of these.
+I've previously completed material that I think adequately meets or exceeds the materials recommend, so I am substituting this entire section with my previously completed courses.
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [~~Intro to JS: Drawing & Animation~~ ](https://www.khanacademy.org/computing/computer-programming/programming) [Team Treehouse: Beginning JavasScript Track](https://teamtreehouse.com/tracks/beginning-javascript) | **Completed** | [Profile](https://teamtreehouse.com/timfau)
-| [~~Intro to HTML/CSS: Making webpages~~](https://www.khanacademy.org/computing/computer-programming/html-css) [Team Treehouse: Web Design Track](https://teamtreehouse.com/tracks/web-design) |  **Completed** | [Profile](https://teamtreehouse.com/timfau)         
-| [~~Intro to SQL: Querying and managing data~~](https://www.khanacademy.org/computing/computer-programming/sql) [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)    | **Completed** | [Certificate](https://www.udemy.com/certificate/UC-e3acd966-7d79-4993-959a-12ef14c20487/)
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) |    |
-| [~~HTML/JS: Making webpages interactive~~](https://www.khanacademy.org/computing/computer-programming/html-css-js) [Team Treehouse: Front End Web Development Track](https://teamtreehouse.com/tracks/front-end-web-development) | **Completed** | [Profile](https://teamtreehouse.com/timfau) 
+| [Team Treehouse: Beginning JavasScript Track](https://teamtreehouse.com/tracks/beginning-javascript) | **Completed** | [Profile](https://teamtreehouse.com/timfau)
+| [Team Treehouse: Web Design Track](https://teamtreehouse.com/tracks/web-design) |  **Completed** | [Profile](https://teamtreehouse.com/timfau)         
+| [Team Treehouse: Front End Web Development Track](https://teamtreehouse.com/tracks/front-end-web-development) | **Completed** | [Profile](https://teamtreehouse.com/timfau) 
+| [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/learn#javascript-algorithms-and-data-structures#front-end-libraries) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/front-end-libraries)   |
+| [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/#javascript-algorithms-and-data-structures) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/javascript-algorithms-and-data-structures) |
+| [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) | **Completed** | [Certificate](https://www.udemy.com/certificate/UC-2aa8e085-4a4e-4320-acf3-a1b4cdb275bf/)   |
+| [Accelerated ES6 JavaScript Training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) | **Completed** | [Certificate]https://www.udemy.com/certificate/UC-03295d63-4f13-415c-bdd3-28742a8258a9/)   |
+| [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)    | **Completed** | [Certificate](https://www.udemy.com/certificate/UC-e3acd966-7d79-4993-959a-12ef14c20487/)
 | **Capstone**  | **Status** | **Evidence**
 | Build a Wordpress theme based on [underscores](https://underscores.me/) | **Completed** | [Website](https://www.rockinwithpurpose.com/)
 
