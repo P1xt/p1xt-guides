@@ -1,67 +1,10 @@
 # Computer Science and Programming - Version 4.0
 
-Fork of p1xt-guides curriculum for tracking my individual progress. I will be modifying this somewhat, substituting some courses for similar material that I have already started working on or have previously completed. Courses I am substituting will be crossed out, with the replacement course to the right. I will not be following this completely in order. For the work I'm currently doing, some skills are more valuable for me to learn sooner rather than later.
+Fork of p1xt-guides curriculum for tracking my individual progress. I will be modifying this somewhat, substituting some courses for similar material that I have already started working on or have previously completed. Courses I am substituting will be crossed out, with the replacement course to the right. I will not be following this completely in order. For my current role, some skills are more immediately valuable for me.
 
 **I'm currently working on the 'Junior Developer' tiers**
 
-Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
-
-**Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
-
-## Table of Contents
-
-### Junior developer
-
-If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
-
-- [tier X - Math Prep](#tier-x---math-prep)
-- [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
-- [tier 1 - Getting Started](#tier-1---getting-started)
-
-### Intermediate developer
-
-If you want to develop the skills necessary to move beyond junior to intermediate developer - once you've finished tiers X, 0 and 1, proceed to complete tiers 2 and 3.
-
-- [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
-- [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
-
-### Advanced developer
-
-If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
-
-- [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
-- [tier 5 - Specialize](#tier-5---specialize)
-
-### Specializations
-
-Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing. [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended (but not required) as the first specialization. Beyond that, feel free to complete a different specialization each tier, or dive deeply into a specialization by selecting it during multiple tiers to explore it in greater detail and further develop your specialized profile.
-
-- [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
-- [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md)
-- [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack Ruby on Rails](./specializations/the_odin_project_ruby.md)
-- [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack JavaScript](./specializations/the_odin_project_javascript.md)
-- [Web Development - Frontend](./specializations/frontend.md)
-- [Web Development - Backend](./specializations/backend.md)
-- [Mobile App Development](./specializations/mobile.md)
-- [Game Development](./specializations/games.md)
-- [Open Source Contributions](./specializations/open_source.md)
-
-### Advanced Specializations
-
-The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
-
-- [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
-- [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
-- [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
-- [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
-- [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
-
-### Tier Programming Projects
-
-Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
-
-**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
+Some helpful information has been removed and can be viewed as needed in the [official p1xt-guides repo](https://github.com/P1xt/p1xt-guides).
 
 ## Junior developer
 
@@ -78,7 +21,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 ### Tier X - Programming Prep Prep
 
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
+I've previously completed materials on Team Treehouse that I think adequately cover prep material, so I am substituting most of these.
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
@@ -90,28 +33,28 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | **Capstone**  | **Status** | **Evidence**
 | Build a Wordpress theme based on [underscores](https://underscores.me/) | **Completed** | [Website](https://www.rockinwithpurpose.com/)
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
+### Tier 0 - Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
+Per the [FAQ](./faq.md#do-i-really-have-to-do-app-academy-open-in-tier-0-why-should-i-waste-time-on-ruby), I am substituting [App Academy Open](https://open.appacademy.io/) with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022](./specializations/full_stack_open_2020.md). This substitution is better aligned with my current role.
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| ~~Full Stack Online - React~~ [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/learn#javascript-algorithms-and-data-structures#front-end-libraries) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/front-end-libraries)   |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQl                                                                                                                                           |            |              |
-| ~~Full Stack Online - Data Structures and Algorithms~~ [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/#javascript-algorithms-and-data-structures) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/javascript-algorithms-and-data-structures) |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+| Courses                                                                                                                                                                         |   Status   |   Evidence   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
+| Fundamentals of Web apps                                                                                                                                                        |            |              |
+| Introduction to React                                                                                                                                                           |            |              |
+| Communicating with server                                                                                                                                                       |            |              |
+| Programming a server with NodeJS and Express                                                                                                                                    |            |              |
+| Testing Express servers, user administration                                                                                                                                    |            |              |
+| Testing React apps                                                                                                                                                              |            |              |
+| State management with Redux                                                                                                                                                     |            |              |
+| React router, custom hooks, styling app with CSS and webpack                                                                                                                    |            |              |
+| GraphQL                                                                                                                                                                         |            |              |
+| Typescript                                                                                                                                                                      |            |              |
+| **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
+| [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
+| [Official Express Docs](https://expressjs.com/)                                                                                                                                 |            |              |
+| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
 
 ### Tier 1 - Getting Started
 
