@@ -1,7 +1,7 @@
 # Tier Programming Project Ideas
 
 Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, this section lists a variety of ideas. Note: In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
-  
+
 **Note:** Your projects can be any programming project you wish: web development, mobile development, games, applications, command line utilities, browser extensions, compilers, _anything_. They can be small to large endeavors. Pick something you want to code, that will provide you practice with existing skills or stretch you to grow new skills. Ideas: clone a popular website, clone a website template, create or clone a game, build a command line utility, enter a hackathon/programming competition. Many other ideas are listed below but keep in mind that they are only ideas - you are completely free to either use one of the ideas listed below or an idea of your own.
 
 - [Tier Programming Project Ideas](#tier-programming-project-ideas)
@@ -12,16 +12,20 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 ## To Practice Frontend Web, Mobile App, or Desktop Development
 
+**Complete any of the free challenges on [Frontend Mentor](https://www.frontendmentor.io/challenges) as a web, mobile or desktop app.**
+
 **Clone one or more of the following Website Templates (or the frontend of any website or theme you like) as a web or mobile app:**
 
-- [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-agency/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-resume/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/), include all features (hover effects, animations, pages, etc)
+Note: Either use the theme as inspiration, coding similar features but using your own typography, images, and design ideas, or fully attribute the original theme and note yours as a clone - or both. The intention is to gain practice coding, not to get sued for copyright infringement. Give attribution to your sources.
+
+- [this theme](https://startbootstrap.com/previews/landing-page/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/agency/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/resume/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/stylish-portfolio/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/ballet-one-page-free-website-template/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/delta-corporate-material-design-bootstrap-html-template/index.html), include all features (hover effects, animations, pages, etc).
-- [this theme](https://blackrockdigital.github.io/startbootstrap-creative/), include all features (hover effects, animations, pages, etc)
-- [this theme](https://blackrockdigital.github.io/startbootstrap-coming-soon/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/creative/), include all features (hover effects, animations, pages, etc)
+- [this theme](https://startbootstrap.com/previews/coming-soon/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/lookup-interior-design-bootstrap-website-template/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/flavour-restaurant-html5-responsive-web-template/), include all features (hover effects, animations, pages, etc)
 - [this theme](https://webthemez.com/demo/fine-best-app-landing-page-free-web-template/), include all features (hover effects, animations, pages, etc)

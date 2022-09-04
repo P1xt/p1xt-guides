@@ -13,20 +13,20 @@ You may elect to complete this specialization more than once by selecting it as 
 
 | **Practice**                                                                                                                                                                      | **Status** | **Evidence** |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)                               |            |
-| Study all docs for your chosen platform and its ecosystem                                                                                                                         |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Identify blogs and Twitter users to follow to stay up to date on your chosen platform and its ecosystem and begin 'reading up' on a weekly basis to stay current                  |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Participate in the community surrounding your chosen platform and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                              |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                              |            |
+| [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)                                                                      |            |              |
+| Study all docs for your chosen platform and its ecosystem                                                                                                                         |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Identify blogs and Twitter users to follow to stay up to date on your chosen platform and its ecosystem and begin 'reading up' on a weekly basis to stay current                  |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Participate in the community surrounding your chosen platform and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                              |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                              |            |              |
 | **Capstone**                                                                                                                                                                      | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.   |            |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.   |            |              |

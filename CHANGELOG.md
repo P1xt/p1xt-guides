@@ -2,6 +2,9 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**September 1, 2020**
+Add CS50's AI course. Add Oden Project Full Stack JavaScript. General cleanup.
+
 **July 1, 2019**  
 Add Deep Dive Into Modern Web Development - Full Stack Open 2019 from the University of Helsinki as a fullstack bootcamp option in the specializations as it provides an opportunity to study react further after App Academy and to branch out and use Node/Express for backend.
 

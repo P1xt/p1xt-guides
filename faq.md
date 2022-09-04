@@ -8,6 +8,12 @@ This guide is for anyone who wants to learn a fair amount of computer science wh
 
 My primary goal is to save aspiring programmers the time of vetting the litany of resources available so they can spend more time learning and less time deciding what to learn. The internet is vast and chock full of tutorials and 'one off' courses and a significant amount of them only teach material at the surface level. I wanted there to be a resource that would go deeper, teach foundations, then build on those foundations for folks who want dive deep and aspire to go beyond 'good enough'.
 
+## Do I really have to do App Academy Open in Tier 0? Why should I waste time on Ruby?
+
+If you want a bit tougher intro, please feel free to substitute with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md). This, will result in you learning "about the same" amount as you would with App Academy, however the content will begin at a more advanced level so you'll need a higher degree of determination and "grit" to make the most of it.
+
+If "but am I wasting my time learning Ruby" is causing you anxiety that is preventing you from progressing in your learning journey, feel free to substitute with [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack JavaScript](./specializations/the_odin_project_javascript.md). Note, this option will result in you learning less than you would have with App Academy Open but it's still a viable path in which you will learn a lot. Note 2: You're really not wasting your time learning Ruby. The language used isn't what's important here. The important part is the foundational concepts that will illuminate all of your future learning, regardless of language.
+
 ## Why did you deprecate all the other guides and condense everything down into just one guide?
 
 This guide is a restructuring of previous iterations of multiple guides in order to solve two issues:

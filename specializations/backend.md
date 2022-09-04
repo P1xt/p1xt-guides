@@ -10,26 +10,26 @@ You may elect to complete this specialization more than once by selecting it as 
 
 | Courses                                                                                                                                                                           |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [M001: MongoDB Basics](https://university.mongodb.com/courses/catalog)                                                                                                            |            |
-| [M220J, M220JS or M220P](https://university.mongodb.com/courses/catalog)                                                                                                          |            |
-| [M310: MongoDB Security](https://university.mongodb.com/courses/catalog)                                                                                                          |            |
+| [M001: MongoDB Basics](https://university.mongodb.com/courses/catalog)                                                                                                            |            |              |
+| [M220J, M220JS or M220P](https://university.mongodb.com/courses/catalog)                                                                                                          |            |              |
+| [M310: MongoDB Security](https://university.mongodb.com/courses/catalog)                                                                                                          |            |              |
 | **Reading**                                                                                                                                                                       | **Status** | **Evidence** |
-| [TravisCI](https://docs.travis-ci.com/)                                                                                                                                           |            |
-| [Docker](https://docs.docker.com/)                                                                                                                                                |            |
-| [Kubernetes](https://kubernetes.io/docs/home/)                                                                                                                                    |            |
+| [TravisCI](https://docs.travis-ci.com/)                                                                                                                                           |            |              |
+| [Docker](https://docs.docker.com/)                                                                                                                                                |            |              |
+| [Kubernetes](https://kubernetes.io/docs/home/)                                                                                                                                    |            |              |
 | **Practice**                                                                                                                                                                      | **Status** | **Evidence** |
-| Study all docs for your chosen language and its ecosystem                                                                                                                         |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Identify blogs and Twitter users to follow to stay up to date on your chosen language and its ecosystem and begin 'reading up' on a weekly basis to stay current                  |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Open Source Contribution                                                                                                                                                          |            |
-| Participate in the community surrounding your chosen language and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Open Source Contribution                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
+| Study all docs for your chosen language and its ecosystem                                                                                                                         |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Identify blogs and Twitter users to follow to stay up to date on your chosen language and its ecosystem and begin 'reading up' on a weekly basis to stay current                  |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Participate in the community surrounding your chosen language and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
+| Tier Programming Project                                                                                                                                                          |            |              |
 | **Capstone**                                                                                                                                                                      | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.   |            |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.   |            |              |
