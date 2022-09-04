@@ -29,7 +29,7 @@ I've previously completed material that I think adequately meets or exceeds the 
 | [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/learn#javascript-algorithms-and-data-structures#front-end-libraries) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/front-end-libraries)   |
 | [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/#javascript-algorithms-and-data-structures) | **Completed** | [Certificate](https://www.freecodecamp.org/certification/timfau/javascript-algorithms-and-data-structures) |
 | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) | **Completed** | [Certificate](https://www.udemy.com/certificate/UC-2aa8e085-4a4e-4320-acf3-a1b4cdb275bf/)   |
-| [Accelerated ES6 JavaScript Training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) | **Completed** | [Certificate]https://www.udemy.com/certificate/UC-03295d63-4f13-415c-bdd3-28742a8258a9/)   |
+| [Accelerated ES6 JavaScript Training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) | **Completed** | [Certificate](https://www.udemy.com/certificate/UC-03295d63-4f13-415c-bdd3-28742a8258a9/)   |
 | [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)    | **Completed** | [Certificate](https://www.udemy.com/certificate/UC-e3acd966-7d79-4993-959a-12ef14c20487/)
 | **Capstone**  | **Status** | **Evidence**
 | Build a Wordpress theme based on [underscores](https://underscores.me/) | **Completed** | [Website](https://www.rockinwithpurpose.com/)
