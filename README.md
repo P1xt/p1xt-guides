@@ -40,7 +40,7 @@ Per the [FAQ](./faq.md#do-i-really-have-to-do-app-academy-open-in-tier-0-why-sho
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Fundamentals of Web apps                                                                                                                                                        |            |              |
+| Fundamentals of Web apps                                                                                                                                                        |**Completed**|[Completed Exercise](https://github.com/TimFau/fullstackopen-exercises/tree/main/part0)|
 | Introduction to React                                                                                                                                                           |            |              |
 | Communicating with server                                                                                                                                                       |            |              |
 | Programming a server with NodeJS and Express                                                                                                                                    |            |              |
