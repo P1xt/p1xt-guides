@@ -23,6 +23,9 @@ Pick this specialization to gain a ton of practice with data structures and algo
 | [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive) year of your choice (that you haven't previously completed)                                                                   |            |              |
 | [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive) year of your choice (that you haven't previously completed)                                                                   |            |              |
 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/past_rounds/228440181128818/) year of your choice (that you haven't previously completed)                                                         |            |              |
-| [Facebook Hacker Cup](https://www.facebook.com/hackercup/past_rounds/228440181128818/) year of your choice (that you haven't previously completed)                                                         |            |              |
+| [Facebook Hacker Cup](https://www.facebook.com/hackercup/past_rounds/228440181128818/) year of your choice (that you haven't previously completed)
+|            |              |
+| Practice [Graph Data Structure & Algorithm](https://www.interviewbit.com/courses/programming/graph-data-structure-algorithms/)
+|            |              |
 | **Capstone**                                                                                                                                                                                               | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.                            |            |              |
