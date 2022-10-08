@@ -36,14 +36,14 @@ I've previously completed material that I think adequately meets or exceeds the 
 
 ### Tier 0 - Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022
 
-Per the [FAQ](./faq.md#do-i-really-have-to-do-app-academy-open-in-tier-0-why-should-i-waste-time-on-ruby), I am substituting [App Academy Open](https://open.appacademy.io/) with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022](./specializations/full_stack_open_2020.md). This substitution is better aligned with my current role.
+Per the option mentioned in the [FAQ](./faq.md#do-i-really-have-to-do-app-academy-open-in-tier-0-why-should-i-waste-time-on-ruby), I am substituting [App Academy Open](https://open.appacademy.io/) with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022](./specializations/full_stack_open_2020.md) ([course link](https://fullstackopen.com/en/#course-contents)). This substitution is better aligned with my current role.
 
 | Courses |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
 | Fundamentals of Web apps |**Completed**|[Completed Exercise](https://github.com/TimFau/fullstackopen-exercises/tree/main/part0)|
 | Introduction to React    |**Completed**|[Completed Exercises](https://github.com/TimFau/fullstackopen-exercises/tree/master/part1)|
-| Communicating with server |**In Progress**|   |
-| Programming a server with NodeJS and Express |   |   |
+| Communicating with server |**Completed**|[Completed Exercises](https://github.com/TimFau/fullstackopen-exercises/tree/master/Part2)|
+| Programming a server with NodeJS and Express |**In Progress**|   |
 | Testing Express servers, user administration |   |   |
 | Testing React apps |   |   |
 | State management with Redux |   |   |
