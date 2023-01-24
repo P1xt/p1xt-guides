@@ -1,6 +1,6 @@
 # Web Development - Fullstack Bootcamp - App Academy Open Specialization
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. You may elect to complete this specialization only once.
+Complete the [App Academy Open](https://www.appacademy.io/course/app-academy-open) free online Fullstack Bootcamp. You may elect to complete this specialization only once.
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
