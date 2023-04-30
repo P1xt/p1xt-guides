@@ -43,8 +43,8 @@ Per the option mentioned in the [FAQ](./faq.md#do-i-really-have-to-do-app-academ
 | Fundamentals of Web apps |**Completed**|[Completed Exercise](https://github.com/TimFau/fullstackopen-exercises/tree/main/part0)|
 | Introduction to React    |**Completed**|[Completed Exercises](https://github.com/TimFau/fullstackopen-exercises/tree/master/part1)|
 | Communicating with server |**Completed**|[Completed Exercises](https://github.com/TimFau/fullstackopen-exercises/tree/master/Part2)|
-| Programming a server with NodeJS and Express |**In Progress**|   |
-| Testing Express servers, user administration |   |   |
+| Programming a server with NodeJS and Express |**Completed**|[Completed Exercises (1)](https://github.com/TimFau/fullstackopen-exercises-part3,%20https://github.com/TimFau/fullstackopen-exercises)<br>[Completed Exercises (2)](https://github.com/TimFau/fullstackopen-exercises-part3,%20https://github.com/TimFau/fullstackopen-exercises)|
+| Testing Express servers, user administration |**In Progress**|   |
 | Testing React apps |   |   |
 | State management with Redux |   |   |
 | React router, custom hooks, styling app with CSS and webpack |   |   |
