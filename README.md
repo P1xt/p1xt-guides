@@ -36,7 +36,7 @@ I've previously completed material that I think adequately meets or exceeds the 
 
 ### Tier 0 - Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022
 
-Per the option mentioned in the [FAQ](./faq.md#do-i-really-have-to-do-app-academy-open-in-tier-0-why-should-i-waste-time-on-ruby), I am substituting [App Academy Open](https://open.appacademy.io/) with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022](./specializations/full_stack_open_2020.md) ([course link](https://fullstackopen.com/en/#course-contents)). This substitution is better aligned with my current role.
+Per the option mentioned in the [FAQ](./faq.md#do-i-really-have-to-do-app-academy-open-in-tier-0-why-should-i-waste-time-on-ruby), I am substituting [App Academy Open](https://open.appacademy.io/) with [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2022](./specializations/full_stack_open_2020.md) ([course link](https://fullstackopen.com/en/#course-contents)). This substitution is better aligned with my current role where I am actively developing with React.
 
 | Courses |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
@@ -45,8 +45,8 @@ Per the option mentioned in the [FAQ](./faq.md#do-i-really-have-to-do-app-academ
 | Communicating with server |**Completed**|[Completed Exercises](https://github.com/TimFau/fullstackopen-exercises/tree/master/Part2)|
 | Programming a server with NodeJS and Express |**Completed**|[Completed Exercises (1)](https://github.com/TimFau/fullstackopen-exercises-part3,%20https://github.com/TimFau/fullstackopen-exercises)<br>[Completed Exercises (2)](https://github.com/TimFau/fullstackopen-exercises-part3,%20https://github.com/TimFau/fullstackopen-exercises)|
 | Testing Express servers, user administration |**Completed**|[Completed Exercises](https://github.com/TimFau/fullstackopen-part4-blogList)|
-| Testing React apps |**In Progress**|   |
-| State management with Redux |   |   |
+| Testing React apps |**Completed**|[Completed Exercises (1)](https://github.com/TimFau/bloglist-frontend)<br>[Completed Exercises (2)](https://github.com/TimFau/fullstackopen-part4-blogList)|
+| Advanced State Management |**In Progress**|   |
 | React router, custom hooks, styling app with CSS and webpack |   |   |
 | GraphQL |   |   |
 | Typescript |   |   |
