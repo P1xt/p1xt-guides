@@ -1,4 +1,4 @@
-# Computer Science and Programming - Version 4.0
+# Computer Science and Programming 
 
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
 
