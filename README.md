@@ -20,7 +20,7 @@ If you want to develop the skills necessary to be 'job ready' for a junior devel
 If you want to develop the skills necessary to move beyond junior to intermediate developer - once you've finished tiers X, 0 and 1, proceed to complete tiers 2 and 3.
 
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
-- [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
+- [tier 3 - Add More Rigor](#tier-3---add-more-rigor)]]
 
 ### Advanced developer
 
