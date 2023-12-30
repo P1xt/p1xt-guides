@@ -46,7 +46,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
-- [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015/qualification_round)
 - [ ] Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
 - [ ] Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 - [ ] Course: [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)
@@ -61,35 +61,35 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 - [ ] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
 - [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
-- [ ] Project: Complete all challenges from the [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam Round 1A 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015/round_1a)
 - [ ] Book: [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 - [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
 - [ ] Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [ ] Project: Complete all ES6 Katas [here](http://es6katas.org/)
 - [ ] Course: [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)
-- [ ] Project: Complete all challenges from the [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam Round 1B 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015/round_1b)
 - [ ] Project: Build Facebook: yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fulfill.
 - [ ] Course: [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
-- [ ] Project: Complete all challenges from the [Code Jam Round 1C 2015](https://code.google.com/codejam/contest/4244486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam Round 1C 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015/round_1c)
 - [ ] Course: [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
 - [ ] Project: Write the CSS Necessary to create your own 12 column based grid layout - see [here](http://960.gs/) for an example
 - [ ] Course: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)
 - [ ] Project: Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/) in JavaScript
 - [ ] Course: [Cryptography I](https://www.coursera.org/course/crypto)
-- [ ] Project: Complete all challenges from the [Code Jam Round 2 2015](https://code.google.com/codejam/contest/8234486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam Round 2 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015/round_2)
 - [ ] Course: [Cryptography II](https://www.coursera.org/course/crypto2)
 - [ ] Project: Clone Twitter - yes, all the functionality
 
 ## Tier 4 - polish the rough edges
 
 - [ ] Course: [Computer Architecture](https://www.coursera.org/course/comparch)
-- [ ] Project: Complete all challenges from the [Code Jam Round 3 2015](https://code.google.com/codejam/contest/4254486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam Round 3 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015/round_3)
 - [ ] Course: [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
 - [ ] Project: Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/) in JavaScript
 - [ ] Course: [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 - [ ] Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
-- [ ] Project: Complete all challenges from the [Code Jam World Finals 2015](https://code.google.com/codejam/contest/5224486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam World Finals 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015/world_finals)
 - [ ] Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
 - [ ] Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)
@@ -99,8 +99,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ] Project: Clone [Learn Harmony](http://learnharmony.org/#/?_k=0okjs7)
 - [ ] Course: [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 - [ ] Course: [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
-- [ ] Project: Complete all problems from all rounds of the [Distributed Google Code Jam 2015](https://code.google.com/codejam/contests.html) - scroll down to the appropriate section
+- [ ] Project: Complete all problems from all rounds of the [Distributed Google Code Jam 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015) - scroll down to the appropriate section
 - [ ] Project: Clone Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
 - [ ] Project: Create an npm module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework of your choice on the frontend. Include a full test suite and comprehensive build processes. Publish it to NPM.
-- [ ] Project: Complete all problems from all rounds of the [Google Code Jam 2016](https://code.google.com/codejam/contests.html) - scroll down to the appropriate section
+- [ ] Project: Complete all problems from all rounds of the [Google Code Jam 2016](https://github.com/google/coding-competitions-archive/tree/main/codejam/2016) - scroll down to the appropriate section
 - [ ] Project: Extend your CSS grid framework to include the CSS and JavaScript required to implement 5 to 10 material design components
