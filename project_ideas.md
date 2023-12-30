@@ -71,9 +71,9 @@ Note: Either use the theme as inspiration, coding similar features but using you
 **Complete any of the following archived coding competitions prior to 2015:**
 
 - [Facebook Hacker Cup]([https://www.facebook.com/hackercup/past_rounds/228440181128818/](https://www.facebook.com/codingcompetitions/hacker-cup))
-- [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart/archive)
-- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
-- [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode/archive)
+- [Google Kick Start](https://github.com/google/coding-competitions-archive/tree/main/kickstart)
+- [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam)
+- [Google Hash Code](https://github.com/google/coding-competitions-archive/tree/main/hashcode)
 
 **Complete a [CodinGame](https://www.codingame.com) Sponsored Contest**
 
