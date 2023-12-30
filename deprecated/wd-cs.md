@@ -47,7 +47,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ] Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
 - [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
 - [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
-- [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
+- [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://github.com/google/coding-competitions-archive/tree/main/codejam/2015)
 - [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 
 ## Tier 3 - build on the foundation
@@ -87,7 +87,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ] Project: Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/) in JavaScript
 - [ ] Project: Create a node module that will convert markdown to properly formatted html
 - [ ] Project: Create an npm module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework of your choice on the frontend. Include a full test suite and comprehensive build processes. Publish it to NPM.
-- [ ] Project: Complete all problems from all rounds of the [Google Code Jam 2016](https://code.google.com/codejam/contests.html) - scroll down to the appropriate section
+- [ ] Project: Complete all problems from all rounds of the [Google Code Jam 2016](https://github.com/google/coding-competitions-archive/tree/main/codejam/2016) - scroll down to the appropriate section
 - [ ] Project: Extend your CSS grid framework to include the CSS and JavaScript required to implement 5 to 10 material design components
 - [ ] Project: Clone [Learn Harmony](http://learnharmony.org/#/?_k=0okjs7)
 - [ ] Project: Clone Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.

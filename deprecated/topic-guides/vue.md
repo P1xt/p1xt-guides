@@ -93,7 +93,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
 - [ ]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
 - [ ]  Official Docs: [Gulp Docs](https://gulpjs.com/)
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
+- [ ]  Project: [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam) - complete the qualifying round of any past contest using JavaScript 
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
 - [ ]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
@@ -129,7 +129,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Official Docs: [Vuex](https://vuex.vuejs.org/en/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [Vue.js Server-Side Rendering Guide](https://ssr.vuejs.org/en/)
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [ ]  Project: [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Redux docs](https://redux.js.org/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an Vue application powered by data fetched from the API you chose. 
@@ -142,19 +142,19 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 
 - [ ]  Official Docs: [Weex official documentation](http://weex.apache.org/guide/) Study thoroughly, then refactor any previous project into a mobile app using Weex
 - [ ]  Project: Make an open source contribution to a project you use
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [ ]  Project: [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam) - complete one round of any past contest using JavaScript 
 - [ ]  Official Docs: [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 - [ ]  Project: Clone a substantial production website (on the level of Medium, Twitter, etc)
 - [ ]  Write an extensive tutorial on Vue - post it publicly
 - [ ]  Project: Make an open source contribution to a project you use
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [ ]  Project: [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam) - complete one round of any past contest using JavaScript 
 - [ ]  Study a comprehensive text on Data Structures and Algorithms (such as Cormen or Sedgewick, or the freely available Open Data Structures book) and implement all data structures and algorithms in JavaScript
 - [ ]  Project: Make an open source contribution to a project you use
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [ ]  Project: [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Make an open source contribution to a project you use
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [ ]  Project: [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Make an open source contribution to a project you use
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [ ]  Project: [Google Code Jam](https://github.com/google/coding-competitions-archive/tree/main/codejam) - complete one round of any past contest using JavaScript 
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: Make an open source contribution to a project you use
