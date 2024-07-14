@@ -15,7 +15,7 @@ Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](http
 | GraphQL                                                                                                                                                                         |            |              |
 | Typescript                                                                                                                                                                      |            |              |
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
-| [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
+| [Official React Docs](https://react.dev/learn)                                                                                                            |            |              |
 | [Official Express Docs](https://expressjs.com/)                                                                                                                                 |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
