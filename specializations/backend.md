@@ -10,9 +10,9 @@ You may elect to complete this specialization more than once by selecting it as 
 
 | Courses                                                                                                                                                                           |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-|                                                                                                             |            |              |
-| [M220J, M220JS or M220P](https://university.mongodb.com/courses/catalog)                                                                                                          |            |              |
-| [M310: MongoDB Security](https://university.mongodb.com/courses/catalog)                                                                                                          |            |              |
+   |                                                                                                                                   |
+| [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path), or [MongoDB Node.js Developer Path](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path), or [MongoDB Python Developer Path](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path)                                                                                                         |            |              |
+| [MongoDB Atlas Security](https://learn.mongodb.com/courses/mongodb-atlas-security)                                                                                                          |            |              |
 | **Reading**                                                                                                                                                                       | **Status** | **Evidence** |
 | [TravisCI](https://docs.travis-ci.com/)                                                                                                                                           |            |              |
 | [Docker](https://docs.docker.com/)                                                                                                                                                |            |              |
