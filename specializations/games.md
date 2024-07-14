@@ -13,7 +13,7 @@ You may elect to complete this specialization more than once by selecting it as 
 
 | **Practice**                                                                                                                                                                      | **Status** | **Evidence** |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)                                                                      |            |              |
+| [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/2018/)                                                                      |            |              |
 | Study all docs for your chosen platform and its ecosystem                                                                                                                         |            |              |
 | Tier Programming Project                                                                                                                                                          |            |              |
 | Tier Programming Project                                                                                                                                                          |            |              |
