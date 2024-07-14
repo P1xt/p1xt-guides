@@ -10,7 +10,7 @@ You may elect to complete this specialization more than once by selecting it as 
 
 | Courses                                                                                                                                                                           |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [M001: MongoDB Basics](https://university.mongodb.com/courses/catalog)                                                                                                            |            |              |
+|                                                                                                             |            |              |
 | [M220J, M220JS or M220P](https://university.mongodb.com/courses/catalog)                                                                                                          |            |              |
 | [M310: MongoDB Security](https://university.mongodb.com/courses/catalog)                                                                                                          |            |              |
 | **Reading**                                                                                                                                                                       | **Status** | **Evidence** |
