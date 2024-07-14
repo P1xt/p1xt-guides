@@ -19,6 +19,6 @@ Complete the [App Academy Open](https://www.appacademy.io/course/app-academy-ope
 | Full Stack Online - GraphQl                                                                                                                                                     |            |              |
 | Full Stack Online - Data Structures and Algorithms                                                                                                                              |            |              |
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
-| [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
+| [Official React Docs](https://react.dev/learn)                                                                                                            |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
