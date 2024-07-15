@@ -1,5 +1,7 @@
 # Computer Science and Programming - Version 4.0
 
+** NOTE: I will be doing a major overhaul to Version 5.0 this summer. Over the past year, a number of resources I once relied on have sundowned and I am in the process of revamping from scratch to include new material (and perhaps change the format a bit to make progression a big clearer.) **
+
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
 
 **Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
