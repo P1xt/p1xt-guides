@@ -1,264 +1,358 @@
-# Computer Science and Programming - Version 4.0
 
-**NOTE: I will be doing a major overhaul to Version 5.0 this summer. Over the past year, a number of resources I once relied on have sundowned and I am in the process of revamping from scratch to include new material (and perhaps change the format a bit to make progression a big clearer.)**
 
-Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
+<!-- TOC --><a name="p1xt-guides-version-50"></a>
+# P1xt Guides - Version 5.0
 
-**Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
+Before you start, please let me introduce a bit of my philosophy for learning how to be a top-notch programmer. 
 
+- always be learning 
+- always be practicing
+- always help others when you can 
+- include learning some math
+
+Programming, software engineering, web development, whatever you want to call it, however, you want to approach it, has one immutable characteristic - it's a field in flux, and there are new advances every day - don't let this discourage you, but do let it instill in you an excitement for **learning**. Learning new technologies should be an exciting opportunity for growth, not a disappointing drudgery. Start, from day one, with a celebratory mindset about learning new things - that mindset will skyrocket your progress.
+
+You’ll learn a lot from taking courses. You’ll learn a lot from watching videos. You’ll learn a lot from “reading the docs.” All of these are important, in fact crucial, on your path. If you want to retain all that great learning, you need to **practice** it. Practice will transform something you've been exposed to into something you can “reliably do.” Lean heavily into practicing.
+
+You're learning, you're practicing - do you want to excel? Yes? Then find opportunities to **help others** learn. There is no other activity that will prepare you better to interview well than consistently helping others. It teaches you to interact well with others and communicate technical concepts.
+
+Yeah, yeah, yeah, you can find a billion people on the internet who will tell you you don't need **math** to be a good programmer. I agree, to a certain extent. That said, math is about learning to solve increasingly complex problems. And, knowing how to logically go about solving increasingly complex problems is what programming is all about. Don't sleep on math, every little extra bit you learn will make you that much better at problem-solving. Yeah, you “can do fine” without the math, but with it, you fly!
+
+**Helpful (non-programming) resources**
+- [Notion](https://www.notion.so) - for taking notes (in markdown which will help you write README's later)
+- [Finch](https://finchcare.com/) - take care of yourself while communing with a sweet little birb
+
+**General advice**
+- If you can't summon the willpower to do anything, decide "I'll do five minutes, that's enough for today." And, then, do 5 minutes. 5 minutes is more than 0 minutes and sometimes leads to ... more minutes ... or not, be ok with either.
+- Get enough sleep, everything is better if you've slept well.
+- Eat well. If your body and mind have the nutrients they need, they can do their jobs better.
+- Get some physical activity. You don't have to run a marathon (unless you're into that) but being physically active helps your body and your mind. Even if it's just a leisurely walk a time or two a day - be active. This will legit help you learn more.
+- As soon as you know one thing, help anyone struggling with that one thing. Add to the list of things you help others with as you learn more things. You aren't just helping others, you are helping yourself. You are learning "the thing" more deeply and you are practicing communicationg about technical things. This is a skill you want to be practicing your entire journey, not trying to figure out the day before an interview.
+- Always have a practice project you're working on and something your reading. This gives you productive stuff to do if you need a break from what you're learning.
+- Finish what you start, even if it's difficult. You'll learn perserverance (extremely valuable), develop confidence, and minimize the risk of getting stuck in a never-ending loop of just repeating beginner stuff while never really being able to do anything amazing.
+- You are not special because you know more than someone else. Treat others with dignity and respect. Be humble. No matter how much you've learned, you don't know everything. Lead with kindness, it'll serve you well.
+- If you're wondering what all the "Status" and "Evidence" columns are below, they're so that if you fork this repository, you can show when you begin and finish each item (in your fork) and link any projects you did in "Evidence" as a sort of journal for yourself so you can browse back over your journey (and possibly find projects for your eventual portfolio faster)
+- If you want practice with git, and don't have a project in mind, take your notes in markdown and save the `.md` files in a github (or gitlab) repository of your notes. You'll get practice with git and get practice with markdown. It's a twofer.
+
+<!-- TOC start  -->
 ## Table of Contents
+- [P1xt Guides - Version 5.0](#p1xt-guides-version-50)
+   * [Tier 1 - Web Development Foundation](#tier-1-web-development-foundation)
+   * [Tier 2 - Practice](#tier-2-practice)
+   * [Tier 3 - Interview Prep](#tier-3-interview-prep)
+   * [Tier 4 - Develop a Portfolio](#tier-4-develop-a-portfolio)
+   * [Tier 5 - Dive Deeper](#tier-5-dive-deeper)
 
-### Junior developer
+<!-- TOC end -->
 
-If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
+<!-- TOC --><a name="tier-1-web-development-foundation"></a>
+## Tier 1 - Web Development Foundation
 
-- [tier X - Math Prep](#tier-x---math-prep)
-- [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
-- [tier 1 - Getting Started](#tier-1---getting-started)
+### Goal
+The goal of Tier 1 is to gain a robust foundational knowledge of web development and become confident at coding beginner to intermediate-level web projects. It should provide a stepping stone for branching into other facets of development or for diving deeper into more advanced web development.
 
-### Intermediate developer
+### Instructions:
+- Proceed through the courses in order
+- Always be practicing. Ideas for practice:
+  - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free)
+  - Challenges on [CodinGame](https://www.codingame.com/training) in JavaScript
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+- Take time to read from the reading list
+- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
+  
+| Courses                                                                                                       | Status | Evidence |
+| :------------------------------------------------------------------------------------------------------------ | :----: | :------: |
+| [Comprehensive Introduction to HTML for Beginners](https://learn.codesignal.com/preview/course-paths/50)      |        |          |
+| [Comprehensive Introduction to Front-End Engineering](https://learn.codesignal.com/preview/course-paths/12)   |        |          |
+| [JavaScript Programming for Beginners](https://learn.codesignal.com/preview/course-paths/7)                   |        |          |
+| [Build a Space Travel Website with Frontend Mentor](https://v2.scrimba.com/build-a-space-travel-website-c014) |        |          |
+| [Building an Application End-to-End in JavaScript](https://learn.codesignal.com/preview/course-paths/76)      |        |          |
+| [Building Beautiful Websites with Bootstrap](https://learn.codesignal.com/preview/course-paths/72)            |        |          |
+| [Introduction to TypeScript for Beginners](https://learn.codesignal.com/preview/course-paths/23)              |        |          |
+| [Front-End Engineering with React](https://learn.codesignal.com/preview/course-paths/13)                      |        |          |
+| [Full-Stack Engineering with JavaScript](https://learn.codesignal.com/preview/course-paths/14)                |        |          |
+| [Learn TypeScript](https://v2.scrimba.com/learn-typescript-c03c)                                              |        |          |
+| [Comprehensive Intro to GraphQL in TypeScript](https://learn.codesignal.com/preview/course-paths/60)          |        |          |
+| [Dive Into Back-End Engineering with Express.js](https://learn.codesignal.com/preview/course-paths/84)        |        |          |
+| [Learning and Mastering Redis with Node.js](https://learn.codesignal.com/preview/course-paths/82)             |        |          |
+| [Implementing ToDo App with NestJS](https://learn.codesignal.com/preview/course-paths/104)                    |        |          |
+| [Drive and Motivation Theory in Practice](https://learn.codesignal.com/preview/course-paths/61)               |        |          |
+| [Introduction to Clean Code](https://v2.scrimba.com/introduction-to-clean-code-c025)                          |        |          |
 
-If you want to develop the skills necessary to move beyond junior to intermediate developer - once you've finished tiers X, 0 and 1, proceed to complete tiers 2 and 3.
+| Reading                                                                   | Status | Evidence |
+| :------------------------------------------------------------------------ | :----: | :------: |
+| [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)             |        |          |
+| [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)               |        |          |
+| [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |        |          |
+| [Eloquent JavaScript](https://eloquentjavascript.net/)                    |        |          |
+| [CSS Tricks](https://css-tricks.com/guides/)                              |        |          |
 
-- [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
-- [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
-### Advanced developer
+<!-- TOC --><a name="tier-2-practice"></a>
+## Tier 2 - Practice
 
-If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
+### Goal
+The goal of Tier 2 is to gain substantial hands-on programming practice. You have three options for selecting where you'd prefer to dedicate that practice.
 
-- [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
-- [tier 5 - Specialize](#tier-5---specialize)
+**Pick one of the three paths below:**
 
-### Specializations
+### Tier 2 - Option 1 -  JavaScript via Bootcamps
 
-Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing. [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended (but not required) as the first specialization. Beyond that, feel free to complete a different specialization each tier, or dive deeply into a specialization by selecting it during multiple tiers to explore it in greater detail and further develop your specialized profile.
+#### Instructions:
+- Proceed through the courses in order
+- Always be practicing. Ideas for practice:
+  - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free)
+  - Challenges on [CodinGame](https://www.codingame.com/training) in JavaScript
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+- Take time to read from the reading list
+- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
+  
+| Courses                                                                                                                                                                                                          | Status | Evidence |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)                                                                                                             |        |          |
+| [The Odin Project Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)                                                                                                             |        |          |
+| [Full Stack Open](https://fullstackopen.com/en/)                                                                                                                                                                 |        |          |
+| [MongoDB Node.js Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
 
-- [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
-- [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md)
-- [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack Ruby on Rails](./specializations/the_odin_project_ruby.md)
-- [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack JavaScript](./specializations/the_odin_project_javascript.md)
-- [Web Development - Frontend](./specializations/frontend.md)
-- [Web Development - Backend](./specializations/backend.md)
-- [Mobile App Development](./specializations/mobile.md)
-- [Game Development](./specializations/games.md)
-- [Open Source Contributions](./specializations/open_source.md)
+| Reading                           | Status | Evidence |
+| :-------------------------------- | :----: | :------: |
+| [GraphQL](https://graphql.org/)   |        |          |
+| [Node.js](https://nodejs.org/en)  |        |          |
+| [Express](https://expressjs.com/) |        |          |
 
-### Advanced Specializations
 
-The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
+### Tier 2 - Option 2 - Computer Science focus
 
-- [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
-- [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
-- [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
-- [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
-- [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
+#### Instructions:
+- Proceed through the courses in order
+- Always be practicing. Ideas for practice:
+  - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free)
+  - Challenges on [CodinGame](https://www.codingame.com/training) in C, JavaScript, or Python
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+- Take time to read from the reading list
+- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
+   
+| Courses                                                                                                                                                                                                        | Status | Evidence |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                                                                 |        |          |
+| [CS50's Web Programming with Python and JavaScript ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                    |        |          |
+| [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)                                                                        |        |          |
+| [MongoDB Python  Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
 
-### Tier Programming Projects
 
-Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
+| Reading                                                  | Status | Evidence |
+| :------------------------------------------------------- | :----: | :------: |
+| [W3 Schools C Programming](https://www.w3schools.com/c/) |        |          |
+| [Python](https://docs.python.org/3/)                     |        |          |
+| [SQLBolt](https://sqlbolt.com/)                          |        |          |
 
-**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
+### Tier 2 - Option 3 - Java Deep Dive
 
-## Junior developer
+#### Instructions:
+- Proceed through the courses in order
+- Always be practicing. Ideas for practice:
+  - Challenges on [CodinGame](https://www.codingame.com/training) in Java
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+- Take time to read from the reading list
+- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
+    
+| Courses                                                                                                                                                                                                    | Status | Evidence |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         |        |          |
+| [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)                                                                                         |        |          |
+| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                                                                                                      |        |          |
+| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     |        |          |
+| [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
 
-### Tier X - Math Prep
+| Reading                                                | Status | Evidence |
+| :----------------------------------------------------- | :----: | :------: |
+| [Oracle's Java Documentation](https://dev.java/learn/) |        |          |
 
-Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
+<!-- TOC --><a name="tier-3-interview-prep"></a>
+## Tier 3 - Interview Prep
 
-| Courses                                                       | Status | Evidence |
-| :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
+### Goal
+The goal of Tier 3 is to gain skills that will serve you well as you begin a job search. Both soft skills and technical skills which will help you interview and work well on teams should be your target in this tier. You will have the option to select a programming language for practicing technical interview skills.
 
-### Tier X - Programming Prep Prep
+### Instructions:
+- Proceed through the courses in order
+- Always be practicing. Ideas for practice:
+  - Challenges on [CodinGame](https://www.codingame.com/training) in the language of your choice
+  - Challenges on [LeetCode](https://leetcode.com) in the language of your choice (there's a lot on LeetCode, the [Top Interview 150](https://leetcode.com) is a good place to focus)
+  - Challenges on [HackerRank](https://www.hackerrank.com/dashboard) in the language of your choice
+  - Start creating a [Resume / CV](https://www.hackerrank.com/resume)
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+- Take time to read from the reading list
+- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
 
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
+### Soft Skills for interviewing and the workplace
+| Courses                                                                                                             | Status | Evidence |
+| :------------------------------------------------------------------------------------------------------------------ | :----: | :------: |
+| [Behavioral Interview Practice for Computer Science Students](https://learn.codesignal.com/preview/course-paths/65) |        |          |
+| [How to Win Friends & Influence People in Practice](https://learn.codesignal.com/preview/course-paths/70)           |        |          |
+| [Leading High-Impact Engineering Teams](https://learn.codesignal.com/preview/course-paths/69)                       |        |          |
+| [Running Effective 1-1 Meetings for Engineering Managers](https://learn.codesignal.com/preview/course-paths/67)     |        |          |
+| [Overcoming The Five Team Dysfunctions Through Practice](https://learn.codesignal.com/preview/course-paths/86)      |        |          |
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |              |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |              |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |              |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |              |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+### Miscelaneous "Things you should just know"
+| Courses                                                                     | Status | Evidence |
+| :-------------------------------------------------------------------------- | :----: | :------: |
+| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |        |          |
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
+**Pick one of the three paths below:**
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQL                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+### Tier 3 - Option 1 - JavaScript Focus
+| Courses                                                                                                             | Status | Evidence |
+| :------------------------------------------------------------------------------------------------------------------ | :----: | :------: |
+| [Mastering Algorithms and Data Structures in JavaScript](https://learn.codesignal.com/preview/course-paths/10)      |        |          |
+| [Fundamental Coding Interview Preparation with JavaScript](https://learn.codesignal.com/preview/course-paths/80)    |        |          |
+| [Four-Week Coding Interview Prep in JavaScript](https://learn.codesignal.com/preview/course-paths/97)               |        |          |
+| [Advanced Coding Interview Preparation with JavaScript](https://learn.codesignal.com/preview/course-paths/89)       |        |          |
+| [Coding Interview Prep for Senior Engineers in JavaScript](https://learn.codesignal.com/preview/course-paths/102)   |        |          |
+| [Advanced Interview Prep for Senior Engineers in JavaScript](https://learn.codesignal.com/preview/course-paths/101) |        |          |
 
-### Tier 1 - Getting Started
+| Reading                                                                       | Status | Evidence |
+| :---------------------------------------------------------------------------- | :----: | :------: |
+| [The Algorithms - JavaScript](https://the-algorithms.com/language/javascript) |        |          |
 
-Deepen understanding of Web Development and begin learning Computer Science topics.
+### Tier 3 - Option 2 - Python Focus
+| Courses                                                                                                        | Status | Evidence |
+| :------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [Mastering Algorithms and Data Structures in Python](https://learn.codesignal.com/preview/course-paths/5)      |        |          |
+| [Fundamental Coding Interview Preparation with Python](https://learn.codesignal.com/preview/course-paths/19)   |        |          |
+| [Four-Week Coding Interview Prep in Python](https://learn.codesignal.com/preview/course-paths/51)              |        |          |
+| [Advanced Coding Interview Preparation with Python](https://learn.codesignal.com/preview/course-paths/20)      |        |          |
+| [Coding Interview Prep for Senior Engineers in Python](https://learn.codesignal.com/preview/course-paths/33)   |        |          |
+| [Advanced Interview Prep for Senior Engineers in Python](https://learn.codesignal.com/preview/course-paths/28) |        |          |
 
-If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
+| Reading                                                            | Status | Evidence |
+| :----------------------------------------------------------------- | :----: | :------: |
+| [The Algorithms - Python](https://thealgorithms.github.io/Python/) |        |          |
 
-| Courses                                                                                                                                                                                                |   Status   |   Evidence   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
-| [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                          |            |              |
-| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
-| Do this: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous)                                                               |            |              |
-| Or, this: [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)              |            |              |
-| [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                                                                                        |            |              |
-| [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                                                         |            |              |
-| [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                                                                                             |            |              |
-| [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)                                                                           |            |              |
-| **Reading**                                                                                                                                                                                            | **Status** | **Evidence** |
-| [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics)                                                                                                        |            |              |
-| [MDN CSS - Reference - Key Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#Reference)                                                                                                       |            |              |
-| [MDN JavaScript - Tutorials - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide)                                                                              |            |              |
-| [You Don't Know JS: Get Started](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)                                                                                                   |            |              |
-| [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)                                                                                           |            |              |
-| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)                |            |              |
-| **Practice**                                                                                                                                                                                           | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                         |            |              |
-| Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                    |            |              |
-| Tier Programming Project                                                                                                                                                                               |            |              |
-| Tier Programming Project                                                                                                                                                                               |            |              |
-| **Specialization**                                                                                                                                                                                     | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization. |            |              |
+### Tier 3 - Option 3 - Java Focus
+| Courses                                                                                                      | Status | Evidence |
+| :----------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [Mastering Algorithms and Data Structures in Java](https://learn.codesignal.com/preview/course-paths/9)      |        |          |
+| [Fundamental Coding Interview Preparation with Java](https://learn.codesignal.com/preview/course-paths/66)   |        |          |
+| [Four-Week Coding Interview Prep in Java](https://learn.codesignal.com/preview/course-paths/100)             |        |          |
+| [Advanced Coding Interview Preparation with Java](https://learn.codesignal.com/preview/course-paths/73)      |        |          |
+| [Advanced Interview Prep for Senior Engineers in Java](https://learn.codesignal.com/preview/course-paths/93) |        |          |
 
-<br><br>
+| Reading                                                           | Status | Evidence |
+| :---------------------------------------------------------------- | :----: | :------: |
+| [The Algorithms - Java](https://the-algorithms.com/language/java) |        |          |
 
-## Intermediate Developer
+<!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
+## Tier 4 - Develop a Portfolio
 
-### Tier 2 - Develop More Expertise
+### Goal
+The goal of Tier 4 is to polish a portfolio of your best work.
 
-Dive deeper into the Computer Science topics which will prove useful throughout all programming
+### Instructions:
+- Create an online portfolio of your best work. You can:
+  - Polish projects you've completed previously
+  - Complete new projects
+- Ensure the portfolio is visible online
+- Ensure that you've adhered to good coding practices
+- Ensure that your projects are clean and free from errors
+- Aim for between 5 and 10 projects and ensure at least two projects are substantial in size and scope
+- If you need project ideas, ask ChatGPT using very specific prompts for project ideas of the scope you need and using the skills and technologies you'd like to highlight
+  
+<!-- TOC --><a name="tier-5-dive-deeper"></a>
+## Tier 5 - Dive Deeper
 
-| Courses                                                                                                                                                                                                            |   Status   |   Evidence   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)                                                   |            |              |
-| [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |            |              |
-| [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)       |            |              |
-| [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)                                                                 |            |              |
-| [Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)                                                                          |            |              |
-| [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                                                                                                                   |            |              |
-| [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)                                                                  |            |              |
-| **Reading**                                                                                                                                                                                                        | **Status** | **Evidence** |
-| [MDN JavaScript - Tutorials - Advanced](https://developer.mozilla.org/en-US/docs/Web/JavaScript#Advanced)                                                                                                          |            |              |
-| [MDN HTTP - Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTTP#Tutorials)                                                                                                                                |            |              |
-| [MDN Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_components)                                                                                                                                  |            |              |
-| [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)                                                         |            |              |
-| [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)                                                                  |            |              |
-| [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)                                                                  |            |              |
-| [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)                                                                                                                                  |            |              |
-| [D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-acknowledgements)                                                                                                               |            |              |
-| **Practice**                                                                                                                                                                                                       | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/)                                                                                                                                   |            |              |
-| Complete all ES6 Katas [here](http://es6katas.org/)                                                                                                                                                                |            |              |
-| Complete [Google Kick Start 2017](https://codingcompetitions.withgoogle.com/kickstart/archive/2017)                                                                                                                |            |              |
-| Complete [Google Code Jam 2018](https://codingcompetitions.withgoogle.com/codejam/archive/2018)                                                                                                                    |            |              |
-| Complete [Meta Hacker Cup 2017](https://www.facebook.com/codingcompetitions/hacker-cup/2017)                                                                                                                       |            |              |
-| Tier Programming Project                                                                                                                                                                                           |            |              |
-| Tier Programming Project                                                                                                                                                                                           |            |              |
-| **Specialization**                                                                                                                                                                                                 | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization              |            |              |
+### Goal
+The goal of Tier 5 is to enhance your knowledge and abilities by deep diving into areas of particular interest to you. Select one or more focus areas as your interests dictate.
 
-### Tier 3 - Add More Rigor
+**Select any area that interests you for further study:**
 
-Dive deeper yet, exploring algorithms and different programming paradigms
+### Tier 5 - Focus Area - React
 
-| Courses                                                                                                                                                                                                                                                    |   Status   |   Evidence   |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)                                                                                                                                                       |            |              |
-| [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) (more rigorous) or [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) (a more gentle introduction) |            |              |
-| [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)                                                          |            |              |
-| [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)                                                                                         |            |              |
-| [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)                                                                                                                                                                |            |              |
-| [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)                                                                                                                                        |            |              |
-| [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)                                                                                                       |            |              |
-| **Reading**                                                                                                                                                                                                                                                | **Status** | **Evidence** |
-| Official docs for [Angular](https://angular.io/docs), [React](https://reactjs.org/docs/getting-started.html), or [Vue](https://vuejs.org/v2/guide/)                                                                                                        |            |              |
-| [Jest Official Docs](https://jestjs.io/)                                                                                                                                                                                                                   |            |              |
-| [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)                                                                                                                                                             |            |              |
-| [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)                                                                                                                                                                                    |            |              |
-| [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)                                                                                                                           |            |              |
-| [Functional Light JS](https://github.com/getify/Functional-Light-JS)                                                                                                                                                                                       |            |              |
-| [Essential TypeScript](https://leanpub.com/essentialtypescript/read)                                                                                                                                                                                       |            |              |
-| **Practice**                                                                                                                                                                                                                                               | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/)                                                                                                                                                                             |            |              |
-| Write the CSS Necessary to create your own 12 column based grid layout - see [here](http://960.gs/) for an example                                                                                                                                         |            |              |
-| Study [The official Sass docs](https://sass-lang.com/) and convert your 12 column based grid layout to Sass                                                                                                                                                |            |              |
-| Complete All Tracks (Basic Programming, Data Structures, Algorithms, Math, Machine Learning, and Python) on [HackerEarth](https://www.hackerearth.com/practice/)                                                                                           |            |              |
-| Complete [Google Kick Start 2016](https://codingcompetitions.withgoogle.com/kickstart/archive/2016)                                                                                                                                                        |            |              |
-| Complete [Google Code Jam 2017](https://codingcompetitions.withgoogle.com/codejam/archive/2017)                                                                                                                                                            |            |              |
-| Complete [Meta Hacker Cup 2016](https://www.facebook.com/codingcompetitions/hacker-cup/2016)                                                                                                                                                               |            |              |
-| Tier Programming Project                                                                                                                                                                                                                                   |            |              |
-| Tier Programming Project                                                                                                                                                                                                                                   |            |              |
-| **Specialization**                                                                                                                                                                                                                                         | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization                                                      |            |              |
+You will notice that the resources listed here for React are not courses,YouTube playlists, or podcasts where other people teach you React. This section lists the official docs. This is because:
+- by this point you should be capable of, and consistently, "reading the docs"
+- React changes pretty regularly, tutorials won't be updated, the docs will.
+- The docs are actually fantastic and you will learn far more by diving in, as any course or tutorial would only show you bits and pieces, and to be an expert, you need a much bigger picture.
 
-<br><br>
+#### Instructions:
+- Thoroughly study each resource. Dive deep into the APIs and documentation after working through any tutorials and quickstarts.
+- Always be practicing. Ideas for practice:
+  - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free) in React
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
 
-## Advanced Developer
+  
+| Resource                                                                              | Status | Evidence |
+| :------------------------------------------------------------------------------------ | :----: | :------: |
+| [React](https://react.dev/learn)                                                      |        |          |
+| [Next.js React Foundations](https://nextjs.org/learn/react-foundations)               |        |          |
+| [Next.js Tutorial](https://nextjs.org/learn)                                          |        |          |
+| [Next.js](https://nextjs.org/docs)                                                    |        |          |
+| [Recoil](https://recoiljs.org/)                                                       |        |          |
+| [Redux](https://redux.js.org/)                                                        |        |          |
+| [TypeScript](https://www.typescriptlang.org/)                                         |        |          |
+| [WebPack](https://webpack.js.org/)                                                    |        |          |
+| [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) |        |          |
+| [Jest](https://jestjs.io/)                                                            |        |          |
+| [Storybook](https://storybook.js.org/)                                                |        |          |
 
-### Tier 4 - Polish the Rough Edges
+### Tier 5 - Focus Area - Angular
 
-Wrap up by taking a look at some specific areas of computing to complete a breadth of knowledge that can be leveraged regardless of specialty
+You will notice that the resources listed here for Angular are not courses, YouTube playlists, or podcasts where other people teach you Angular. This section lists the official docs. This is because:
+- by this point you should be capable of, and consistently, "reading the docs"
+- Angular changes pretty regularly, tutorials won't be updated, the docs will.
+- The docs are actually fantastic and you will learn far more by diving in, as any course or tutorial would only show you bits and pieces, and to be an expert, you need a much bigger picture.
 
-| Courses                                                                                                                                                                                               |   Status   |   Evidence   |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/index.htm)                                                  |            |              |
-| [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)                                                                                                  |            |              |
-| [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)                                                                                           |            |              |
-| [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)                                                                                          |            |              |
-| [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)                                                 |            |              |
-| [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)                   |            |              |
-| [Mining Massive Datasets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets)                                                                                       |            |              |
-| [Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers)                                                                                                               |            |              |
-| **Reading**                                                                                                                                                                                           | **Status** | **Evidence** |
-| [How to Design Programs](https://htdp.org/)                                                                                                                                                           |            |              |
-| [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)                                                                              |            |              |
-| [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)                                                                                                        |            |              |
-| [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)                                                                                              |            |              |
-| [Node.js Docs](https://nodejs.org/en/docs/)                                                                                                                                                           |            |              |
-| **Practice**                                                                                                                                                                                          | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/)                                                                                                                   |            |              |
-| Study [The Google Android Developer Guide](https://developer.android.com/guide) and build the Android App of your choice                                                                              |            |              |
-| Complete [Google Kick Start 2015](https://codingcompetitions.withgoogle.com/kickstart/archive/2015)                                                                                                   |            |              |
-| Complete [Google Code Jam 2016](https://codingcompetitions.withgoogle.com/codejam/archive/2016)                                                                                                       |            |              |
-| Complete [Meta Hacker Cup 2015](https://www.facebook.com/codingcompetitions/hacker-cup/2015)                                                                                                          |            |              |
-| Tier Programming Project                                                                                                                                                                              |            |              |
-| Tier Programming Project                                                                                                                                                                              |            |              |
-| **Specialization**                                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization |            |              |
+#### Instructions:
+- Thoroughly study each resource. Dive deep into the APIs and documentation after working through any tutorials and quickstarts.
+- Always be practicing. Ideas for practice:
+  - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free) in Angular
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+  
+| Resource                                                  | Status | Evidence |
+| :-------------------------------------------------------- | :----: | :------: |
+| [TypeScript](https://www.typescriptlang.org/)             |        |          |
+| [Angular](https://angular.dev/overview)                   |        |          |
+| [NGRX](https://ngrx.io/)                                  |        |          |
+| [Nx](https://nx.dev/)                                     |        |          |
+| [Jasmine](https://jasmine.github.io/)                     |        |          |
+| [Karma](https://karma-runner.github.io/latest/index.html) |        |          |
+| [Storybook](https://storybook.js.org/)                    |        |          |
+| [Angular Material](https://material.angular.io/)          |        |          |
 
-### Tier 5 - Specialize
+### Tier 5 - Focus Area - Mathematics
 
-Wrap up by diving more deeply into your specialization(s). If you haven't already done an [Advanced Specialization](#advanced-specializations), strongly consider including it in this tier. Beyond that, feel free to laser focus on one specialization, practicing more in that area, or branch out and develop expertise across multiple specializations.
+Note: For this Focus Area, feel free to dive into it in its entirety, or just do a course or two here and there to supplement one of the other focus areas. You will notice that if you start working through the Computer Science Focus Area, from time to time, one of the Mathematics courses from this Focus Area will be listed as a pre-requisite.
+| Courses                                                                                                                               | Status | Evidence |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :----: | :------: |
+| [Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)                                   |        |          |
+| [Mathematics for Computer Science ](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)                    |        |          |
+| [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)                                       |        |          |
+| [Introduction to Probability and Statistics ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about) |        |          |
+| [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)                                       |        |          |
+| [Linear Algebra](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)                                      |        |          |
+                                                                                                      
 
-| **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+### Tier 5 - Focus Area - Computer Science
+
+Note: This focus area dives a bit deeper into nitty-gritty computer science topics. Feel free to jump around and take whichever courses sound most interesting to you. (Structure and Interpretation of Computer Programs is one of my favorites.) You will, at times, find that a course has a mathematics course pre-requisite - those courses may be found in the Mathematics Focus Area above.
+| Courses                                                                                                                                                                             | Status | Evidence |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)              |        |          |
+| [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)                    |        |          |
+| [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)                               |        |          |
+| [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)                                                                             |        |          |
+| [Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/)                                                                                       |        |          |
+| [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)                     |        |          |
+| [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)                                                              |        |          |
+| [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)                                  |        |          |
+| [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)                                |        |          |
+| [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) |        |          |
+| [Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers)                                                                                                               |        |          |
+

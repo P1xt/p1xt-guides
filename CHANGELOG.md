@@ -2,6 +2,9 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**November 11, 2024**
+Updated to Version 5 - this was a substantial update that reflected significant changes in the open source resources available to learners. Since v4, a/A Online has stopped being updated, Google Code Jam (and other competitions) are not available, and several other resources have become far more robust. You can still find v4 in the [v4](./v4/) directory, however, it is no longer maintained and I would recommend migrating to v5 as the available resources are more current and reflect newer content.
+
 **September 1, 2020**
 Add CS50's AI course. Add Odin Project Full Stack JavaScript. General cleanup.
 
