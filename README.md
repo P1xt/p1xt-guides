@@ -10,7 +10,7 @@ Before you start, please let me introduce a bit of my philosophy for learning ho
 - always help others when you can 
 - include learning some math
 
-Programming, software engineering, web development, whatever you want to call it, however, you want to approach it, has one immutable characteristic - it's a field in flux, and there are new advances every day - don't let this discourage you, but do let it instill in you an excitement for **learning**. Learning new technologies should be an exciting opportunity for growth, not a disappointing drudgery. Start, from day one, with a celebratory mindset about learning new things - that mindset will skyrocket your progress.
+Programming, software engineering, web development, whatever you want to call it, however you want to approach it, has one immutable characteristic - it's a field in flux, and there are new advances every day - don't let this discourage you, but do let it instill in you an excitement for **learning**. Learning new technologies should be an exciting opportunity for growth, not a disappointing drudgery. Start, from day one, with a celebratory mindset about learning new things - that mindset will skyrocket your progress.
 
 You’ll learn a lot from taking courses. You’ll learn a lot from watching videos. You’ll learn a lot from “reading the docs.” All of these are important, in fact crucial, on your path. If you want to retain all that great learning, you need to **practice** it. Practice will transform something you've been exposed to into something you can “reliably do.” Lean heavily into practicing.
 
@@ -184,7 +184,7 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 - Proceed through the courses in order
 - Always be practicing. Ideas for practice:
   - Challenges on [CodinGame](https://www.codingame.com/training) in the language of your choice
-  - Challenges on [LeetCode](https://leetcode.com) in the language of your choice (there's a lot on LeetCode, the [Top Interview 150](https://leetcode.com) is a good place to focus)
+  - Challenges on [LeetCode](https://leetcode.com) in the language of your choice (there's a lot on LeetCode, the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) is a good place to focus)
   - Challenges on [HackerRank](https://www.hackerrank.com/dashboard) in the language of your choice
   - Start creating a [Resume / CV](https://www.hackerrank.com/resume)
   - Math progression on [Khan Academy](https://www.khanacademy.org/math)
