@@ -8,13 +8,32 @@ Please take a moment to read the [notes](#notes) at the bottom of the page. They
 
 <!-- TOC start  -->
 ## Table of Contents
-- [P1xt Guides - Version 5.0](#p1xt-guides-version-50)
-   * [Tier 1 - Web Development Foundation](#tier-1-web-development-foundation)
-   * [Tier 2 - Practice](#tier-2-practice)
-   * [Tier 3 - Interview Prep](#tier-3-interview-prep)
-   * [Tier 4 - Develop a Portfolio](#tier-4-develop-a-portfolio)
-   * [Tier 5 - Dive Deeper](#tier-5-dive-deeper)
-- [Notes](#notes) 
+- [P1xt Guides - Version 5.0](#p1xt-guides---version-50)
+  - [Table of Contents](#table-of-contents)
+  - [Tier 1 - Web Development Foundation](#tier-1---web-development-foundation)
+    - [Goal](#goal)
+    - [Instructions:](#instructions)
+  - [Tier 2 - Practice](#tier-2---practice)
+    - [Goal](#goal-1)
+    - [Tier 2 - Option 1 -  JavaScript via Bootcamps](#tier-2---option-1----javascript-via-bootcamps)
+      - [Instructions:](#instructions-1)
+    - [Tier 2 - Option 2 - Computer Science focus](#tier-2---option-2---computer-science-focus)
+      - [Instructions:](#instructions-2)
+    - [Tier 2 - Option 3 - Java Deep Dive](#tier-2---option-3---java-deep-dive)
+      - [Instructions:](#instructions-3)
+  - [Tier 3 - Interview Prep](#tier-3---interview-prep)
+  - [Tier 4 - Develop a Portfolio](#tier-4---develop-a-portfolio)
+    - [Goal](#goal-2)
+    - [Instructions:](#instructions-4)
+  - [Tier 5 - Dive Deeper](#tier-5---dive-deeper)
+    - [Goal](#goal-3)
+    - [Tier 5 - Focus Area - React](#tier-5---focus-area---react)
+      - [Instructions:](#instructions-5)
+    - [Tier 5 - Focus Area - Angular](#tier-5---focus-area---angular)
+      - [Instructions:](#instructions-6)
+    - [Tier 5 - Focus Area - Mathematics](#tier-5---focus-area---mathematics)
+    - [Tier 5 - Focus Area - Computer Science](#tier-5---focus-area---computer-science)
+  - [Notes](#notes)
 
 <!-- TOC end -->
 
@@ -25,32 +44,40 @@ Please take a moment to read the [notes](#notes) at the bottom of the page. They
 The goal of Tier 1 is to gain a robust foundational knowledge of web development and become confident at coding beginner to intermediate-level web projects. It should provide a stepping stone for branching into other facets of development or for diving deeper into more advanced web development.
 
 ### Instructions:
-- Proceed through the courses in order
-- Always be practicing. Ideas for practice:
-  - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free)
-  - Challenges on [CodinGame](https://www.codingame.com/training) in JavaScript
-  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
-- Take time to read from the reading list
+- Proceed through the courses and projects in order.
+- When you begin working on the Frontend Mentor projects, sign up for their discord and engage with the community. Help others when you can.
+- Include mathematics in your studies if possible. There is a General Mathematics Progression at the bottom of the [Notes](#notes) below to guide you to whatever course in the sequence is appropriate for your level.
+- Leverage the reading material listed for this Tier while completing the projects. It covers the materials from the courses in much greater depth and will help a lot. You should be familiar with both reading it and using it as a reference when you have questions by the end of the Tier.
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
   
-| Courses                                                                                                       | Status | Evidence |
-| :------------------------------------------------------------------------------------------------------------ | :----: | :------: |
-| [Comprehensive Introduction to HTML for Beginners](https://learn.codesignal.com/preview/course-paths/50)      |        |          |
-| [Comprehensive Introduction to Front-End Engineering](https://learn.codesignal.com/preview/course-paths/12)   |        |          |
-| [JavaScript Programming for Beginners](https://learn.codesignal.com/preview/course-paths/7)                   |        |          |
-| [Build a Space Travel Website with Frontend Mentor](https://v2.scrimba.com/build-a-space-travel-website-c014) |        |          |
-| [Building an Application End-to-End in JavaScript](https://learn.codesignal.com/preview/course-paths/76)      |        |          |
-| [Building Beautiful Websites with Bootstrap](https://learn.codesignal.com/preview/course-paths/72)            |        |          |
-| [Introduction to TypeScript for Beginners](https://learn.codesignal.com/preview/course-paths/23)              |        |          |
-| [Front-End Engineering with React](https://learn.codesignal.com/preview/course-paths/13)                      |        |          |
-| [Full-Stack Engineering with JavaScript](https://learn.codesignal.com/preview/course-paths/14)                |        |          |
-| [Learn TypeScript](https://v2.scrimba.com/learn-typescript-c03c)                                              |        |          |
-| [Comprehensive Intro to GraphQL in TypeScript](https://learn.codesignal.com/preview/course-paths/60)          |        |          |
-| [Dive Into Back-End Engineering with Express.js](https://learn.codesignal.com/preview/course-paths/84)        |        |          |
-| [Learning and Mastering Redis with Node.js](https://learn.codesignal.com/preview/course-paths/82)             |        |          |
-| [Implementing ToDo App with NestJS](https://learn.codesignal.com/preview/course-paths/104)                    |        |          |
-| [Drive and Motivation Theory in Practice](https://learn.codesignal.com/preview/course-paths/61)               |        |          |
-| [Introduction to Clean Code](https://v2.scrimba.com/introduction-to-clean-code-c025)                          |        |          |
+| Activity                                                                                                                                                                     | Status | Evidence |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [Course: HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)                                                                                         |        |          |
+| [ Course: Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                           |        |          |
+| [ Course: Learn CSS Grid](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                          |        |          |
+| [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
+| [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |        |          |
+| [Project: NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)                                                         |        |          |
+| [Project: Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)                                                               |        |          |
+| [Project: Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                                |        |          |
+| [Project: Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)                                                     |        |          |
+| [Project: Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)                                                          |        |          |
+| [Project: Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)                                                                                      |        |          |
+| [Project: 3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)                                                |        |          |
+| [Project: Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)                                        |        |          |
+| [Project: Huddle landing page with a single introductory section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) |        |          |
+| [Project: Four card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)                                                            |        |          |
+| [Project: Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)                                                                     |        |          |
+| [Course: Build a Space Travel Website with Frontend Mentor](https://v2.scrimba.com/build-a-space-travel-website-c014)                                                        |        |          |
+| [Course: Learn JavaScript](https://v2.scrimba.com/learn-javascript-c0v)                                                                                                      |        |          |
+| [Course: Introduction to ES6+](https://v2.scrimba.com/introduction-to-es6-c0t)                                                                                               |        |          |
+| [Project: FAQ Accordion](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)                                                                                  |        |          |
+| [Project: Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)                                                     |        |          |
+| [Project: Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)                                                           |        |          |
+| [Project: Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)                                    |        |          |
+| [Project: Intro component with sign-up form](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)                             |        |          |
+| [Project: Ping single column coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)                        |        |          |
+| [Course: Learn TypeScript](https://v2.scrimba.com/learn-typescript-c03c)                                                                                                     |        |          |
 
 | Reading                                                                   | Status | Evidence |
 | :------------------------------------------------------------------------ | :----: | :------: |
@@ -146,8 +173,8 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 
 <!-- TOC --><a name="tier-3-interview-prep"></a>
 ## Tier 3 - Interview Prep
-
-### Goal
+*Tier 3 is currently being revised*
+<!-- ### Goal
 The goal of Tier 3 is to gain skills that will serve you well as you begin a job search. Both soft skills and technical skills which will help you interview and work well on teams should be your target in this tier. You will have the option to select a programming language for practicing technical interview skills.
 
 ### Instructions:
@@ -218,7 +245,7 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 
 | Reading                                                           | Status | Evidence |
 | :---------------------------------------------------------------- | :----: | :------: |
-| [The Algorithms - Java](https://the-algorithms.com/language/java) |        |          |
+| [The Algorithms - Java](https://the-algorithms.com/language/java) |        |          | --> |
 
 <!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
 ## Tier 4 - Develop a Portfolio
@@ -367,3 +394,26 @@ Yeah, yeah, yeah, you can find a billion people on the internet who will tell yo
 - As soon as you know one thing, help anyone struggling with that one thing. Add to the list of things you help others with as you learn more things. You aren't just helping others, you are helping yourself. You are learning "the thing" more deeply and you are practicing communicationg about technical things. This is a skill you want to be practicing your entire journey, not trying to figure out the day before an interview.
 - You are not special because you know more than someone else. Treat others with dignity and respect. Be humble. No matter how much you've learned, you don't know everything. Lead with kindness, it'll serve you well.
 - If you want practice with git, and don't have a project in mind, take your notes in markdown and save the `.md` files in a github (or gitlab) repository of your notes. You'll get practice with git and get practice with markdown. It's a twofer.
+
+---
+
+<!-- TOC --><a name="general-math-progression"></a>
+**General math progression**
+
+Note: As I said above, don't stress about math. Should you desire to leverage a greater understanding of math to improve your logical problem solving ability, the following sequence will serve you well. Please feel free to skip (or test out of) any topics you already know well.
+
+| Courses                                                                               | Status | Evidence |
+| :------------------------------------------------------------------------------------ | :----: | :------: |
+| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |        |          |
+| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |        |          |
+| [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |          |
+| [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |          |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |        |          |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |        |          |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |        |          |
+| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |        |          |
+| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |        |          |
+| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |        |          |
+| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |        |          |
+| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |        |          |
+| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |        |          |
