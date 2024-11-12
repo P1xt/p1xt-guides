@@ -47,7 +47,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 - Proceed through the courses and projects in order.
 - When you begin working on the Frontend Mentor projects, sign up for their discord and engage with the community. Help others when you can.
 - Include mathematics in your studies if possible. There is a General Mathematics Progression at the bottom of the [Notes](#notes) below to guide you to whatever course in the sequence is appropriate for your level.
-- Leverage the reading material listed for this Tier while completing the projects. It covers the materials from the courses in much greater depth and will help a lot. You should be familiar with both reading it and using it as a reference when you have questions by the end of the Tier.
+- Leverage the reading material listed for this tier while completing the projects. It covers the materials from the courses in much greater depth and will help a lot. You should be familiar with both reading it and using it as a reference when you have questions by the end of the tier.
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
   
 | Activity                                                                                                                                                                     | Status | Evidence |
@@ -103,8 +103,8 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 - Always be practicing. Ideas for practice:
   - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free)
   - Challenges on [CodinGame](https://www.codingame.com/training) in JavaScript
-  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
   - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+- Include mathematics in your studies if possible. There is a General Mathematics Progression at the bottom of the [Notes](#notes) below to guide you to whatever course in the sequence is appropriate for your level.
 - Take time to read from the reading list
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
   
