@@ -1,5 +1,18 @@
 
 
+V6 will be coming in December 2024. Please read https://github.com/P1xt/p1xt-guides/issues/208#issuecomment-2470295618 for recommendations on productive things you can be doing right now to be learning before I release V6. If you don't want to read that, everything currently listed in V5 below will be a productive use of your time. Yes, I know that Tier 3 is currently empty. V6 will correct that.
+
+My goals:
+- every resource must be free, so no learner is excluded
+- every resource must be an excellent use of your time
+
+The only reason I make this guide is to save you the time, headaches, and heartache of wasting time on resources that are inefficient and not respectful of the value of your time. Your time is your most valuable asset, and my only goal here is to point you to where it might be best used to get you where you want to be without falling into the rabbit holes of time wasting inefficient resources.
+
+Best to you all,
+There WILL be a monumental update in December 2024,
+Don't sleep on learning math,
+P1xt
+
 <!-- TOC --><a name="p1xt-guides-version-50"></a>
 # P1xt Guides - Version 5.0
 
