@@ -1,27 +1,13 @@
 
-
-V6 will be coming in December 2024. Please read https://github.com/P1xt/p1xt-guides/issues/208#issuecomment-2470295618 for recommendations on productive things you can be doing right now to be learning before I release V6. If you don't want to read that, everything currently listed in V5 below will be a productive use of your time. Yes, I know that Tier 3 is currently empty. V6 will correct that.
-
-My goals:
-- every resource must be free, so no learner is excluded
-- every resource must be an excellent use of your time
-
-The only reason I make this guide is to save you the time, headaches, and heartache of wasting time on resources that are inefficient and not respectful of the value of your time. Your time is your most valuable asset, and my only goal here is to point you to where it might be best used to get you where you want to be without falling into the rabbit holes of time wasting inefficient resources.
-
-Best to you all,
-There WILL be a monumental update in December 2024,
-Don't sleep on learning math,
-P1xt
-
-<!-- TOC --><a name="p1xt-guides-version-50"></a>
-# P1xt Guides - Version 5.0
+<!-- TOC --><a name="p1xt-guides-version-60"></a>
+# P1xt Guides - Version 6.0
 
 Please take a moment to read the [notes](#notes) at the bottom of the page. They explain some of my philosophy of learning and contain some suggestions and tips which might help you make the most of your learning journey (particularly as it relates to the resources contained here.)
 
 
 <!-- TOC start  -->
 ## Table of Contents
-- [P1xt Guides - Version 5.0](#p1xt-guides---version-50)
+- [P1xt Guides - Version 6.0](#p1xt-guides---version-60)
   - [Table of Contents](#table-of-contents)
   - [Tier 1 - Web Development Foundation](#tier-1---web-development-foundation)
     - [Goal](#goal)
@@ -32,14 +18,14 @@ Please take a moment to read the [notes](#notes) at the bottom of the page. They
       - [Instructions:](#instructions-1)
     - [Tier 2 - Option 2 - Computer Science focus](#tier-2---option-2---computer-science-focus)
       - [Instructions:](#instructions-2)
-    - [Tier 2 - Option 3 - Java Deep Dive](#tier-2---option-3---java-deep-dive)
-      - [Instructions:](#instructions-3)
   - [Tier 3 - Interview Prep](#tier-3---interview-prep)
-  - [Tier 4 - Develop a Portfolio](#tier-4---develop-a-portfolio)
     - [Goal](#goal-2)
+    - [Instructions:](#instructions-3)
+  - [Tier 4 - Develop a Portfolio](#tier-4---develop-a-portfolio)
+    - [Goal](#goal-3)
     - [Instructions:](#instructions-4)
   - [Tier 5 - Dive Deeper](#tier-5---dive-deeper)
-    - [Goal](#goal-3)
+    - [Goal](#goal-4)
     - [Tier 5 - Focus Area - React](#tier-5---focus-area---react)
       - [Instructions:](#instructions-5)
     - [Tier 5 - Focus Area - Angular](#tier-5---focus-area---angular)
@@ -161,103 +147,39 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 | [Python](https://docs.python.org/3/)                     |        |          |
 | [SQLBolt](https://sqlbolt.com/)                          |        |          |
 
-### Tier 2 - Option 3 - Java Deep Dive
 
-#### Instructions:
+
+<!-- TOC --><a name="tier-3-interview-prep"></a>
+## Tier 3 - Interview Prep
+
+### Goal
+The goal of Tier 3 is to gain skills that will serve you well as you begin a job search. This tier dives deep into data structures and algorithms which will not only help in interviews but will also teach you to create efficient code that will work well on the job. The programming language used for this tier is Java and that choice is intentional as familiarity with a more structured language will inform how you program in whichever language you might be using in the future. 
+
+### Instructions:
 - Proceed through the courses in order
 - Always be practicing. Ideas for practice:
-  - Challenges on [CodinGame](https://www.codingame.com/training) in Java
-  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
+  - Challenges on [CodinGame](https://www.codingame.com/training) in Java. Note that, for the first time, CodinGame also shows up in the activities below. You should aim to have finished 100 challenges on CodinGame from a mix of difficulty levels before completing this tier.
+  - Math progression on [Khan Academy](https://www.khanacademy.org/math). This is the tier where you'll really notice it if you haven't been building up your math skill - often, understanding an algorithm is more about understanding how it works logically (mathematically) than knowing how to program it.
   - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
 - Take time to read from the reading list
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
     
-| Courses                                                                                                                                                                                                    | Status | Evidence |
+| Activity                                                                                                                                                                                                   | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         |        |          |
 | [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)                                                                                         |        |          |
 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                                                                                                      |        |          |
 | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     |        |          |
 | [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
-
-| Reading                                                | Status | Evidence |
-| :----------------------------------------------------- | :----: | :------: |
-| [Oracle's Java Documentation](https://dev.java/learn/) |        |          |
-
-<!-- TOC --><a name="tier-3-interview-prep"></a>
-## Tier 3 - Interview Prep
-*Tier 3 is currently being revised*
-<!-- ### Goal
-The goal of Tier 3 is to gain skills that will serve you well as you begin a job search. Both soft skills and technical skills which will help you interview and work well on teams should be your target in this tier. You will have the option to select a programming language for practicing technical interview skills.
-
-### Instructions:
-- Proceed through the courses in order
-- Always be practicing. Ideas for practice:
-  - Challenges on [CodinGame](https://www.codingame.com/training) in the language of your choice
-  - Challenges on [LeetCode](https://leetcode.com) in the language of your choice (there's a lot on LeetCode, the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) is a good place to focus)
-  - Challenges on [HackerRank](https://www.hackerrank.com/dashboard) in the language of your choice
-  - Start creating a [Resume / CV](https://www.hackerrank.com/resume)
-  - Math progression on [Khan Academy](https://www.khanacademy.org/math)
-  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
-- Take time to read from the reading list
-- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
-
-### Soft Skills for interviewing and the workplace
-| Courses                                                                                                             | Status | Evidence |
-| :------------------------------------------------------------------------------------------------------------------ | :----: | :------: |
-| [Behavioral Interview Practice for Computer Science Students](https://learn.codesignal.com/preview/course-paths/65) |        |          |
-| [How to Win Friends & Influence People in Practice](https://learn.codesignal.com/preview/course-paths/70)           |        |          |
-| [Leading High-Impact Engineering Teams](https://learn.codesignal.com/preview/course-paths/69)                       |        |          |
-| [Running Effective 1-1 Meetings for Engineering Managers](https://learn.codesignal.com/preview/course-paths/67)     |        |          |
-| [Overcoming The Five Team Dysfunctions Through Practice](https://learn.codesignal.com/preview/course-paths/86)      |        |          |
-
-### Miscelaneous "Things you should just know"
-| Courses                                                                     | Status | Evidence |
-| :-------------------------------------------------------------------------- | :----: | :------: |
-| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |        |          |
-
-
-**Pick one of the three paths below:**
-
-### Tier 3 - Option 1 - JavaScript Focus
-| Courses                                                                                                             | Status | Evidence |
-| :------------------------------------------------------------------------------------------------------------------ | :----: | :------: |
-| [Mastering Algorithms and Data Structures in JavaScript](https://learn.codesignal.com/preview/course-paths/10)      |        |          |
-| [Fundamental Coding Interview Preparation with JavaScript](https://learn.codesignal.com/preview/course-paths/80)    |        |          |
-| [Four-Week Coding Interview Prep in JavaScript](https://learn.codesignal.com/preview/course-paths/97)               |        |          |
-| [Advanced Coding Interview Preparation with JavaScript](https://learn.codesignal.com/preview/course-paths/89)       |        |          |
-| [Coding Interview Prep for Senior Engineers in JavaScript](https://learn.codesignal.com/preview/course-paths/102)   |        |          |
-| [Advanced Interview Prep for Senior Engineers in JavaScript](https://learn.codesignal.com/preview/course-paths/101) |        |          |
-
-| Reading                                                                       | Status | Evidence |
-| :---------------------------------------------------------------------------- | :----: | :------: |
-| [The Algorithms - JavaScript](https://the-algorithms.com/language/javascript) |        |          |
-
-### Tier 3 - Option 2 - Python Focus
-| Courses                                                                                                        | Status | Evidence |
-| :------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Mastering Algorithms and Data Structures in Python](https://learn.codesignal.com/preview/course-paths/5)      |        |          |
-| [Fundamental Coding Interview Preparation with Python](https://learn.codesignal.com/preview/course-paths/19)   |        |          |
-| [Four-Week Coding Interview Prep in Python](https://learn.codesignal.com/preview/course-paths/51)              |        |          |
-| [Advanced Coding Interview Preparation with Python](https://learn.codesignal.com/preview/course-paths/20)      |        |          |
-| [Coding Interview Prep for Senior Engineers in Python](https://learn.codesignal.com/preview/course-paths/33)   |        |          |
-| [Advanced Interview Prep for Senior Engineers in Python](https://learn.codesignal.com/preview/course-paths/28) |        |          |
-
-| Reading                                                            | Status | Evidence |
-| :----------------------------------------------------------------- | :----: | :------: |
-| [The Algorithms - Python](https://thealgorithms.github.io/Python/) |        |          |
-
-### Tier 3 - Option 3 - Java Focus
-| Courses                                                                                                      | Status | Evidence |
-| :----------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Mastering Algorithms and Data Structures in Java](https://learn.codesignal.com/preview/course-paths/9)      |        |          |
-| [Fundamental Coding Interview Preparation with Java](https://learn.codesignal.com/preview/course-paths/66)   |        |          |
-| [Four-Week Coding Interview Prep in Java](https://learn.codesignal.com/preview/course-paths/100)             |        |          |
-| [Advanced Coding Interview Preparation with Java](https://learn.codesignal.com/preview/course-paths/73)      |        |          |
-| [Advanced Interview Prep for Senior Engineers in Java](https://learn.codesignal.com/preview/course-paths/93) |        |          |
+| [Exercism Java](https://exercism.org/tracks/java)                                                                                                                                                          |        |          |
+| [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |        |          |
+| [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |        |          |
+| [100 Challenges on CodinGame](https://www.codingame.com/training)                                                                                                                                          |        |          |
 
 | Reading                                                           | Status | Evidence |
 | :---------------------------------------------------------------- | :----: | :------: |
+| [Think Java](https://greenteapress.com/thinkjava7/html/)          |        |          |
+| [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
 | [The Algorithms - Java](https://the-algorithms.com/language/java) |        |          | --> |
 
 <!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
