@@ -196,6 +196,7 @@ The goal of Tier 4 is to polish a portfolio of your best work.
 - Ensure that you've adhered to good coding practices
 - Ensure that your projects are clean and free from errors
 - Aim for between 5 and 10 projects and ensure at least two projects are substantial in size and scope
+- If you intend to dive deeper into React or Angular in Tier 5, you may choose to include a few less projects at this point, knowing that you will be adding a few more in that tier.
 - If you need project ideas, ask ChatGPT using very specific prompts for project ideas of the scope you need and using the skills and technologies you'd like to highlight
   
 <!-- TOC --><a name="tier-5-dive-deeper"></a>
