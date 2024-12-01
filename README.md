@@ -219,7 +219,7 @@ You will notice that the resources listed here for React are not courses,YouTube
   - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free) in React
   - Math progression on [Khan Academy](https://www.khanacademy.org/math)
   - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md)
-  - Complete four significantly complex practice projects in React before moving to the next tier, you will want them for your portfolio so make sure they demonstrate the best of your abilities. (Ask ChatGPT for project ideas if you don't have specific projects in mind that you'd like to focus on.)
+  - Complete four significantly complex practice projects in React. You will want them for your portfolio so make sure they demonstrate the best of your abilities. (Ask ChatGPT for project ideas if you don't have specific projects in mind that you'd like to focus on.)
 
   
 | Resource                                                                              | Status | Evidence |
@@ -249,7 +249,7 @@ You will notice that the resources listed here for Angular are not courses, YouT
   - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free) in Angular
   - Math progression on [Khan Academy](https://www.khanacademy.org/math)
   - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md)
-  - Complete four significantly complex practice projects in Angular before moving to the next tier, you will want them for your portfolio so make sure they demonstrate the best of your abilities. (Ask ChatGPT for project ideas if you don't have specific projects in mind that you'd like to focus on.)
+  - Complete four significantly complex practice projects in Angular. You will want them for your portfolio so make sure they demonstrate the best of your abilities. (Ask ChatGPT for project ideas if you don't have specific projects in mind that you'd like to focus on.)
   
 | Resource                                                  | Status | Evidence |
 | :-------------------------------------------------------- | :----: | :------: |
