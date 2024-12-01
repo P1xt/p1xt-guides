@@ -91,9 +91,9 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 ## Tier 2 - Practice
 
 ### Goal
-The goal of Tier 2 is to gain substantial hands-on programming practice. You have three options for selecting where you'd prefer to dedicate that practice.
+The goal of Tier 2 is to gain substantial hands-on programming practice. You have two options for selecting where you'd prefer to dedicate that practice.
 
-**Pick one of the three paths below:**
+**Pick one of the two paths below:**
 
 ### Tier 2 - Option 1 -  JavaScript via Bootcamps
 
