@@ -218,7 +218,8 @@ You will notice that the resources listed here for React are not courses,YouTube
 - Always be practicing. Ideas for practice:
   - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free) in React
   - Math progression on [Khan Academy](https://www.khanacademy.org/math)
-  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md)
+  - Complete four significantly complex practice projects in React before moving to the next tier, you will want them for your portfolio so make sure they demonstrate the best of your abilities. (Ask ChatGPT for project ideas if you don't have specific projects in mind that you'd like to focus on.)
 
   
 | Resource                                                                              | Status | Evidence |
@@ -247,7 +248,8 @@ You will notice that the resources listed here for Angular are not courses, YouT
 - Always be practicing. Ideas for practice:
   - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free) in Angular
   - Math progression on [Khan Academy](https://www.khanacademy.org/math)
-  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
+  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md)
+  - Complete four significantly complex practice projects in Angular before moving to the next tier, you will want them for your portfolio so make sure they demonstrate the best of your abilities. (Ask ChatGPT for project ideas if you don't have specific projects in mind that you'd like to focus on.)
   
 | Resource                                                  | Status | Evidence |
 | :-------------------------------------------------------- | :----: | :------: |
@@ -315,18 +317,17 @@ Yeah, yeah, yeah, you can find a billion people on the internet who will tell yo
 - [Finch](https://finchcare.com/) - take care of yourself while communing with a sweet little birb
 
 **Curriculum advice**
-- You'll notice a fair number of CodeSignal courses in Tier 1. They are excellent and they are free. You should note though that their AI assistant is not "unlimited free" so do not rely on it too much unless you want to pay them a monthly fee.
 - Always have a practice project you're working on and something you're reading. This gives you productive stuff to do if you need a break from what you're learning.
 - Finish what you start, even if it's difficult. You'll learn perserverance (extremely valuable), develop confidence, and minimize the risk of getting stuck in a never-ending loop of just repeating beginner stuff while never really being able to do anything amazing.
 - If you're wondering what all the "Status" and "Evidence" columns are for, they're so that if you fork this repository, you can show when you begin and finish each item (in your fork) and link any projects you did in "Evidence" as a sort of journal for yourself so you can browse back over your journey (and possibly find projects for your eventual portfolio faster)
-- You'll notice a Khan Academy link in each tier, prompting you to practice mathematics there. Don't get too hung up on which math you "need". Instead focus on learning a bit more math than you already know. Pick whichever course is next in line for you, then when you finish that one, pick the next one. In general, you won't go wrong if you progress into algebra, geometry, trigonometry, statistics, pre-calculus, calculus, and discrete mathematics. But, don't stress on it, just practice some at the level you're at now - grow over time.
+- You'll notice a Khan Academy link in each tier, prompting you to practice mathematics there. Don't get too hung up on which math you "need". Instead focus on learning a bit more math than you already know. Pick whichever course is next in line for you, then when you finish that one, pick the next one. In general, you won't go wrong if you progress into algebra, geometry, trigonometry, statistics, pre-calculus, calculus, and discrete mathematics. But, don't stress on it, just practice some at the level you're at now - grow over time. Look at the bottom of this document for general mathematics progression.
   
 **General advice**
 - If you can't summon the willpower to do anything, decide "I'll do five minutes, that's enough for today." And, then, do 5 minutes. 5 minutes is more than 0 minutes and sometimes leads to ... more minutes ... or not, be ok with either.
-- Get enough sleep, everything is better if you've slept well.
+- Get enough sleep, everything is better if you've slept well. I'm serious about this part - if you're not well rested, you will learn more if you get a good night of sleep than if you try to push through a few more hours learning. You don't just learn while you're studying. While you're sleeping, your mind makes sense of all the stuff you've been learning. Sleep is an important part of the process.
 - Eat well. If your body and mind have the nutrients they need, they can do their jobs better.
 - Get some physical activity. You don't have to run a marathon (unless you're into that) but being physically active helps your body and your mind. Even if it's just a leisurely walk a time or two a day - be active. This will legit help you learn more.
-- As soon as you know one thing, help anyone struggling with that one thing. Add to the list of things you help others with as you learn more things. You aren't just helping others, you are helping yourself. You are learning "the thing" more deeply and you are practicing communicationg about technical things. This is a skill you want to be practicing your entire journey, not trying to figure out the day before an interview.
+- As soon as you know one thing, help anyone struggling with that one thing. Add to the list of things you help others with as you learn more things. You aren't just helping others, you are helping yourself. You are learning "the thing" more deeply and you are practicing communicationg about technical things. This is a skill you want to be practicing your entire journey, not trying to figure out the day before an interview. One way to do this is by joining the communication channels (like discord) for the various resources as you work through them. The Odin Project, especially, has a thriving community and you'd never be wanting for people to help there.
 - You are not special because you know more than someone else. Treat others with dignity and respect. Be humble. No matter how much you've learned, you don't know everything. Lead with kindness, it'll serve you well.
 - If you want practice with git, and don't have a project in mind, take your notes in markdown and save the `.md` files in a github (or gitlab) repository of your notes. You'll get practice with git and get practice with markdown. It's a twofer.
 
