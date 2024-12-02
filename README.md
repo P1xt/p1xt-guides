@@ -49,34 +49,34 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 - Leverage the reading material listed for this tier while completing the projects. It covers the materials from the courses in much greater depth and will help a lot. You should be familiar with both reading it and using it as a reference when you have questions by the end of the tier.
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
   
-| Activity                                                                                                                                                                     | Status | Evidence |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Course: HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)                                                                                         |        |          |
-| [ Course: Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                           |        |          |
-| [ Course: Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k)                                                                                                        |        |          |
-| [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
-| [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |        |          |
-| [Project: NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)                                                         |        |          |
-| [Project: Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)                                                               |        |          |
-| [Project: Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                                |        |          |
-| [Project: Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)                                                     |        |          |
-| [Project: Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)                                                          |        |          |
-| [Project: Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)                                                                                      |        |          |
-| [Project: 3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)                                                |        |          |
-| [Project: Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)                                        |        |          |
-| [Project: Huddle landing page with a single introductory section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) |        |          |
-| [Project: Four card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)                                                            |        |          |
-| [Project: Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)                                                                     |        |          |
-| [Course: Build a Space Travel Website with Frontend Mentor](https://v2.scrimba.com/build-a-space-travel-website-c014)                                                        |        |          |
-| [Course: Learn JavaScript](https://v2.scrimba.com/learn-javascript-c0v)                                                                                                      |        |          |
-| [Course: Introduction to ES6+](https://v2.scrimba.com/introduction-to-es6-c0t)                                                                                               |        |          |
-| [Project: FAQ Accordion](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)                                                                                  |        |          |
-| [Project: Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)                                                     |        |          |
-| [Project: Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)                                                           |        |          |
-| [Project: Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)                                    |        |          |
-| [Project: Intro component with sign-up form](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)                             |        |          |
-| [Project: Ping single column coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)                        |        |          |
-| [Course: Learn TypeScript](https://v2.scrimba.com/learn-typescript-c03c)                                                                                                     |        |          |
+| Activity                                                                                                                                                                     | Status    | Evidence                                                                                                             |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :------------------------------------------------------------------------------------------------------------------: |
+| [Course: HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)                                                                                         | Completed | [Notes](https://github.com/Sazid99246/web-development-notes/tree/main/Tier-1/1.%20HTML%20and%20CSS%20Crash%20Course) |
+| [Course: Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                            | Completed | [Notes](https://github.com/Sazid99246/web-development-notes/tree/main/Tier-1/2.%20Learn%20Flexbox)                   |
+| [Course: Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k)                                                                                                         | Completed |                                                                                                                      |
+| [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |           |                                                                                                                      |
+| [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |           |                                                                                                                      |
+| [Project: NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)                                                         |           |                                                                                                                      |
+| [Project: Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)                                                               |           |                                                                                                                      |
+| [Project: Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                                |           |                                                                                                                      |
+| [Project: Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)                                                     |           |                                                                                                                      |
+| [Project: Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)                                                          |           |                                                                                                                      |
+| [Project: Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)                                                                                      |           |                                                                                                                      |
+| [Project: 3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)                                                |           |                                                                                                                      |
+| [Project: Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)                                        |           |                                                                                                                      |
+| [Project: Huddle landing page with a single introductory section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) |           |                                                                                                                      |
+| [Project: Four card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)                                                            |           |                                                                                                                      |
+| [Project: Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)                                                                     |           |                                                                                                                      |
+| [Course: Build a Space Travel Website with Frontend Mentor](https://v2.scrimba.com/build-a-space-travel-website-c014)                                                        |           |                                                                                                                      |
+| [Course: Learn JavaScript](https://v2.scrimba.com/learn-javascript-c0v)                                                                                                      |           |                                                                                                                      |
+| [Course: Introduction to ES6+](https://v2.scrimba.com/introduction-to-es6-c0t)                                                                                               |           |                                                                                                                      |
+| [Project: FAQ Accordion](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)                                                                                  |           |                                                                                                                      |
+| [Project: Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)                                                     |           |                                                                                                                      |
+| [Project: Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)                                                           |           |                                                                                                                      |
+| [Project: Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)                                    |           |                                                                                                                      |
+| [Project: Intro component with sign-up form](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)                             |           |                                                                                                                      |
+| [Project: Ping single column coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)                        |           |                                                                                                                      |
+| [Course: Learn TypeScript](https://v2.scrimba.com/learn-typescript-c03c)                                                                                                     |           |                                                                                                                      |
 
 | Reading                                                                   | Status | Evidence |
 | :------------------------------------------------------------------------ | :----: | :------: |
@@ -341,16 +341,18 @@ Note: As I said above, don't stress about math. Should you desire to leverage a 
 
 | Courses                                                                               | Status | Evidence |
 | :------------------------------------------------------------------------------------ | :----: | :------: |
-| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |        |          |
-| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |        |          |
-| [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |          |
-| [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |        |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |        |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |        |          |
-| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |        |          |
-| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |        |          |
-| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |        |          |
-| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |        |          |
-| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |        |          |
-| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |        |          |
+| Courses                                                                               | Status      | Evidence                                   |
+| :------------------------------------------------------------------------------------ | :---------: | :----------------------------------------: |
+| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             | Completed   | [Evidence](images/arithmetic-progress.png) |
+| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           | In progress |                                            |
+| [Algebra I](https://www.khanacademy.org/math/algebra)                                 | In progress |                                            |
+| [Geometry](https://www.khanacademy.org/math/geometry)                                 |             |                                            |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |             |                                            |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |             |                                            |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |             |                                            |
+| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |             |                                            |
+| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |             |                                            |
+| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |             |                                            |
+| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |             |                                            |
+| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |             |                                            |
+| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |             |                                            |
