@@ -1,6 +1,6 @@
 
 <!-- TOC --><a name="p1xt-guides-version-60"></a>
-# P1xt Guides - Version 6.0
+# P1xt Guides - Version 6.1
 
 Please take a moment to read the [notes](#notes) at the bottom of the page. They explain some of my philosophy of learning and contain some suggestions and tips which might help you make the most of your learning journey (particularly as it relates to the resources contained here.)
 
@@ -14,7 +14,7 @@ Please take a moment to read the [notes](#notes) at the bottom of the page. They
     - [Instructions:](#instructions)
   - [Tier 2 - Practice](#tier-2---practice)
     - [Goal](#goal-1)
-    - [Tier 2 - Option 1 -  JavaScript via Bootcamps](#tier-2---option-1----javascript-via-bootcamps)
+    - [Tier 2 - Option 1 -  JavaScript via Bootcamp](#tier-2---option-1----javascript-via-bootcamp)
       - [Instructions:](#instructions-1)
     - [Tier 2 - Option 2 - Computer Science focus](#tier-2---option-2---computer-science-focus)
       - [Instructions:](#instructions-2)
@@ -43,7 +43,7 @@ Please take a moment to read the [notes](#notes) at the bottom of the page. They
 The goal of Tier 1 is to gain a robust foundational knowledge of web development and become confident at coding beginner to intermediate-level web projects. It should provide a stepping stone for branching into other facets of development or for diving deeper into more advanced web development.
 
 ### Instructions:
-- Proceed through the courses and projects in order.
+- Proceed through the projects alongside the Odin Project so that you are always practicing by building a project on Frontend Mentor while you progress through Odin.
 - When you begin working on the Frontend Mentor projects, sign up for their discord and engage with the community. Help others when you can.
 - Include mathematics in your studies if possible. There is a General Mathematics Progression at the bottom of the [Notes](#notes) below to guide you to whatever course in the sequence is appropriate for your level.
 - Leverage the reading material listed for this tier while completing the projects. It covers the materials from the courses in much greater depth and will help a lot. You should be familiar with both reading it and using it as a reference when you have questions by the end of the tier.
@@ -51,9 +51,8 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
   
 | Activity                                                                                                                                                                     | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Course: HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)                                                                                         |        |          |
-| [ Course: Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                           |        |          |
-| [ Course: Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k)                                                                                                        |        |          |
+| [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)                                                                         |        |          |
+| [The Odin Project Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)                                                                         |        |          |
 | [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
 | [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |        |          |
 | [Project: NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)                                                         |        |          |
@@ -67,16 +66,13 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | [Project: Huddle landing page with a single introductory section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) |        |          |
 | [Project: Four card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)                                                            |        |          |
 | [Project: Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)                                                                     |        |          |
-| [Course: Build a Space Travel Website with Frontend Mentor](https://v2.scrimba.com/build-a-space-travel-website-c014)                                                        |        |          |
-| [Course: Learn JavaScript](https://v2.scrimba.com/learn-javascript-c0v)                                                                                                      |        |          |
-| [Course: Introduction to ES6+](https://v2.scrimba.com/introduction-to-es6-c0t)                                                                                               |        |          |
 | [Project: FAQ Accordion](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)                                                                                  |        |          |
 | [Project: Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)                                                     |        |          |
 | [Project: Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)                                                           |        |          |
 | [Project: Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)                                    |        |          |
 | [Project: Intro component with sign-up form](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)                             |        |          |
 | [Project: Ping single column coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)                        |        |          |
-| [Course: Learn TypeScript](https://v2.scrimba.com/learn-typescript-c03c)                                                                                                     |        |          |
+
 
 | Reading                                                                   | Status | Evidence |
 | :------------------------------------------------------------------------ | :----: | :------: |
@@ -95,7 +91,7 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 
 **Pick one of the two paths below:**
 
-### Tier 2 - Option 1 -  JavaScript via Bootcamps
+### Tier 2 - Option 1 -  JavaScript via Bootcamp
 
 #### Instructions:
 - Proceed through the courses in order
@@ -109,8 +105,6 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
   
 | Courses                                                                                                                                                                                                          | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)                                                                                                             |        |          |
-| [The Odin Project Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)                                                                                                             |        |          |
 | [Full Stack Open](https://fullstackopen.com/en/)                                                                                                                                                                 |        |          |
 | [MongoDB Node.js Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
 
