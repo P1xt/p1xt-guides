@@ -7,7 +7,7 @@ Please take a moment to read the [notes](#notes) at the bottom of the page. They
 
 <!-- TOC start  -->
 ## Table of Contents
-- [P1xt Guides - Version 1.0](#p1xt-guides---version-61)
+- [P1xt Guides - Version 6.1](#p1xt-guides---version-61)
   - [Table of Contents](#table-of-contents)
   - [Tier 1 - Web Development Foundation](#tier-1---web-development-foundation)
     - [Goal](#goal)
