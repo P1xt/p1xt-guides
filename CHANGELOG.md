@@ -2,6 +2,9 @@
 
 Typically this will only list resource additions and deletions. The goal is always to minimize changes to the curriculum, so that someone following it isn't trying to 'hit a moving target'. However, from time to time, a resource becomes no longer available, and the curriculum will be modified to accommodate a replacement resource.
 
+**December 15, 2024**
+Updated to Version 6.1, streamlining Tier 1 to only focus on one main resource plus practice projects for greater clarity of purpose.
+
 **December 1, 2024**
 Updated to Version 6 - Unfortunately, in V5, I relied too heavily on CodeSignal as I believed it was a reasonable resource on the free tier but didn't realize that I wasn't hitting limits of the free tier as I had a pro subscription. I revamped to remove the CodeSignal reliance and shifted to other resources I'd identified while researching for the v5 update.
 
