@@ -174,7 +174,7 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 | :---------------------------------------------------------------- | :----: | :------: |
 | [Think Java](https://greenteapress.com/thinkjava7/html/)          |        |          |
 | [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
-| [The Algorithms - Java]([https://the-algorithms.com/language/java](https://github.com/TheAlgorithms/Java?tab=readme-ov-file)) |        |          | 
+| [The Algorithms: Java](https://github.com/TheAlgorithms/Java?tab=readme-ov-file) |        |          | 
 
 <!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
 ## Tier 4 - Develop a Portfolio
