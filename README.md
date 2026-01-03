@@ -130,7 +130,7 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 | Courses                                                                                                                                                                                                        | Status | Evidence |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                                                                 |        |          |
-| [CS50's Web Programming with Python and JavaScript ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                    |        |          |
+| [CS50's Web Programming with Python and JavaScript](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)                                                    |        |          |
 | [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)                                                                        |        |          |
 | [MongoDB Python  Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path) |        |          |
 
@@ -172,7 +172,7 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 
 | Reading                                                           | Status | Evidence |
 | :---------------------------------------------------------------- | :----: | :------: |
-| [Think Java](https://greenteapress.com/thinkjava7/html/)          |        |          |
+| [Think Java]([https://greenteapress.com/thinkjava7/html/](https://chrismayfield.github.io/ThinkJava2/))          |        |          |
 | [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
 | [The Algorithms: Java](https://github.com/TheAlgorithms/Java?tab=readme-ov-file) |        |          | 
 
